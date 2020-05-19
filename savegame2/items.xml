@@ -1,0 +1,1021 @@
+﻿<items>
+    <item className="SellingStationPlaceable" id="1" modName="FS19_NF_Marsch_4fach" filename="$moddir$FS19_NF_Marsch_4fach/maps/sellingStation/sellingStationTankstelleAral.xml" position="-208.2300 99.5500 -301.7000" rotation="0.0000 90.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="sellingStationTankeAral">
+        <sellingStation>
+            <stats fillType="DIESEL" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="21840646.000000">
+                <curveBaseCurve nominalAmplitude="0.117000" nominalAmplitudeVariation="0.087750" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.082833" period="82565192.000000" time="20641298.000000"/>
+                <curve1 nominalAmplitude="0.058500" nominalAmplitudeVariation="0.011700" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.060778" period="474838560.000000" time="460300256.000000"/>
+            </stats>
+        </sellingStation>
+    </item>
+    <item className="SellingStationPlaceable" id="2" modName="FS19_NF_Marsch_4fach" filename="$moddir$FS19_NF_Marsch_4fach/maps/sellingStation/sellingStationGetreidehandel.xml" position="269.9000 99.5700 -731.8500" rotation="0.0000 0.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="sellingStationGetreidehandel">
+        <sellingStation>
+            <stats fillType="WHEAT" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="29655902.000000">
+                <curveBaseCurve nominalAmplitude="0.067400" nominalAmplitudeVariation="0.050550" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.033719" period="69065928.000000" time="17266482.000000"/>
+                <curve1 nominalAmplitude="0.033700" nominalAmplitudeVariation="0.006740" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.026970" period="564520512.000000" time="89002776.000000"/>
+            </stats>
+            <stats fillType="BARLEY" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="3653887.500000">
+                <curveBaseCurve nominalAmplitude="0.063226" nominalAmplitudeVariation="0.047419" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.053460" period="72482808.000000" time="54362104.000000"/>
+                <curve1 nominalAmplitude="0.031613" nominalAmplitudeVariation="0.006323" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.027161" period="419456704.000000" time="97105976.000000"/>
+            </stats>
+            <stats fillType="OAT" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="24166566.000000">
+                <curveBaseCurve nominalAmplitude="0.112600" nominalAmplitudeVariation="0.084450" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.142402" period="79116568.000000" time="59337424.000000"/>
+                <curve1 nominalAmplitude="0.056300" nominalAmplitudeVariation="0.011260" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.067231" period="528631104.000000" time="97529480.000000"/>
+            </stats>
+            <stats fillType="CANOLA" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="10597914.000000">
+                <curveBaseCurve nominalAmplitude="0.120600" nominalAmplitudeVariation="0.090450" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.141505" period="78468672.000000" time="19617168.000000"/>
+                <curve1 nominalAmplitude="0.060300" nominalAmplitudeVariation="0.012060" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.052139" period="431419424.000000" time="190395632.000000"/>
+            </stats>
+            <stats fillType="SUNFLOWER" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="13152927.000000">
+                <curveBaseCurve nominalAmplitude="0.134600" nominalAmplitudeVariation="0.100950" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.055088" period="61065712.000000" time="15266428.000000"/>
+                <curve1 nominalAmplitude="0.067300" nominalAmplitudeVariation="0.013460" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.079453" period="426159776.000000" time="11713713.000000"/>
+            </stats>
+            <stats fillType="SOYBEAN" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="30557674.000000">
+                <curveBaseCurve nominalAmplitude="0.155600" nominalAmplitudeVariation="0.116700" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.112347" period="84897800.000000" time="63673352.000000"/>
+                <curve1 nominalAmplitude="0.077800" nominalAmplitudeVariation="0.015560" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.089770" period="540523520.000000" time="416696384.000000"/>
+            </stats>
+            <stats fillType="MAIZE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.076000" nominalAmplitudeVariation="0.057000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.032956" period="73563568.000000" time="59650100.000000"/>
+                <curve1 nominalAmplitude="0.038000" nominalAmplitudeVariation="0.007600" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.031498" period="510455840.000000" time="215023792.000000"/>
+            </stats>
+            <stats fillType="POTATO" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="46701964.000000">
+                <curveBaseCurve nominalAmplitude="0.034744" nominalAmplitudeVariation="0.026058" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.024433" period="75297704.000000" time="56473280.000000"/>
+                <curve1 nominalAmplitude="0.017372" nominalAmplitudeVariation="0.003474" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.018281" period="531504736.000000" time="112222992.000000"/>
+            </stats>
+            <stats fillType="SUGARBEET" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.024644" nominalAmplitudeVariation="0.018483" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.017175" period="90533224.000000" time="63510536.000000"/>
+                <curve1 nominalAmplitude="0.012322" nominalAmplitudeVariation="0.002464" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.012964" period="424280736.000000" time="404718016.000000"/>
+            </stats>
+            <stats fillType="SUGARCANE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="24629836.000000">
+                <curveBaseCurve nominalAmplitude="0.024038" nominalAmplitudeVariation="0.018028" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.010161" period="57204508.000000" time="14301127.000000"/>
+                <curve1 nominalAmplitude="0.012019" nominalAmplitudeVariation="0.002404" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.012967" period="566932736.000000" time="87187888.000000"/>
+            </stats>
+            <stats fillType="MILLET" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="28790100.000000">
+                <curveBaseCurve nominalAmplitude="0.065000" nominalAmplitudeVariation="0.048750" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.038188" period="68208848.000000" time="51156636.000000"/>
+                <curve1 nominalAmplitude="0.032500" nominalAmplitudeVariation="0.006500" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.035808" period="427338848.000000" time="67156104.000000"/>
+            </stats>
+            <stats fillType="POPPY" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="39803764.000000">
+                <curveBaseCurve nominalAmplitude="0.120000" nominalAmplitudeVariation="0.090000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.086227" period="47617468.000000" time="35713100.000000"/>
+                <curve1 nominalAmplitude="0.060000" nominalAmplitudeVariation="0.012000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.065416" period="465207488.000000" time="20357362.000000"/>
+            </stats>
+            <stats fillType="TRITICALE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.070000" nominalAmplitudeVariation="0.052500" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.026878" period="67606144.000000" time="60340000.000000"/>
+                <curve1 nominalAmplitude="0.035000" nominalAmplitudeVariation="0.007000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.033333" period="427120736.000000" time="233124880.000000"/>
+            </stats>
+            <stats fillType="SPELT" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.070000" nominalAmplitudeVariation="0.052500" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.027623" period="94967688.000000" time="62010792.000000"/>
+                <curve1 nominalAmplitude="0.035000" nominalAmplitudeVariation="0.007000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.039905" period="561891776.000000" time="130400080.000000"/>
+            </stats>
+        </sellingStation>
+    </item>
+    <item className="SiloPlaceable" id="3" filename="data/placeables/farmSilos/farmSiloSmall.xml" position="211.1189 100.0000 116.5658" rotation="0.0000 0.0000 0.0000" age="0" price="110000.000000" farmId="1">
+        <storage index="1" farmId="1">
+            <node fillType="WHEAT" fillLevel="11772.000000"/>
+            <node fillType="BARLEY" fillLevel="14266.000000"/>
+            <node fillType="OAT" fillLevel="12819.000000"/>
+            <node fillType="CANOLA" fillLevel="14665.000000"/>
+            <node fillType="SUNFLOWER" fillLevel="13668.000000"/>
+            <node fillType="SOYBEAN" fillLevel="13589.000000"/>
+            <node fillType="MAIZE" fillLevel="13619.000000"/>
+        </storage>
+    </item>
+    <item className="SellingStationPlaceable" id="4" modName="FS19_NF_Marsch_4fach" filename="$moddir$FS19_NF_Marsch_4fach/maps/sellingStation/sellingStationBales2.xml" position="-744.9260 100.4000 760.3940" rotation="0.0000 0.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="baleSellingStation">
+        <sellingStation>
+            <stats fillType="WOODCHIPS" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="17297980.000000">
+                <curveBaseCurve nominalAmplitude="0.019200" nominalAmplitudeVariation="0.014400" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.012053" period="74599264.000000" time="55949452.000000"/>
+                <curve1 nominalAmplitude="0.009600" nominalAmplitudeVariation="0.001920" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.007733" period="532754592.000000" time="488705024.000000"/>
+            </stats>
+            <stats fillType="BRETTERPALLET" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.116000" nominalAmplitudeVariation="0.087000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.093074" period="73395768.000000" time="69704464.000000"/>
+                <curve1 nominalAmplitude="0.058000" nominalAmplitudeVariation="0.011600" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.062481" period="439490016.000000" time="199735312.000000"/>
+            </stats>
+            <stats fillType="STRAW" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.012300" nominalAmplitudeVariation="0.009225" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.016968" period="48193856.000000" time="3712309.750000"/>
+                <curve1 nominalAmplitude="0.006150" nominalAmplitudeVariation="0.001230" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.006342" period="530229216.000000" time="360970368.000000"/>
+            </stats>
+            <stats fillType="PELLETS" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.076000" nominalAmplitudeVariation="0.057000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.034406" period="87530736.000000" time="61220704.000000"/>
+                <curve1 nominalAmplitude="0.038000" nominalAmplitudeVariation="0.007600" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.030711" period="494514592.000000" time="487526528.000000"/>
+            </stats>
+        </sellingStation>
+    </item>
+    <item className="SellingStationPlaceable" id="5" modName="FS19_NF_Marsch_4fach" filename="$moddir$FS19_NF_Marsch_4fach/maps/sellingStation/sellingStationMolkerei.xml" position="-510.7000 99.5500 320.0000" rotation="0.0000 90.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="sellingStationMolkerei">
+        <sellingStation>
+            <stats fillType="MILK" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="47615508.000000">
+                <curveBaseCurve nominalAmplitude="0.130000" nominalAmplitudeVariation="0.097500" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.034725" period="84819920.000000" time="21204980.000000"/>
+                <curve1 nominalAmplitude="0.065000" nominalAmplitudeVariation="0.013000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.068410" period="520939968.000000" time="515801856.000000"/>
+            </stats>
+        </sellingStation>
+    </item>
+    <item className="BuyingStationPlaceable" id="6" modName="FS19_NF_Marsch_4fach" filename="$moddir$FS19_NF_Marsch_4fach/maps/sellingStation/gasStation/gasStation2.xml" position="790.0000 100.0000 -841.0000" rotation="0.0000 0.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="gasStation"/>
+    <item className="SellingStationPlaceable" id="7" modName="FS19_NF_Marsch_4fach" filename="$moddir$FS19_NF_Marsch_4fach/maps/sellingStation/sellingStationTankstelleAral.xml" position="-208.2300 99.5500 -301.7000" rotation="0.0000 90.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="sellingStationTankeAral">
+        <sellingStation>
+            <stats fillType="DIESEL" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="12034331.000000">
+                <curveBaseCurve nominalAmplitude="0.117000" nominalAmplitudeVariation="0.087750" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.045012" period="91417968.000000" time="68563480.000000"/>
+                <curve1 nominalAmplitude="0.058500" nominalAmplitudeVariation="0.011700" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.061726" period="516261856.000000" time="425702208.000000"/>
+            </stats>
+        </sellingStation>
+    </item>
+    <item className="SellingStationPlaceable" id="8" modName="FS19_NF_Marsch_4fach" filename="$moddir$FS19_NF_Marsch_4fach/maps/sellingStation/sellingStationHafen.xml" position="-926.0000 100.0000 -941.0000" rotation="0.0000 90.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="sellingStationHafen">
+        <sellingStation>
+            <stats fillType="WHEAT" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="29411256.000000">
+                <curveBaseCurve nominalAmplitude="0.067400" nominalAmplitudeVariation="0.050550" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.068232" period="76997152.000000" time="19249288.000000"/>
+                <curve1 nominalAmplitude="0.033700" nominalAmplitudeVariation="0.006740" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.034714" period="490518912.000000" time="116842336.000000"/>
+            </stats>
+            <stats fillType="BARLEY" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="17399470.000000">
+                <curveBaseCurve nominalAmplitude="0.062600" nominalAmplitudeVariation="0.046950" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.021179" period="80744232.000000" time="60558172.000000"/>
+                <curve1 nominalAmplitude="0.031300" nominalAmplitudeVariation="0.006260" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.029893" period="508280864.000000" time="231608560.000000"/>
+            </stats>
+            <stats fillType="OAT" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="20375502.000000">
+                <curveBaseCurve nominalAmplitude="0.112600" nominalAmplitudeVariation="0.084450" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.090774" period="54286040.000000" time="40714532.000000"/>
+                <curve1 nominalAmplitude="0.056300" nominalAmplitudeVariation="0.011260" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.058101" period="589994048.000000" time="80856400.000000"/>
+            </stats>
+            <stats fillType="CANOLA" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="17583628.000000">
+                <curveBaseCurve nominalAmplitude="0.120600" nominalAmplitudeVariation="0.090450" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.085772" period="54189444.000000" time="40642084.000000"/>
+                <curve1 nominalAmplitude="0.060300" nominalAmplitudeVariation="0.012060" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.063521" period="408590912.000000" time="111262040.000000"/>
+            </stats>
+            <stats fillType="SUNFLOWER" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="423161.593750">
+                <curveBaseCurve nominalAmplitude="0.135946" nominalAmplitudeVariation="0.101959" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.134719" period="55190832.000000" time="13797708.000000"/>
+                <curve1 nominalAmplitude="0.067973" nominalAmplitudeVariation="0.013595" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.064071" period="553766016.000000" time="405938304.000000"/>
+            </stats>
+            <stats fillType="SOYBEAN" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.157156" nominalAmplitudeVariation="0.117867" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.092029" period="78674416.000000" time="70354592.000000"/>
+                <curve1 nominalAmplitude="0.078578" nominalAmplitudeVariation="0.015716" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.064712" period="489154240.000000" time="384737440.000000"/>
+            </stats>
+            <stats fillType="MAIZE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="32699956.000000">
+                <curveBaseCurve nominalAmplitude="0.076760" nominalAmplitudeVariation="0.057570" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.066716" period="77404240.000000" time="19351060.000000"/>
+                <curve1 nominalAmplitude="0.038380" nominalAmplitudeVariation="0.007676" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.034683" period="533346784.000000" time="150193360.000000"/>
+            </stats>
+            <stats fillType="POTATO" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="38312192.000000">
+                <curveBaseCurve nominalAmplitude="0.034400" nominalAmplitudeVariation="0.025800" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.018763" period="89737872.000000" time="22434468.000000"/>
+                <curve1 nominalAmplitude="0.017200" nominalAmplitudeVariation="0.003440" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.017352" period="437998816.000000" time="323697216.000000"/>
+            </stats>
+            <stats fillType="SUGARBEET" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="15322974.000000">
+                <curveBaseCurve nominalAmplitude="0.024400" nominalAmplitudeVariation="0.018300" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.028257" period="47430708.000000" time="35573032.000000"/>
+                <curve1 nominalAmplitude="0.012200" nominalAmplitudeVariation="0.002440" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.011593" period="418691392.000000" time="169194752.000000"/>
+            </stats>
+            <stats fillType="SUGARCANE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="40655140.000000">
+                <curveBaseCurve nominalAmplitude="0.023800" nominalAmplitudeVariation="0.017850" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.012087" period="83788376.000000" time="20947094.000000"/>
+                <curve1 nominalAmplitude="0.011900" nominalAmplitudeVariation="0.002380" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.011211" period="583053824.000000" time="351334112.000000"/>
+            </stats>
+            <stats fillType="SEEDS" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="32980534.000000">
+                <curveBaseCurve nominalAmplitude="0.120000" nominalAmplitudeVariation="0.090000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.054930" period="56084152.000000" time="14021038.000000"/>
+                <curve1 nominalAmplitude="0.060000" nominalAmplitudeVariation="0.012000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.056614" period="460214240.000000" time="201826064.000000"/>
+            </stats>
+            <stats fillType="FORAGE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="25713670.000000">
+                <curveBaseCurve nominalAmplitude="0.160000" nominalAmplitudeVariation="0.120000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.115049" period="83057000.000000" time="62292752.000000"/>
+                <curve1 nominalAmplitude="0.080000" nominalAmplitudeVariation="0.016000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.075119" period="590218688.000000" time="328131840.000000"/>
+            </stats>
+            <stats fillType="FERTILIZER" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="30542840.000000">
+                <curveBaseCurve nominalAmplitude="0.120000" nominalAmplitudeVariation="0.090000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.056054" period="78829720.000000" time="19707430.000000"/>
+                <curve1 nominalAmplitude="0.060000" nominalAmplitudeVariation="0.012000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.064787" period="434982816.000000" time="405432832.000000"/>
+            </stats>
+            <stats fillType="LIQUIDFERTILIZER" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="36363792.000000">
+                <curveBaseCurve nominalAmplitude="0.120000" nominalAmplitudeVariation="0.090000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.069053" period="61293364.000000" time="45970024.000000"/>
+                <curve1 nominalAmplitude="0.060000" nominalAmplitudeVariation="0.012000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.062004" period="513584928.000000" time="295229920.000000"/>
+            </stats>
+            <stats fillType="PIGFOOD" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="423161.593750">
+                <curveBaseCurve nominalAmplitude="0.160000" nominalAmplitudeVariation="0.120000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.105162" period="64864252.000000" time="16216063.000000"/>
+                <curve1 nominalAmplitude="0.080000" nominalAmplitudeVariation="0.016000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.079632" period="474604928.000000" time="25899214.000000"/>
+            </stats>
+            <stats fillType="LIME" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="45491324.000000">
+                <curveBaseCurve nominalAmplitude="0.027000" nominalAmplitudeVariation="0.020250" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.022352" period="82559696.000000" time="20639924.000000"/>
+                <curve1 nominalAmplitude="0.013500" nominalAmplitudeVariation="0.002700" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.013923" period="440262304.000000" time="118233576.000000"/>
+            </stats>
+            <stats fillType="HERBICIDE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="33375602.000000">
+                <curveBaseCurve nominalAmplitude="0.120000" nominalAmplitudeVariation="0.090000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.078358" period="52631864.000000" time="13157966.000000"/>
+                <curve1 nominalAmplitude="0.060000" nominalAmplitudeVariation="0.012000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.059671" period="509803712.000000" time="262708256.000000"/>
+            </stats>
+            <stats fillType="MILLET" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="1984915.875000">
+                <curveBaseCurve nominalAmplitude="0.065000" nominalAmplitudeVariation="0.048750" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.056915" period="83186328.000000" time="62389748.000000"/>
+                <curve1 nominalAmplitude="0.032500" nominalAmplitudeVariation="0.006500" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.030968" period="417191040.000000" time="180988432.000000"/>
+            </stats>
+            <stats fillType="HOPS" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="47371900.000000">
+                <curveBaseCurve nominalAmplitude="0.065000" nominalAmplitudeVariation="0.048750" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.092688" period="73917832.000000" time="55438376.000000"/>
+                <curve1 nominalAmplitude="0.032500" nominalAmplitudeVariation="0.006500" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.027605" period="533298368.000000" time="243636496.000000"/>
+            </stats>
+            <stats fillType="NEBENPRODUKT" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="4151058.500000">
+                <curveBaseCurve nominalAmplitude="0.210000" nominalAmplitudeVariation="0.157500" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.075901" period="63654848.000000" time="47741136.000000"/>
+                <curve1 nominalAmplitude="0.105000" nominalAmplitudeVariation="0.021000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.119285" period="546022080.000000" time="124598896.000000"/>
+            </stats>
+            <stats fillType="ZUCKER" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.120000" nominalAmplitudeVariation="0.090000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.140370" period="70579776.000000" time="16381260.000000"/>
+                <curve1 nominalAmplitude="0.060000" nominalAmplitudeVariation="0.012000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.055089" period="498223584.000000" time="430277472.000000"/>
+            </stats>
+            <stats fillType="ONION" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="1982764.875000">
+                <curveBaseCurve nominalAmplitude="0.024000" nominalAmplitudeVariation="0.018000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.011984" period="94420224.000000" time="70815168.000000"/>
+                <curve1 nominalAmplitude="0.012000" nominalAmplitudeVariation="0.002400" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.009630" period="439698624.000000" time="318918912.000000"/>
+            </stats>
+            <stats fillType="POPPY" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="12251389.000000">
+                <curveBaseCurve nominalAmplitude="0.120000" nominalAmplitudeVariation="0.090000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.122055" period="86733864.000000" time="65050400.000000"/>
+                <curve1 nominalAmplitude="0.060000" nominalAmplitudeVariation="0.012000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.063616" period="589595904.000000" time="242913056.000000"/>
+            </stats>
+            <stats fillType="SPELT" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="9912759.000000">
+                <curveBaseCurve nominalAmplitude="0.070000" nominalAmplitudeVariation="0.052500" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.029922" period="68609992.000000" time="17152498.000000"/>
+                <curve1 nominalAmplitude="0.035000" nominalAmplitudeVariation="0.007000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.039831" period="452051648.000000" time="425058720.000000"/>
+            </stats>
+            <stats fillType="SORGHUM" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.065000" nominalAmplitudeVariation="0.048750" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.067167" period="58782580.000000" time="56307100.000000"/>
+                <curve1 nominalAmplitude="0.032500" nominalAmplitudeVariation="0.006500" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.035634" period="542334400.000000" time="468425920.000000"/>
+            </stats>
+            <stats fillType="MALZ" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="5674691.000000">
+                <curveBaseCurve nominalAmplitude="0.160000" nominalAmplitudeVariation="0.120000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.086760" period="43531216.000000" time="32648412.000000"/>
+                <curve1 nominalAmplitude="0.080000" nominalAmplitudeVariation="0.016000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.084173" period="471948224.000000" time="285021248.000000"/>
+            </stats>
+            <stats fillType="CARROT" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.024000" nominalAmplitudeVariation="0.018000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.020726" period="92723936.000000" time="125524.015625"/>
+                <curve1 nominalAmplitude="0.012000" nominalAmplitudeVariation="0.002400" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.009738" period="450062208.000000" time="222677248.000000"/>
+            </stats>
+            <stats fillType="COMPOST" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.060000" nominalAmplitudeVariation="0.045000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.034486" period="60181716.000000" time="50542140.000000"/>
+                <curve1 nominalAmplitude="0.030000" nominalAmplitudeVariation="0.006000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.028124" period="424591488.000000" time="107573560.000000"/>
+            </stats>
+        </sellingStation>
+    </item>
+    <item className="SellingStationPlaceable" id="9" modName="FS19_NF_Marsch_4fach" filename="$moddir$FS19_NF_Marsch_4fach/maps/sellingStation/sellingStationWool/sellingStationWool.xml" position="849.0000 100.5000 346.3000" rotation="0.0000 90.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="sellingStationWool">
+        <sellingStation>
+            <stats fillType="COTTON" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="41646792.000000">
+                <curveBaseCurve nominalAmplitude="0.250400" nominalAmplitudeVariation="0.187800" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.243893" period="77161960.000000" time="57871468.000000"/>
+                <curve1 nominalAmplitude="0.125200" nominalAmplitudeVariation="0.025040" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.140543" period="508951392.000000" time="272456224.000000"/>
+            </stats>
+            <stats fillType="WOOL" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="27703774.000000">
+                <curveBaseCurve nominalAmplitude="0.120000" nominalAmplitudeVariation="0.090000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.141543" period="91053344.000000" time="22763336.000000"/>
+                <curve1 nominalAmplitude="0.060000" nominalAmplitudeVariation="0.012000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.057759" period="595959232.000000" time="329784064.000000"/>
+            </stats>
+            <stats fillType="LEDER" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.560000" nominalAmplitudeVariation="0.420000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.637470" period="85902120.000000" time="18345784.000000"/>
+                <curve1 nominalAmplitude="0.280000" nominalAmplitudeVariation="0.056000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.325486" period="570116800.000000" time="415534656.000000"/>
+            </stats>
+        </sellingStation>
+    </item>
+    <item className="SellingStationPlaceable" id="10" modName="FS19_NF_Marsch_4fach" filename="$moddir$FS19_NF_Marsch_4fach/maps/sellingStation/sellingStationBales.xml" position="126.3000 100.4000 -711.4140" rotation="0.0000 0.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="baleSellingStation">
+        <sellingStation>
+            <stats fillType="COMPOST" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="43802792.000000">
+                <curveBaseCurve nominalAmplitude="0.060000" nominalAmplitudeVariation="0.045000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.070184" period="72860776.000000" time="54645580.000000"/>
+                <curve1 nominalAmplitude="0.030000" nominalAmplitudeVariation="0.006000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.029492" period="518905696.000000" time="212426256.000000"/>
+            </stats>
+            <stats fillType="CHAFF" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="29995760.000000">
+                <curveBaseCurve nominalAmplitude="0.009240" nominalAmplitudeVariation="0.006930" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.010755" period="49896608.000000" time="12474152.000000"/>
+                <curve1 nominalAmplitude="0.004620" nominalAmplitudeVariation="0.000924" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.004998" period="583068096.000000" time="477479072.000000"/>
+            </stats>
+            <stats fillType="DRYGRASS_WINDROW" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="51220232.000000">
+                <curveBaseCurve nominalAmplitude="0.014560" nominalAmplitudeVariation="0.010920" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.004433" period="94281392.000000" time="70711040.000000"/>
+                <curve1 nominalAmplitude="0.007280" nominalAmplitudeVariation="0.001456" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.007716" period="425887424.000000" time="121777976.000000"/>
+            </stats>
+            <stats fillType="ERDE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="423161.593750">
+                <curveBaseCurve nominalAmplitude="0.020000" nominalAmplitudeVariation="0.015000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.005677" period="53353408.000000" time="13338352.000000"/>
+                <curve1 nominalAmplitude="0.010000" nominalAmplitudeVariation="0.002000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.010745" period="551272832.000000" time="289786528.000000"/>
+            </stats>
+            <stats fillType="GRASS_WINDROW" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="7009595.000000">
+                <curveBaseCurve nominalAmplitude="0.009900" nominalAmplitudeVariation="0.007425" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.005203" period="47296668.000000" time="11824167.000000"/>
+                <curve1 nominalAmplitude="0.004950" nominalAmplitudeVariation="0.000990" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.004526" period="494503680.000000" time="5130191.500000"/>
+            </stats>
+            <stats fillType="MANURE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="46776184.000000">
+                <curveBaseCurve nominalAmplitude="0.013200" nominalAmplitudeVariation="0.009900" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.005541" period="63127608.000000" time="47345704.000000"/>
+                <curve1 nominalAmplitude="0.006600" nominalAmplitudeVariation="0.001320" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.006801" period="456498272.000000" time="104611496.000000"/>
+            </stats>
+            <stats fillType="STRAW" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="48917268.000000">
+                <curveBaseCurve nominalAmplitude="0.009020" nominalAmplitudeVariation="0.006765" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.007022" period="47376460.000000" time="11844115.000000"/>
+                <curve1 nominalAmplitude="0.004510" nominalAmplitudeVariation="0.000902" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.005262" period="576691392.000000" time="361332672.000000"/>
+            </stats>
+            <stats fillType="SILAGE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="423161.593750">
+                <curveBaseCurve nominalAmplitude="0.037620" nominalAmplitudeVariation="0.028215" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.022365" period="75662712.000000" time="18915678.000000"/>
+                <curve1 nominalAmplitude="0.018810" nominalAmplitudeVariation="0.003762" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.020859" period="537773440.000000" time="234428976.000000"/>
+            </stats>
+        </sellingStation>
+    </item>
+    <item className="BuyingStationPlaceable" id="11" modName="FS19_NF_Marsch_4fach" filename="$moddir$FS19_NF_Marsch_4fach/maps/sellingStation/gasStation/gasStation3.xml" position="1349.0000 100.0000 1123.0000" rotation="0.0000 0.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="gasStation"/>
+    <item className="SellingStationPlaceable" id="12" modName="FS19_NF_Marsch_4fach" filename="$moddir$FS19_NF_Marsch_4fach/maps/sellingStation/sellingStationAldi.xml" position="1382.2560 99.5500 1279.1500" rotation="0.0000 0.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="sellingStationAldi">
+        <sellingStation>
+            <stats fillType="EGG" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="8387600.500000">
+                <curveBaseCurve nominalAmplitude="0.232000" nominalAmplitudeVariation="0.174000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.065067" period="70516120.000000" time="17629030.000000"/>
+                <curve1 nominalAmplitude="0.116000" nominalAmplitudeVariation="0.023200" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.099769" period="562521536.000000" time="514116512.000000"/>
+            </stats>
+            <stats fillType="BIERKASTEN" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.220000" nominalAmplitudeVariation="0.165000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.092863" period="93363424.000000" time="90873248.000000"/>
+                <curve1 nominalAmplitude="0.110000" nominalAmplitudeVariation="0.022000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.126842" period="508180512.000000" time="401198400.000000"/>
+            </stats>
+            <stats fillType="APFEL" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.096000" nominalAmplitudeVariation="0.072000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.079665" period="61009852.000000" time="11597164.000000"/>
+                <curve1 nominalAmplitude="0.048000" nominalAmplitudeVariation="0.009600" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.053570" period="504967552.000000" time="293368064.000000"/>
+            </stats>
+            <stats fillType="SCHWEINEFLEISCH" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.242000" nominalAmplitudeVariation="0.181500" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.124576" period="83708456.000000" time="64074504.000000"/>
+                <curve1 nominalAmplitude="0.121000" nominalAmplitudeVariation="0.024200" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.106272" period="480363296.000000" time="317242464.000000"/>
+            </stats>
+            <stats fillType="WURST" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="3383890.000000">
+                <curveBaseCurve nominalAmplitude="0.330000" nominalAmplitudeVariation="0.247500" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.324840" period="77519104.000000" time="58139328.000000"/>
+                <curve1 nominalAmplitude="0.165000" nominalAmplitudeVariation="0.033000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.138599" period="480341504.000000" time="17404426.000000"/>
+            </stats>
+            <stats fillType="BIERFASS" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="423161.593750">
+                <curveBaseCurve nominalAmplitude="0.220000" nominalAmplitudeVariation="0.165000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.336736" period="62835440.000000" time="15708860.000000"/>
+                <curve1 nominalAmplitude="0.110000" nominalAmplitudeVariation="0.022000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.099462" period="535301856.000000" time="484600352.000000"/>
+            </stats>
+            <stats fillType="BIRNE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="5752460.000000">
+                <curveBaseCurve nominalAmplitude="0.096000" nominalAmplitudeVariation="0.072000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.025932" period="60604864.000000" time="45453648.000000"/>
+                <curve1 nominalAmplitude="0.048000" nominalAmplitudeVariation="0.009600" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.050582" period="506062368.000000" time="278997472.000000"/>
+            </stats>
+            <stats fillType="KAESE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="29255812.000000">
+                <curveBaseCurve nominalAmplitude="0.198000" nominalAmplitudeVariation="0.148500" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.102453" period="56086876.000000" time="14021719.000000"/>
+                <curve1 nominalAmplitude="0.099000" nominalAmplitudeVariation="0.019800" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.111155" period="462302368.000000" time="123732104.000000"/>
+            </stats>
+            <stats fillType="ZUCKER" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="8858170.000000">
+                <curveBaseCurve nominalAmplitude="0.120000" nominalAmplitudeVariation="0.090000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.080632" period="82174584.000000" time="20543646.000000"/>
+                <curve1 nominalAmplitude="0.060000" nominalAmplitudeVariation="0.012000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.054987" period="591237632.000000" time="45818732.000000"/>
+            </stats>
+            <stats fillType="HUEHNCHENFLEISCH" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="423161.593750">
+                <curveBaseCurve nominalAmplitude="0.200000" nominalAmplitudeVariation="0.150000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.075003" period="75149592.000000" time="18787398.000000"/>
+                <curve1 nominalAmplitude="0.100000" nominalAmplitudeVariation="0.020000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.107587" period="461483680.000000" time="245258944.000000"/>
+            </stats>
+            <stats fillType="PFLAUME" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="49341976.000000">
+                <curveBaseCurve nominalAmplitude="0.096000" nominalAmplitudeVariation="0.072000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.073758" period="82871400.000000" time="62153552.000000"/>
+                <curve1 nominalAmplitude="0.048000" nominalAmplitudeVariation="0.009600" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.040523" period="565134272.000000" time="53343508.000000"/>
+            </stats>
+            <stats fillType="FRISCHKAESE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="39435452.000000">
+                <curveBaseCurve nominalAmplitude="0.198000" nominalAmplitudeVariation="0.148500" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.078410" period="55258544.000000" time="13814636.000000"/>
+                <curve1 nominalAmplitude="0.099000" nominalAmplitudeVariation="0.019800" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.087060" period="567209472.000000" time="465486400.000000"/>
+            </stats>
+            <stats fillType="MEHL" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="23891132.000000">
+                <curveBaseCurve nominalAmplitude="0.172000" nominalAmplitudeVariation="0.129000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.211898" period="49954468.000000" time="37465848.000000"/>
+                <curve1 nominalAmplitude="0.086000" nominalAmplitudeVariation="0.017200" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.078127" period="459383488.000000" time="426407552.000000"/>
+            </stats>
+            <stats fillType="LAMMFLEISCH" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="25518792.000000">
+                <curveBaseCurve nominalAmplitude="0.345000" nominalAmplitudeVariation="0.258750" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.419303" period="59239256.000000" time="44429440.000000"/>
+                <curve1 nominalAmplitude="0.172500" nominalAmplitudeVariation="0.034500" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.147193" period="477813056.000000" time="170815440.000000"/>
+            </stats>
+            <stats fillType="KIRSCHE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="24721254.000000">
+                <curveBaseCurve nominalAmplitude="0.096000" nominalAmplitudeVariation="0.072000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.053156" period="71479880.000000" time="17869970.000000"/>
+                <curve1 nominalAmplitude="0.048000" nominalAmplitudeVariation="0.009600" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.057347" period="576101696.000000" time="45300732.000000"/>
+            </stats>
+            <stats fillType="RINDFLEISCH" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="4752800.500000">
+                <curveBaseCurve nominalAmplitude="0.299000" nominalAmplitudeVariation="0.224250" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.157578" period="69436432.000000" time="17359108.000000"/>
+                <curve1 nominalAmplitude="0.149500" nominalAmplitudeVariation="0.029900" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.142075" period="544826048.000000" time="151889280.000000"/>
+            </stats>
+        </sellingStation>
+    </item>
+    <item className="SellingStationPlaceable" id="13" modName="FS19_NF_Marsch_4fach" filename="$moddir$FS19_NF_Marsch_4fach/maps/sellingStation/sellingStationBaumarkt.xml" position="-529.5550 99.1500 -572.1660" rotation="-180.0000 90.0000 -180.0000" age="0" price="0.000000" farmId="0" mapBoundId="sellingStationBaumarkt">
+        <sellingStation>
+            <stats fillType="BRETTERPALLET" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="50780012.000000">
+                <curveBaseCurve nominalAmplitude="0.130000" nominalAmplitudeVariation="0.097500" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.125284" period="65570556.000000" time="16392639.000000"/>
+                <curve1 nominalAmplitude="0.065000" nominalAmplitudeVariation="0.013000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.064465" period="569076352.000000" time="349232288.000000"/>
+            </stats>
+            <stats fillType="LEERPALLET" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="24410718.000000">
+                <curveBaseCurve nominalAmplitude="0.116000" nominalAmplitudeVariation="0.087000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.038700" period="57443656.000000" time="14360914.000000"/>
+                <curve1 nominalAmplitude="0.058000" nominalAmplitudeVariation="0.011600" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.065426" period="441823264.000000" time="24499398.000000"/>
+            </stats>
+            <stats fillType="KARTON" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="44474496.000000">
+                <curveBaseCurve nominalAmplitude="0.116000" nominalAmplitudeVariation="0.087000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.104424" period="46181140.000000" time="34635856.000000"/>
+                <curve1 nominalAmplitude="0.058000" nominalAmplitudeVariation="0.011600" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.061753" period="514599680.000000" time="281594912.000000"/>
+            </stats>
+            <stats fillType="PAPIER" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.116000" nominalAmplitudeVariation="0.087000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.070601" period="56406500.000000" time="35026488.000000"/>
+                <curve1 nominalAmplitude="0.058000" nominalAmplitudeVariation="0.011600" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.063916" period="569258240.000000" time="142686416.000000"/>
+            </stats>
+            <stats fillType="PELLETS" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.072960" nominalAmplitudeVariation="0.054720" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.077783" period="86549776.000000" time="11810977.000000"/>
+                <curve1 nominalAmplitude="0.036480" nominalAmplitudeVariation="0.007296" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.032064" period="587462528.000000" time="166417360.000000"/>
+            </stats>
+            <stats fillType="SPANPLATTE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="26390274.000000">
+                <curveBaseCurve nominalAmplitude="0.120000" nominalAmplitudeVariation="0.090000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.074334" period="50363484.000000" time="12590871.000000"/>
+                <curve1 nominalAmplitude="0.060000" nominalAmplitudeVariation="0.012000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.059142" period="450092832.000000" time="300776192.000000"/>
+            </stats>
+            <stats fillType="OSBPLATTE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="16360493.000000">
+                <curveBaseCurve nominalAmplitude="0.130000" nominalAmplitudeVariation="0.097500" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.048955" period="70397888.000000" time="17599472.000000"/>
+                <curve1 nominalAmplitude="0.065000" nominalAmplitudeVariation="0.013000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.071685" period="489382208.000000" time="321427136.000000"/>
+            </stats>
+            <stats fillType="ZEMENT" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.192000" nominalAmplitudeVariation="0.144000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.133304" period="62136216.000000" time="52598036.000000"/>
+                <curve1 nominalAmplitude="0.096000" nominalAmplitudeVariation="0.019200" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.107389" period="405464672.000000" time="150351296.000000"/>
+            </stats>
+        </sellingStation>
+    </item>
+    <item className="SellingStationPlaceable" id="14" modName="FS19_NF_Marsch_4fach" filename="$moddir$FS19_NF_Marsch_4fach/maps/sellingStation/sellingStationTankstelleAral_g.xml" position="1401.8400 99.5500 1147.2660" rotation="0.0000 90.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="sellingStationTankeAralBig">
+        <sellingStation>
+            <stats fillType="DIESEL" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="31290064.000000">
+                <curveBaseCurve nominalAmplitude="0.117000" nominalAmplitudeVariation="0.087750" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.060904" period="45661844.000000" time="11415461.000000"/>
+                <curve1 nominalAmplitude="0.058500" nominalAmplitudeVariation="0.011700" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.053252" period="477101024.000000" time="473455872.000000"/>
+            </stats>
+        </sellingStation>
+    </item>
+    <item className="SellingStationPlaceable" id="15" modName="FS19_NF_Marsch_4fach" filename="$moddir$FS19_NF_Marsch_4fach/maps/sellingStation/sellingStationStadion.xml" position="-162.6380 99.1500 -727.2640" rotation="0.0000 90.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="sellingStationStadion">
+        <sellingStation>
+            <stats fillType="BIERKASTEN" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="2818533.750000">
+                <curveBaseCurve nominalAmplitude="0.220000" nominalAmplitudeVariation="0.165000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.142160" period="59819692.000000" time="14954923.000000"/>
+                <curve1 nominalAmplitude="0.110000" nominalAmplitudeVariation="0.022000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.108712" period="600808192.000000" time="600181568.000000"/>
+            </stats>
+            <stats fillType="HUEHNCHENFLEISCH" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="11596333.000000">
+                <curveBaseCurve nominalAmplitude="0.200000" nominalAmplitudeVariation="0.150000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.119830" period="49992324.000000" time="37494240.000000"/>
+                <curve1 nominalAmplitude="0.100000" nominalAmplitudeVariation="0.020000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.080579" period="594704448.000000" time="388270112.000000"/>
+            </stats>
+            <stats fillType="SCHWEINEFLEISCH" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="40972056.000000">
+                <curveBaseCurve nominalAmplitude="0.253000" nominalAmplitudeVariation="0.189750" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.080962" period="57381968.000000" time="43036476.000000"/>
+                <curve1 nominalAmplitude="0.126500" nominalAmplitudeVariation="0.025300" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.142342" period="425201312.000000" time="26692726.000000"/>
+            </stats>
+            <stats fillType="BIERFASS" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="28329452.000000">
+                <curveBaseCurve nominalAmplitude="0.220000" nominalAmplitudeVariation="0.165000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.114349" period="78202512.000000" time="58651884.000000"/>
+                <curve1 nominalAmplitude="0.110000" nominalAmplitudeVariation="0.022000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.121774" period="473598176.000000" time="151276192.000000"/>
+            </stats>
+            <stats fillType="WURST" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="15386163.000000">
+                <curveBaseCurve nominalAmplitude="0.330000" nominalAmplitudeVariation="0.247500" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.401104" period="76115984.000000" time="19028996.000000"/>
+                <curve1 nominalAmplitude="0.165000" nominalAmplitudeVariation="0.033000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.197393" period="530611776.000000" time="68305072.000000"/>
+            </stats>
+            <stats fillType="RINDFLEISCH" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="35274384.000000">
+                <curveBaseCurve nominalAmplitude="0.338000" nominalAmplitudeVariation="0.253500" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.371068" period="75861504.000000" time="56896128.000000"/>
+                <curve1 nominalAmplitude="0.169000" nominalAmplitudeVariation="0.033800" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.192155" period="537670464.000000" time="207365232.000000"/>
+            </stats>
+        </sellingStation>
+    </item>
+    <item className="BuyingStationPlaceable" id="16" modName="FS19_NF_Marsch_4fach" filename="$moddir$FS19_NF_Marsch_4fach/maps/sellingStation/gasStation/gasStation.xml" position="-192.0000 100.0000 -302.0000" rotation="0.0000 0.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="gasStation"/>
+    <item className="SellingStationPlaceable" id="17" modName="FS19_NF_Marsch_4fach" filename="$moddir$FS19_NF_Marsch_4fach/maps/sellingStation/sellingStationZuckerfabrik.xml" position="-855.1040 99.6000 -965.3640" rotation="0.0000 90.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="sellingStationZuckerfabrik">
+        <sellingStation>
+            <stats fillType="SUGARBEET" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="50438968.000000">
+                <curveBaseCurve nominalAmplitude="0.024888" nominalAmplitudeVariation="0.018666" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.027986" period="77113888.000000" time="57835420.000000"/>
+                <curve1 nominalAmplitude="0.012444" nominalAmplitudeVariation="0.002489" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.011725" period="556797440.000000" time="27245254.000000"/>
+            </stats>
+            <stats fillType="SUGARCANE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="423161.593750">
+                <curveBaseCurve nominalAmplitude="0.024276" nominalAmplitudeVariation="0.018207" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.006481" period="55496996.000000" time="13874249.000000"/>
+                <curve1 nominalAmplitude="0.012138" nominalAmplitudeVariation="0.002428" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.009748" period="493248544.000000" time="348327136.000000"/>
+            </stats>
+        </sellingStation>
+    </item>
+    <item className="BgaPlaceable" id="18" modName="FS19_NF_Marsch_4fach" filename="$moddir$FS19_NF_Marsch_4fach/maps/sellingStation/bga/bga1.xml" position="-352.8950 100.0000 707.6650" rotation="0.0000 -90.0000 0.0000" age="0" price="1.000000" farmId="15" mapBoundId="bga">
+        <bga money="0.000000">
+            <digestateSilo>
+                <storage index="1" farmId="15"/>
+            </digestateSilo>
+            <slot index="1">
+                <fillType fillType="GRASS_WINDROW" fillLevel="0.000000"/>
+                <fillType fillType="DRYGRASS_WINDROW" fillLevel="0.000000"/>
+                <fillType fillType="BEETPULP" fillLevel="0.000000"/>
+                <fillType fillType="SILAGE" fillLevel="0.000000"/>
+            </slot>
+            <slot index="2">
+                <fillType fillType="LIQUIDMANURE" fillLevel="0.000000"/>
+                <fillType fillType="MANURE" fillLevel="0.000000"/>
+            </slot>
+        </bga>
+    </item>
+    <item className="SellingStationPlaceable" id="19" modName="FS19_NF_Marsch_4fach" filename="$moddir$FS19_NF_Marsch_4fach/maps/sellingStation/sellingStationRaiffeisen.xml" position="462.4693 99.5700 -233.4220" rotation="0.0000 0.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="sellingStationRaiffeisen">
+        <sellingStation>
+            <stats fillType="WHEAT" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="21790808.000000">
+                <curveBaseCurve nominalAmplitude="0.068748" nominalAmplitudeVariation="0.051561" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.057753" period="84318800.000000" time="63239096.000000"/>
+                <curve1 nominalAmplitude="0.034374" nominalAmplitudeVariation="0.006875" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.035385" period="471973440.000000" time="210947840.000000"/>
+            </stats>
+            <stats fillType="BARLEY" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="30005220.000000">
+                <curveBaseCurve nominalAmplitude="0.062600" nominalAmplitudeVariation="0.046950" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.018003" period="61968252.000000" time="15492063.000000"/>
+                <curve1 nominalAmplitude="0.031300" nominalAmplitudeVariation="0.006260" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.026941" period="483896928.000000" time="365847744.000000"/>
+            </stats>
+            <stats fillType="OAT" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="17536624.000000">
+                <curveBaseCurve nominalAmplitude="0.114852" nominalAmplitudeVariation="0.086139" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.107052" period="50241756.000000" time="37681316.000000"/>
+                <curve1 nominalAmplitude="0.057426" nominalAmplitudeVariation="0.011485" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.066796" period="407297952.000000" time="29407164.000000"/>
+            </stats>
+            <stats fillType="CANOLA" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="5287648.000000">
+                <curveBaseCurve nominalAmplitude="0.123012" nominalAmplitudeVariation="0.092259" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.109229" period="69244936.000000" time="17311234.000000"/>
+                <curve1 nominalAmplitude="0.061506" nominalAmplitudeVariation="0.012301" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.052674" period="531337440.000000" time="318919680.000000"/>
+            </stats>
+            <stats fillType="SUNFLOWER" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="6513957.000000">
+                <curveBaseCurve nominalAmplitude="0.135946" nominalAmplitudeVariation="0.101959" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.118853" period="69460448.000000" time="17365112.000000"/>
+                <curve1 nominalAmplitude="0.067973" nominalAmplitudeVariation="0.013595" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.079561" period="580497728.000000" time="170118960.000000"/>
+            </stats>
+            <stats fillType="SOYBEAN" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="49173728.000000">
+                <curveBaseCurve nominalAmplitude="0.157156" nominalAmplitudeVariation="0.117867" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.118142" period="63620732.000000" time="47715548.000000"/>
+                <curve1 nominalAmplitude="0.078578" nominalAmplitudeVariation="0.015716" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.092697" period="561773248.000000" time="327015104.000000"/>
+            </stats>
+            <stats fillType="MAIZE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="48250528.000000">
+                <curveBaseCurve nominalAmplitude="0.076760" nominalAmplitudeVariation="0.057570" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.055458" period="83996024.000000" time="20999006.000000"/>
+                <curve1 nominalAmplitude="0.038380" nominalAmplitudeVariation="0.007676" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.038427" period="455074848.000000" time="452392864.000000"/>
+            </stats>
+            <stats fillType="POTATO" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="47870408.000000">
+                <curveBaseCurve nominalAmplitude="0.034400" nominalAmplitudeVariation="0.025800" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.045571" period="52160164.000000" time="39120124.000000"/>
+                <curve1 nominalAmplitude="0.017200" nominalAmplitudeVariation="0.003440" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.015784" period="600724544.000000" time="179901456.000000"/>
+            </stats>
+            <stats fillType="SUGARBEET" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="11786144.000000">
+                <curveBaseCurve nominalAmplitude="0.024400" nominalAmplitudeVariation="0.018300" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.035007" period="78902912.000000" time="59177184.000000"/>
+                <curve1 nominalAmplitude="0.012200" nominalAmplitudeVariation="0.002440" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.013830" period="402354688.000000" time="350100448.000000"/>
+            </stats>
+            <stats fillType="SUGARCANE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.023800" nominalAmplitudeVariation="0.017850" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.013089" period="48620704.000000" time="33828228.000000"/>
+                <curve1 nominalAmplitude="0.011900" nominalAmplitudeVariation="0.002380" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.013537" period="494775456.000000" time="56504272.000000"/>
+            </stats>
+            <stats fillType="SEEDS" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="12860534.000000">
+                <curveBaseCurve nominalAmplitude="0.120000" nominalAmplitudeVariation="0.090000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.043816" period="70424816.000000" time="17606204.000000"/>
+                <curve1 nominalAmplitude="0.060000" nominalAmplitudeVariation="0.012000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.068332" period="536730016.000000" time="44204408.000000"/>
+            </stats>
+            <stats fillType="MILLET" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="51672788.000000">
+                <curveBaseCurve nominalAmplitude="0.065000" nominalAmplitudeVariation="0.048750" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.033488" period="60663440.000000" time="45497580.000000"/>
+                <curve1 nominalAmplitude="0.032500" nominalAmplitudeVariation="0.006500" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.034642" period="508997984.000000" time="241767488.000000"/>
+            </stats>
+            <stats fillType="RYE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="27461970.000000">
+                <curveBaseCurve nominalAmplitude="0.070000" nominalAmplitudeVariation="0.052500" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.045392" period="65196604.000000" time="16299151.000000"/>
+                <curve1 nominalAmplitude="0.035000" nominalAmplitudeVariation="0.007000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.030588" period="407024096.000000" time="215145776.000000"/>
+            </stats>
+            <stats fillType="HERBICIDE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="28063524.000000">
+                <curveBaseCurve nominalAmplitude="0.120000" nominalAmplitudeVariation="0.090000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.115092" period="71997536.000000" time="17999384.000000"/>
+                <curve1 nominalAmplitude="0.060000" nominalAmplitudeVariation="0.012000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.055542" period="522286560.000000" time="101821384.000000"/>
+            </stats>
+            <stats fillType="FERTILIZER" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="30409924.000000">
+                <curveBaseCurve nominalAmplitude="0.120000" nominalAmplitudeVariation="0.090000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.100490" period="59010704.000000" time="14752676.000000"/>
+                <curve1 nominalAmplitude="0.060000" nominalAmplitudeVariation="0.012000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.068510" period="499261088.000000" time="202794976.000000"/>
+            </stats>
+            <stats fillType="TRITICALE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="17041844.000000">
+                <curveBaseCurve nominalAmplitude="0.070000" nominalAmplitudeVariation="0.052500" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.028813" period="64518920.000000" time="16129730.000000"/>
+                <curve1 nominalAmplitude="0.035000" nominalAmplitudeVariation="0.007000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.032864" period="580999104.000000" time="171884944.000000"/>
+            </stats>
+            <stats fillType="POPPY" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.120000" nominalAmplitudeVariation="0.090000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.031150" period="82773464.000000" time="55691528.000000"/>
+                <curve1 nominalAmplitude="0.060000" nominalAmplitudeVariation="0.012000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.058859" period="437665440.000000" time="367499264.000000"/>
+            </stats>
+            <stats fillType="LIME" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="22217784.000000">
+                <curveBaseCurve nominalAmplitude="0.027000" nominalAmplitudeVariation="0.020250" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.014537" period="65606888.000000" time="16401722.000000"/>
+                <curve1 nominalAmplitude="0.013500" nominalAmplitudeVariation="0.002700" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.014882" period="406471296.000000" time="80106848.000000"/>
+            </stats>
+            <stats fillType="PIGFOOD" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="423161.593750">
+                <curveBaseCurve nominalAmplitude="0.160000" nominalAmplitudeVariation="0.120000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.241208" period="79374648.000000" time="19843662.000000"/>
+                <curve1 nominalAmplitude="0.080000" nominalAmplitudeVariation="0.016000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.092203" period="556977600.000000" time="103098944.000000"/>
+            </stats>
+            <stats fillType="LIQUIDFERTILIZER" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="39282388.000000">
+                <curveBaseCurve nominalAmplitude="0.120000" nominalAmplitudeVariation="0.090000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.115658" period="46294688.000000" time="34721016.000000"/>
+                <curve1 nominalAmplitude="0.060000" nominalAmplitudeVariation="0.012000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.056296" period="585452544.000000" time="9163453.000000"/>
+            </stats>
+            <stats fillType="FORAGE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="15346098.000000">
+                <curveBaseCurve nominalAmplitude="0.160000" nominalAmplitudeVariation="0.120000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.091856" period="63452536.000000" time="15863134.000000"/>
+                <curve1 nominalAmplitude="0.080000" nominalAmplitudeVariation="0.016000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.094322" period="472949056.000000" time="272398816.000000"/>
+            </stats>
+            <stats fillType="SPELT" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="10610476.000000">
+                <curveBaseCurve nominalAmplitude="0.070000" nominalAmplitudeVariation="0.052500" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.036934" period="84278304.000000" time="63208728.000000"/>
+                <curve1 nominalAmplitude="0.035000" nominalAmplitudeVariation="0.007000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.028647" period="489096192.000000" time="241941088.000000"/>
+            </stats>
+        </sellingStation>
+    </item>
+    <item className="FarmhousePlaceable" id="20" filename="data/placeables/mapDE/farmBuildings/farmHouse.xml" position="260.6793 100.0000 164.4724" rotation="0.0000 0.0000 0.0000" age="0" price="350000.000000" farmId="1"/>
+    <item className="SellingStationPlaceable" id="21" modName="FS19_NF_Marsch_4fach" filename="$moddir$FS19_NF_Marsch_4fach/maps/sellingStation/sellingStationDepot.xml" position="848.2305 99.9572 460.7751" rotation="0.0000 90.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="sellingStationDepot">
+        <sellingStation>
+            <stats fillType="WHEAT" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.067400" nominalAmplitudeVariation="0.050550" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.046859" period="82840488.000000" time="60583008.000000"/>
+                <curve1 nominalAmplitude="0.033700" nominalAmplitudeVariation="0.006740" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.034758" period="556614656.000000" time="249148576.000000"/>
+            </stats>
+            <stats fillType="BARLEY" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="38616784.000000">
+                <curveBaseCurve nominalAmplitude="0.062600" nominalAmplitudeVariation="0.046950" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.049331" period="91489048.000000" time="22872262.000000"/>
+                <curve1 nominalAmplitude="0.031300" nominalAmplitudeVariation="0.006260" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.027366" period="434924224.000000" time="90544944.000000"/>
+            </stats>
+            <stats fillType="OAT" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="20053276.000000">
+                <curveBaseCurve nominalAmplitude="0.113726" nominalAmplitudeVariation="0.085294" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.047382" period="89438664.000000" time="22359666.000000"/>
+                <curve1 nominalAmplitude="0.056863" nominalAmplitudeVariation="0.011373" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.047517" period="588901120.000000" time="113847656.000000"/>
+            </stats>
+            <stats fillType="CANOLA" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="423161.593750">
+                <curveBaseCurve nominalAmplitude="0.119394" nominalAmplitudeVariation="0.089545" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.182079" period="79704000.000000" time="19926000.000000"/>
+                <curve1 nominalAmplitude="0.059697" nominalAmplitudeVariation="0.011939" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.067257" period="470760928.000000" time="375866880.000000"/>
+            </stats>
+            <stats fillType="SUNFLOWER" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="26962196.000000">
+                <curveBaseCurve nominalAmplitude="0.133254" nominalAmplitudeVariation="0.099941" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.069879" period="74559352.000000" time="18639838.000000"/>
+                <curve1 nominalAmplitude="0.066627" nominalAmplitudeVariation="0.013325" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.075663" period="466110528.000000" time="137650448.000000"/>
+            </stats>
+            <stats fillType="SOYBEAN" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="20802722.000000">
+                <curveBaseCurve nominalAmplitude="0.157156" nominalAmplitudeVariation="0.117867" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.093306" period="94012496.000000" time="23503124.000000"/>
+                <curve1 nominalAmplitude="0.078578" nominalAmplitudeVariation="0.015716" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.084480" period="494263456.000000" time="9744139.000000"/>
+            </stats>
+            <stats fillType="MAIZE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="19035510.000000">
+                <curveBaseCurve nominalAmplitude="0.075240" nominalAmplitudeVariation="0.056430" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.038177" period="67507440.000000" time="16876860.000000"/>
+                <curve1 nominalAmplitude="0.037620" nominalAmplitudeVariation="0.007524" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.043496" period="584320192.000000" time="486996384.000000"/>
+            </stats>
+            <stats fillType="POTATO" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="572332.000000">
+                <curveBaseCurve nominalAmplitude="0.035088" nominalAmplitudeVariation="0.026316" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.019598" period="45518236.000000" time="11379559.000000"/>
+                <curve1 nominalAmplitude="0.017544" nominalAmplitudeVariation="0.003509" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.017700" period="563673536.000000" time="417155296.000000"/>
+            </stats>
+            <stats fillType="SUGARBEET" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="42629780.000000">
+                <curveBaseCurve nominalAmplitude="0.024888" nominalAmplitudeVariation="0.018666" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.021307" period="77662880.000000" time="58247164.000000"/>
+                <curve1 nominalAmplitude="0.012444" nominalAmplitudeVariation="0.002489" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.012809" period="471817312.000000" time="9077191.000000"/>
+            </stats>
+            <stats fillType="SUGARCANE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="45057060.000000">
+                <curveBaseCurve nominalAmplitude="0.024276" nominalAmplitudeVariation="0.018207" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.009330" period="54336024.000000" time="40752016.000000"/>
+                <curve1 nominalAmplitude="0.012138" nominalAmplitudeVariation="0.002428" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.014142" period="455558752.000000" time="255653248.000000"/>
+            </stats>
+            <stats fillType="RYE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="31547494.000000">
+                <curveBaseCurve nominalAmplitude="0.070000" nominalAmplitudeVariation="0.052500" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.024746" period="94104208.000000" time="23526052.000000"/>
+                <curve1 nominalAmplitude="0.035000" nominalAmplitudeVariation="0.007000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.034647" period="533646496.000000" time="320569152.000000"/>
+            </stats>
+            <stats fillType="SORGHUM" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="9547374.000000">
+                <curveBaseCurve nominalAmplitude="0.065000" nominalAmplitudeVariation="0.048750" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.096826" period="65448628.000000" time="49086472.000000"/>
+                <curve1 nominalAmplitude="0.032500" nominalAmplitudeVariation="0.006500" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.030442" period="575797760.000000" time="212785344.000000"/>
+            </stats>
+            <stats fillType="CARROT" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.024000" nominalAmplitudeVariation="0.018000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.020082" period="56067100.000000" time="50428016.000000"/>
+                <curve1 nominalAmplitude="0.012000" nominalAmplitudeVariation="0.002400" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.013556" period="525472096.000000" time="92760768.000000"/>
+            </stats>
+            <stats fillType="TOBACCO" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="2120435.750000">
+                <curveBaseCurve nominalAmplitude="0.136000" nominalAmplitudeVariation="0.102000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.158861" period="92375008.000000" time="69281256.000000"/>
+                <curve1 nominalAmplitude="0.068000" nominalAmplitudeVariation="0.013600" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.079567" period="572108800.000000" time="388901920.000000"/>
+            </stats>
+            <stats fillType="ONION" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.024000" nominalAmplitudeVariation="0.018000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.021848" period="89745928.000000" time="48007272.000000"/>
+                <curve1 nominalAmplitude="0.012000" nominalAmplitudeVariation="0.002400" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.010129" period="578982528.000000" time="6108791.500000"/>
+            </stats>
+        </sellingStation>
+    </item>
+    <item className="SellingStationPlaceable" id="22" modName="FS19_NF_Marsch_4fach" filename="$moddir$FS19_NF_Marsch_4fach/maps/sellingStation/sellingStationGetreideAG.xml" position="-350.5020 100.1480 1396.7760" rotation="0.0000 0.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="sellingStationGetreidehandel">
+        <sellingStation>
+            <stats fillType="WHEAT" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="4172156.500000">
+                <curveBaseCurve nominalAmplitude="0.068748" nominalAmplitudeVariation="0.051561" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.079665" period="54592936.000000" time="13648234.000000"/>
+                <curve1 nominalAmplitude="0.034374" nominalAmplitudeVariation="0.006875" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.031539" period="499281920.000000" time="108153000.000000"/>
+            </stats>
+            <stats fillType="BARLEY" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="36461076.000000">
+                <curveBaseCurve nominalAmplitude="0.062600" nominalAmplitudeVariation="0.046950" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.048906" period="49909352.000000" time="37432016.000000"/>
+                <curve1 nominalAmplitude="0.031300" nominalAmplitudeVariation="0.006260" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.034343" period="467351520.000000" time="147678256.000000"/>
+            </stats>
+            <stats fillType="OAT" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="423161.593750">
+                <curveBaseCurve nominalAmplitude="0.114852" nominalAmplitudeVariation="0.086139" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.033777" period="71183352.000000" time="17795838.000000"/>
+                <curve1 nominalAmplitude="0.057426" nominalAmplitudeVariation="0.011485" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.068508" period="456918496.000000" time="226814032.000000"/>
+            </stats>
+            <stats fillType="CANOLA" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="41630480.000000">
+                <curveBaseCurve nominalAmplitude="0.123012" nominalAmplitudeVariation="0.092259" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.044990" period="58694624.000000" time="44020968.000000"/>
+                <curve1 nominalAmplitude="0.061506" nominalAmplitudeVariation="0.012301" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.057751" period="410191392.000000" time="340900960.000000"/>
+            </stats>
+            <stats fillType="SUNFLOWER" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="14886873.000000">
+                <curveBaseCurve nominalAmplitude="0.135946" nominalAmplitudeVariation="0.101959" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.156648" period="93900504.000000" time="23475126.000000"/>
+                <curve1 nominalAmplitude="0.067973" nominalAmplitudeVariation="0.013595" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.070383" period="587524992.000000" time="389010240.000000"/>
+            </stats>
+            <stats fillType="SOYBEAN" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="25860070.000000">
+                <curveBaseCurve nominalAmplitude="0.157156" nominalAmplitudeVariation="0.117867" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.042846" period="80844024.000000" time="20211006.000000"/>
+                <curve1 nominalAmplitude="0.078578" nominalAmplitudeVariation="0.015716" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.086020" period="542143104.000000" time="133390584.000000"/>
+            </stats>
+            <stats fillType="MAIZE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="12227353.000000">
+                <curveBaseCurve nominalAmplitude="0.076760" nominalAmplitudeVariation="0.057570" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.031929" period="64952900.000000" time="16238225.000000"/>
+                <curve1 nominalAmplitude="0.038380" nominalAmplitudeVariation="0.007676" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.032208" period="559529472.000000" time="217154112.000000"/>
+            </stats>
+            <stats fillType="POTATO" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="51583064.000000">
+                <curveBaseCurve nominalAmplitude="0.034400" nominalAmplitudeVariation="0.025800" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.020820" period="82320512.000000" time="61740384.000000"/>
+                <curve1 nominalAmplitude="0.017200" nominalAmplitudeVariation="0.003440" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.017010" period="544102400.000000" time="58645632.000000"/>
+            </stats>
+            <stats fillType="SUGARBEET" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="12604833.000000">
+                <curveBaseCurve nominalAmplitude="0.024400" nominalAmplitudeVariation="0.018300" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.021490" period="61589260.000000" time="15397315.000000"/>
+                <curve1 nominalAmplitude="0.012200" nominalAmplitudeVariation="0.002440" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.013790" period="585564544.000000" time="165681728.000000"/>
+            </stats>
+            <stats fillType="SUGARCANE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="38456264.000000">
+                <curveBaseCurve nominalAmplitude="0.023800" nominalAmplitudeVariation="0.017850" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.019543" period="47324096.000000" time="35493072.000000"/>
+                <curve1 nominalAmplitude="0.011900" nominalAmplitudeVariation="0.002380" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.012806" period="515649120.000000" time="65165024.000000"/>
+            </stats>
+            <stats fillType="SEEDS" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.120000" nominalAmplitudeVariation="0.090000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.046566" period="64098544.000000" time="42955176.000000"/>
+                <curve1 nominalAmplitude="0.060000" nominalAmplitudeVariation="0.012000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.052179" period="553291584.000000" time="526218080.000000"/>
+            </stats>
+            <stats fillType="MILLET" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="22385588.000000">
+                <curveBaseCurve nominalAmplitude="0.065000" nominalAmplitudeVariation="0.048750" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.052156" period="72631368.000000" time="18157842.000000"/>
+                <curve1 nominalAmplitude="0.032500" nominalAmplitudeVariation="0.006500" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.032726" period="452494016.000000" time="327066592.000000"/>
+            </stats>
+            <stats fillType="RYE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="23792496.000000">
+                <curveBaseCurve nominalAmplitude="0.070000" nominalAmplitudeVariation="0.052500" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.048391" period="66781704.000000" time="50086280.000000"/>
+                <curve1 nominalAmplitude="0.035000" nominalAmplitudeVariation="0.007000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.036961" period="544004224.000000" time="75050744.000000"/>
+            </stats>
+            <stats fillType="HERBICIDE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="30339236.000000">
+                <curveBaseCurve nominalAmplitude="0.120000" nominalAmplitudeVariation="0.090000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.040289" period="85269160.000000" time="63951872.000000"/>
+                <curve1 nominalAmplitude="0.060000" nominalAmplitudeVariation="0.012000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.055757" period="483300416.000000" time="412102624.000000"/>
+            </stats>
+            <stats fillType="FERTILIZER" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="21341402.000000">
+                <curveBaseCurve nominalAmplitude="0.120000" nominalAmplitudeVariation="0.090000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.205753" period="71023736.000000" time="53267800.000000"/>
+                <curve1 nominalAmplitude="0.060000" nominalAmplitudeVariation="0.012000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.060452" period="597567808.000000" time="63664140.000000"/>
+            </stats>
+            <stats fillType="TRITICALE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="41817484.000000">
+                <curveBaseCurve nominalAmplitude="0.070000" nominalAmplitudeVariation="0.052500" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.071528" period="63741240.000000" time="47805932.000000"/>
+                <curve1 nominalAmplitude="0.035000" nominalAmplitudeVariation="0.007000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.029503" period="548908800.000000" time="343495104.000000"/>
+            </stats>
+            <stats fillType="POPPY" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="11855314.000000">
+                <curveBaseCurve nominalAmplitude="0.120000" nominalAmplitudeVariation="0.090000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.079801" period="55145320.000000" time="41358988.000000"/>
+                <curve1 nominalAmplitude="0.060000" nominalAmplitudeVariation="0.012000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.048187" period="449426976.000000" time="368121536.000000"/>
+            </stats>
+            <stats fillType="LIME" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="5668380.000000">
+                <curveBaseCurve nominalAmplitude="0.027000" nominalAmplitudeVariation="0.020250" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.011849" period="58384612.000000" time="14596153.000000"/>
+                <curve1 nominalAmplitude="0.013500" nominalAmplitudeVariation="0.002700" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.013314" period="565281856.000000" time="460479296.000000"/>
+            </stats>
+            <stats fillType="PIGFOOD" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="8280396.500000">
+                <curveBaseCurve nominalAmplitude="0.160000" nominalAmplitudeVariation="0.120000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.042555" period="83928512.000000" time="20982128.000000"/>
+                <curve1 nominalAmplitude="0.080000" nominalAmplitudeVariation="0.016000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.090705" period="485612416.000000" time="35053176.000000"/>
+            </stats>
+            <stats fillType="LIQUIDFERTILIZER" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="12224310.000000">
+                <curveBaseCurve nominalAmplitude="0.120000" nominalAmplitudeVariation="0.090000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.134910" period="53443176.000000" time="13360794.000000"/>
+                <curve1 nominalAmplitude="0.060000" nominalAmplitudeVariation="0.012000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.066725" period="478843968.000000" time="477093792.000000"/>
+            </stats>
+            <stats fillType="FORAGE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="36413944.000000">
+                <curveBaseCurve nominalAmplitude="0.160000" nominalAmplitudeVariation="0.120000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.211328" period="70470128.000000" time="52852596.000000"/>
+                <curve1 nominalAmplitude="0.080000" nominalAmplitudeVariation="0.016000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.082612" period="580372224.000000" time="498400896.000000"/>
+            </stats>
+            <stats fillType="SPELT" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.070000" nominalAmplitudeVariation="0.052500" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.028466" period="55232600.000000" time="10398619.000000"/>
+                <curve1 nominalAmplitude="0.035000" nominalAmplitudeVariation="0.007000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.028564" period="441445824.000000" time="316258432.000000"/>
+            </stats>
+        </sellingStation>
+    </item>
+    <item className="SellingStationPlaceable" id="23" modName="FS19_NF_Marsch_4fach" filename="$moddir$FS19_NF_Marsch_4fach/maps/sellingStation/sellingStationEdeka.xml" position="-491.2500 99.5500 -566.0000" rotation="0.0000 90.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="sellingStationEdeka">
+        <sellingStation>
+            <stats fillType="EGG" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="38169168.000000">
+                <curveBaseCurve nominalAmplitude="0.232000" nominalAmplitudeVariation="0.174000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.198567" period="57386000.000000" time="43039500.000000"/>
+                <curve1 nominalAmplitude="0.116000" nominalAmplitudeVariation="0.023200" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.105556" period="454499168.000000" time="192567424.000000"/>
+            </stats>
+            <stats fillType="BIERKASTEN" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="51043852.000000">
+                <curveBaseCurve nominalAmplitude="0.220000" nominalAmplitudeVariation="0.165000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.196252" period="72583976.000000" time="54437980.000000"/>
+                <curve1 nominalAmplitude="0.110000" nominalAmplitudeVariation="0.022000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.091431" period="408738848.000000" time="304716576.000000"/>
+            </stats>
+            <stats fillType="APFEL" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="4856116.500000">
+                <curveBaseCurve nominalAmplitude="0.096000" nominalAmplitudeVariation="0.072000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.065572" period="79318048.000000" time="59488536.000000"/>
+                <curve1 nominalAmplitude="0.048000" nominalAmplitudeVariation="0.009600" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.055286" period="504399232.000000" time="32342824.000000"/>
+            </stats>
+            <stats fillType="SCHWEINEFLEISCH" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="423161.593750">
+                <curveBaseCurve nominalAmplitude="0.253000" nominalAmplitudeVariation="0.189750" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.155422" period="69052408.000000" time="17263102.000000"/>
+                <curve1 nominalAmplitude="0.126500" nominalAmplitudeVariation="0.025300" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.136978" period="601111616.000000" time="18043224.000000"/>
+            </stats>
+            <stats fillType="WURST" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="26946556.000000">
+                <curveBaseCurve nominalAmplitude="0.330000" nominalAmplitudeVariation="0.247500" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.258154" period="59776464.000000" time="44832348.000000"/>
+                <curve1 nominalAmplitude="0.165000" nominalAmplitudeVariation="0.033000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.149656" period="515022176.000000" time="92376832.000000"/>
+            </stats>
+            <stats fillType="BIERFASS" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="43184224.000000">
+                <curveBaseCurve nominalAmplitude="0.220000" nominalAmplitudeVariation="0.165000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.089490" period="63593508.000000" time="15898377.000000"/>
+                <curve1 nominalAmplitude="0.110000" nominalAmplitudeVariation="0.022000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.094394" period="421031296.000000" time="159830208.000000"/>
+            </stats>
+            <stats fillType="BIRNE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="23605788.000000">
+                <curveBaseCurve nominalAmplitude="0.096000" nominalAmplitudeVariation="0.072000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.114095" period="85440840.000000" time="64080628.000000"/>
+                <curve1 nominalAmplitude="0.048000" nominalAmplitudeVariation="0.009600" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.041710" period="438859360.000000" time="33232678.000000"/>
+            </stats>
+            <stats fillType="KAESE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="11298909.000000">
+                <curveBaseCurve nominalAmplitude="0.198000" nominalAmplitudeVariation="0.148500" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.060623" period="83748880.000000" time="62811656.000000"/>
+                <curve1 nominalAmplitude="0.099000" nominalAmplitudeVariation="0.019800" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.114172" period="429239616.000000" time="366938208.000000"/>
+            </stats>
+            <stats fillType="ZUCKER" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="26313080.000000">
+                <curveBaseCurve nominalAmplitude="0.120000" nominalAmplitudeVariation="0.090000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.040267" period="64231884.000000" time="16057971.000000"/>
+                <curve1 nominalAmplitude="0.060000" nominalAmplitudeVariation="0.012000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.063173" period="421927168.000000" time="167210912.000000"/>
+            </stats>
+            <stats fillType="HUEHNCHENFLEISCH" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="50283320.000000">
+                <curveBaseCurve nominalAmplitude="0.200000" nominalAmplitudeVariation="0.150000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.275679" period="90772688.000000" time="22693172.000000"/>
+                <curve1 nominalAmplitude="0.100000" nominalAmplitudeVariation="0.020000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.105487" period="533226304.000000" time="533053568.000000"/>
+            </stats>
+            <stats fillType="PFLAUME" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="15252312.000000">
+                <curveBaseCurve nominalAmplitude="0.096000" nominalAmplitudeVariation="0.072000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.031290" period="75869856.000000" time="18967464.000000"/>
+                <curve1 nominalAmplitude="0.048000" nominalAmplitudeVariation="0.009600" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.053340" period="431891456.000000" time="80195080.000000"/>
+            </stats>
+            <stats fillType="FRISCHKAESE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="23525604.000000">
+                <curveBaseCurve nominalAmplitude="0.198000" nominalAmplitudeVariation="0.148500" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.133978" period="69394224.000000" time="52045668.000000"/>
+                <curve1 nominalAmplitude="0.099000" nominalAmplitudeVariation="0.019800" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.105227" period="430678784.000000" time="35588932.000000"/>
+            </stats>
+            <stats fillType="MEHL" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="34202560.000000">
+                <curveBaseCurve nominalAmplitude="0.172000" nominalAmplitudeVariation="0.129000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.203974" period="79597552.000000" time="59698168.000000"/>
+                <curve1 nominalAmplitude="0.086000" nominalAmplitudeVariation="0.017200" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.079763" period="502741728.000000" time="293775968.000000"/>
+            </stats>
+            <stats fillType="LAMMFLEISCH" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="5630757.500000">
+                <curveBaseCurve nominalAmplitude="0.345000" nominalAmplitudeVariation="0.258750" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.095546" period="91630728.000000" time="22907682.000000"/>
+                <curve1 nominalAmplitude="0.172500" nominalAmplitudeVariation="0.034500" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.198870" period="489569952.000000" time="56511416.000000"/>
+            </stats>
+            <stats fillType="KIRSCHE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="29946402.000000">
+                <curveBaseCurve nominalAmplitude="0.096000" nominalAmplitudeVariation="0.072000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.026508" period="59951956.000000" time="14987989.000000"/>
+                <curve1 nominalAmplitude="0.048000" nominalAmplitudeVariation="0.009600" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.055768" period="581102208.000000" time="374834912.000000"/>
+            </stats>
+            <stats fillType="RINDFLEISCH" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="4769211.000000">
+                <curveBaseCurve nominalAmplitude="0.338000" nominalAmplitudeVariation="0.253500" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.174767" period="60074384.000000" time="15018596.000000"/>
+                <curve1 nominalAmplitude="0.169000" nominalAmplitudeVariation="0.033800" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.154350" period="548070720.000000" time="148950256.000000"/>
+            </stats>
+        </sellingStation>
+    </item>
+    <item className="SellingStationPlaceable" id="24" modName="FS19_NF_Marsch_4fach" filename="$moddir$FS19_NF_Marsch_4fach/maps/sellingStation/sellingStationKlaerwerk.xml" position="-153.7060 99.5500 730.5940" rotation="0.0000 90.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="sellingStationKlaeswerk">
+        <sellingStation>
+            <stats fillType="LIQUIDMANURE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="32685234.000000">
+                <curveBaseCurve nominalAmplitude="0.013200" nominalAmplitudeVariation="0.009900" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.009497" period="62153456.000000" time="46615092.000000"/>
+                <curve1 nominalAmplitude="0.006600" nominalAmplitudeVariation="0.001320" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.007913" period="514629760.000000" time="243061232.000000"/>
+            </stats>
+            <stats fillType="DIGESTATE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="17323902.000000">
+                <curveBaseCurve nominalAmplitude="0.013200" nominalAmplitudeVariation="0.009900" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.004302" period="58981612.000000" time="44236208.000000"/>
+                <curve1 nominalAmplitude="0.006600" nominalAmplitudeVariation="0.001320" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.007646" period="573563264.000000" time="387066976.000000"/>
+            </stats>
+        </sellingStation>
+    </item>
+    <item className="SellingStationPlaceable" id="25" modName="FS19_NF_Marsch_4fach" filename="$moddir$FS19_NF_Marsch_4fach/maps/sellingStation/sellingStationBahnhof.xml" position="-457.8220 99.5700 -109.9400" rotation="0.0000 0.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="sellingStationBahnhof">
+        <sellingStation>
+            <stats fillType="WHEAT" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="10701543.000000">
+                <curveBaseCurve nominalAmplitude="0.068074" nominalAmplitudeVariation="0.051056" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.054562" period="69203664.000000" time="51902744.000000"/>
+                <curve1 nominalAmplitude="0.034037" nominalAmplitudeVariation="0.006807" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.040246" period="401022720.000000" time="209138384.000000"/>
+            </stats>
+            <stats fillType="BARLEY" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="42232260.000000">
+                <curveBaseCurve nominalAmplitude="0.063226" nominalAmplitudeVariation="0.047419" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.056811" period="64507232.000000" time="16126808.000000"/>
+                <curve1 nominalAmplitude="0.031613" nominalAmplitudeVariation="0.006323" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.026354" period="416640896.000000" time="70846776.000000"/>
+            </stats>
+            <stats fillType="OAT" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="13573022.000000">
+                <curveBaseCurve nominalAmplitude="0.113726" nominalAmplitudeVariation="0.085294" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.052103" period="43796756.000000" time="10949189.000000"/>
+                <curve1 nominalAmplitude="0.056863" nominalAmplitudeVariation="0.011373" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.061961" period="469805728.000000" time="226219888.000000"/>
+            </stats>
+            <stats fillType="CANOLA" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.121806" nominalAmplitudeVariation="0.091354" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.141710" period="69742480.000000" time="10177757.000000"/>
+                <curve1 nominalAmplitude="0.060903" nominalAmplitudeVariation="0.012181" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.052147" period="585691200.000000" time="485558976.000000"/>
+            </stats>
+            <stats fillType="SUNFLOWER" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="14629221.000000">
+                <curveBaseCurve nominalAmplitude="0.134600" nominalAmplitudeVariation="0.100950" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.056705" period="91132752.000000" time="68349560.000000"/>
+                <curve1 nominalAmplitude="0.067300" nominalAmplitudeVariation="0.013460" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.059084" period="425903872.000000" time="150923936.000000"/>
+            </stats>
+            <stats fillType="SOYBEAN" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="45299800.000000">
+                <curveBaseCurve nominalAmplitude="0.155600" nominalAmplitudeVariation="0.116700" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.246193" period="59102188.000000" time="14775547.000000"/>
+                <curve1 nominalAmplitude="0.077800" nominalAmplitudeVariation="0.015560" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.071758" period="426571328.000000" time="140752224.000000"/>
+            </stats>
+            <stats fillType="MAIZE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="2866055.250000">
+                <curveBaseCurve nominalAmplitude="0.076000" nominalAmplitudeVariation="0.057000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.029587" period="94384448.000000" time="23596112.000000"/>
+                <curve1 nominalAmplitude="0.038000" nominalAmplitudeVariation="0.007600" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.036456" period="441184608.000000" time="286551008.000000"/>
+            </stats>
+            <stats fillType="POTATO" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="25334824.000000">
+                <curveBaseCurve nominalAmplitude="0.034400" nominalAmplitudeVariation="0.025800" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.055979" period="73549944.000000" time="55162460.000000"/>
+                <curve1 nominalAmplitude="0.017200" nominalAmplitudeVariation="0.003440" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.016869" period="470406016.000000" time="54534004.000000"/>
+            </stats>
+            <stats fillType="SUGARBEET" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.024400" nominalAmplitudeVariation="0.018300" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.035574" period="90093880.000000" time="12234558.000000"/>
+                <curve1 nominalAmplitude="0.012200" nominalAmplitudeVariation="0.002440" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.009952" period="407209440.000000" time="146779280.000000"/>
+            </stats>
+            <stats fillType="SUGARCANE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="5354822.000000">
+                <curveBaseCurve nominalAmplitude="0.023800" nominalAmplitudeVariation="0.017850" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.021663" period="47355300.000000" time="35516476.000000"/>
+                <curve1 nominalAmplitude="0.011900" nominalAmplitudeVariation="0.002380" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.009925" period="445519392.000000" time="222345104.000000"/>
+            </stats>
+            <stats fillType="MILLET" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.065000" nominalAmplitudeVariation="0.048750" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.017587" period="91578888.000000" time="61994464.000000"/>
+                <curve1 nominalAmplitude="0.032500" nominalAmplitudeVariation="0.006500" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.036288" period="597194304.000000" time="437088448.000000"/>
+            </stats>
+            <stats fillType="RYE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="10801445.000000">
+                <curveBaseCurve nominalAmplitude="0.070000" nominalAmplitudeVariation="0.052500" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.094568" period="84148624.000000" time="21037156.000000"/>
+                <curve1 nominalAmplitude="0.035000" nominalAmplitudeVariation="0.007000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.039598" period="569359872.000000" time="63053720.000000"/>
+            </stats>
+            <stats fillType="MEHL" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="30627022.000000">
+                <curveBaseCurve nominalAmplitude="0.172000" nominalAmplitudeVariation="0.129000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.084081" period="47662800.000000" time="11915700.000000"/>
+                <curve1 nominalAmplitude="0.086000" nominalAmplitudeVariation="0.017200" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.084641" period="543671872.000000" time="301083168.000000"/>
+            </stats>
+            <stats fillType="TOBACCO" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="423161.593750">
+                <curveBaseCurve nominalAmplitude="0.136000" nominalAmplitudeVariation="0.102000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.107913" period="71609240.000000" time="17902310.000000"/>
+                <curve1 nominalAmplitude="0.068000" nominalAmplitudeVariation="0.013600" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.069518" period="408006688.000000" time="363589024.000000"/>
+            </stats>
+            <stats fillType="SPELT" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="38854392.000000">
+                <curveBaseCurve nominalAmplitude="0.070000" nominalAmplitudeVariation="0.052500" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.017743" period="45741320.000000" time="11435330.000000"/>
+                <curve1 nominalAmplitude="0.035000" nominalAmplitudeVariation="0.007000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.034007" period="589088000.000000" time="210473488.000000"/>
+            </stats>
+            <stats fillType="SAND" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.020800" nominalAmplitudeVariation="0.015600" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.011304" period="80289072.000000" time="44540312.000000"/>
+                <curve1 nominalAmplitude="0.010400" nominalAmplitudeVariation="0.002080" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.011269" period="544989632.000000" time="376605024.000000"/>
+            </stats>
+            <stats fillType="PELLETS" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="28712836.000000">
+                <curveBaseCurve nominalAmplitude="0.076000" nominalAmplitudeVariation="0.057000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.051506" period="91628744.000000" time="68721552.000000"/>
+                <curve1 nominalAmplitude="0.038000" nominalAmplitudeVariation="0.007600" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.037705" period="414621120.000000" time="129912000.000000"/>
+            </stats>
+            <stats fillType="TRITICALE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="423161.593750">
+                <curveBaseCurve nominalAmplitude="0.070000" nominalAmplitudeVariation="0.052500" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.035642" period="67047948.000000" time="16761987.000000"/>
+                <curve1 nominalAmplitude="0.035000" nominalAmplitudeVariation="0.007000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.038342" period="476903168.000000" time="77082328.000000"/>
+            </stats>
+            <stats fillType="POPPY" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="916149.375000">
+                <curveBaseCurve nominalAmplitude="0.120000" nominalAmplitudeVariation="0.090000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.109745" period="89119184.000000" time="66839388.000000"/>
+                <curve1 nominalAmplitude="0.060000" nominalAmplitudeVariation="0.012000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.070946" period="581699776.000000" time="563971904.000000"/>
+            </stats>
+            <stats fillType="KIES" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="20478546.000000">
+                <curveBaseCurve nominalAmplitude="0.020800" nominalAmplitudeVariation="0.015600" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.014399" period="88733520.000000" time="22183380.000000"/>
+                <curve1 nominalAmplitude="0.010400" nominalAmplitudeVariation="0.002080" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.008946" period="491975776.000000" time="325765056.000000"/>
+            </stats>
+            <stats fillType="CHAFF" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="46835116.000000">
+                <curveBaseCurve nominalAmplitude="0.009240" nominalAmplitudeVariation="0.006930" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.011229" period="92912288.000000" time="69684216.000000"/>
+                <curve1 nominalAmplitude="0.004620" nominalAmplitudeVariation="0.000924" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.004538" period="512443520.000000" time="459085632.000000"/>
+            </stats>
+            <stats fillType="SORGHUM" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.065000" nominalAmplitudeVariation="0.048750" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.019011" period="88629400.000000" time="8354165.500000"/>
+                <curve1 nominalAmplitude="0.032500" nominalAmplitudeVariation="0.006500" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.030730" period="411052160.000000" time="33259094.000000"/>
+            </stats>
+            <stats fillType="CARROT" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="8454692.000000">
+                <curveBaseCurve nominalAmplitude="0.025000" nominalAmplitudeVariation="0.018750" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.007616" period="59438896.000000" time="14859724.000000"/>
+                <curve1 nominalAmplitude="0.012500" nominalAmplitudeVariation="0.002500" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.012045" period="515072896.000000" time="9357561.000000"/>
+            </stats>
+            <stats fillType="HOPS" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.065000" nominalAmplitudeVariation="0.048750" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.065752" period="67265960.000000" time="55413972.000000"/>
+                <curve1 nominalAmplitude="0.032500" nominalAmplitudeVariation="0.006500" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.028323" period="599815168.000000" time="438326272.000000"/>
+            </stats>
+            <stats fillType="ONION" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.025000" nominalAmplitudeVariation="0.018750" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.024959" period="71278944.000000" time="44644952.000000"/>
+                <curve1 nominalAmplitude="0.012500" nominalAmplitudeVariation="0.002500" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.012848" period="535036608.000000" time="33284760.000000"/>
+            </stats>
+        </sellingStation>
+    </item>
+    <item className="Workshop" id="26" modName="FS19_NF_Marsch_4fach" filename="$moddir$FS19_NF_Marsch_4fach/maps/sellingStation/sellingStationVehicles.xml" position="-102.0000 100.0000 9.2400" rotation="0.0000 0.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="sellingStationVehicles"/>
+    <item className="SellingStationPlaceable" id="27" modName="FS19_NF_Marsch_4fach" filename="$moddir$FS19_NF_Marsch_4fach/maps/sellingStation/sellingStationBales1.xml" position="574.8620 100.4000 -242.0710" rotation="0.0000 0.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="baleSellingStation">
+        <sellingStation>
+            <stats fillType="CHAFF" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="49294580.000000">
+                <curveBaseCurve nominalAmplitude="0.009240" nominalAmplitudeVariation="0.006930" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.007158" period="55281608.000000" time="41461208.000000"/>
+                <curve1 nominalAmplitude="0.004620" nominalAmplitudeVariation="0.000924" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.004730" period="510708288.000000" time="343275488.000000"/>
+            </stats>
+            <stats fillType="DRYGRASS_WINDROW" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.014560" nominalAmplitudeVariation="0.010920" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.008336" period="83711688.000000" time="74663856.000000"/>
+                <curve1 nominalAmplitude="0.007280" nominalAmplitudeVariation="0.001456" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.008715" period="462003872.000000" time="193403392.000000"/>
+            </stats>
+            <stats fillType="GRASS_WINDROW" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="45584724.000000">
+                <curveBaseCurve nominalAmplitude="0.009900" nominalAmplitudeVariation="0.007425" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.008951" period="67630048.000000" time="50722536.000000"/>
+                <curve1 nominalAmplitude="0.004950" nominalAmplitudeVariation="0.000990" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.005436" period="493120032.000000" time="321036256.000000"/>
+            </stats>
+            <stats fillType="STRAW" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.009020" nominalAmplitudeVariation="0.006765" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.009979" period="82258656.000000" time="11144658.000000"/>
+                <curve1 nominalAmplitude="0.004510" nominalAmplitudeVariation="0.000902" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.003722" period="496213312.000000" time="56457020.000000"/>
+            </stats>
+            <stats fillType="SILAGE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="35649880.000000">
+                <curveBaseCurve nominalAmplitude="0.037620" nominalAmplitudeVariation="0.028215" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.012331" period="53394184.000000" time="13348546.000000"/>
+                <curve1 nominalAmplitude="0.018810" nominalAmplitudeVariation="0.003762" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.016285" period="534537856.000000" time="321501664.000000"/>
+            </stats>
+        </sellingStation>
+    </item>
+    <item className="BgaPlaceable" id="28" modName="FS19_NF_Marsch_4fach" filename="$moddir$FS19_NF_Marsch_4fach/maps/sellingStation/bga/bga.xml" position="-119.0000 106.6160 -988.3300" rotation="0.0000 90.0000 0.0000" age="0" price="1.000000" farmId="15" mapBoundId="bgaNord">
+        <bga money="0.000000">
+            <digestateSilo>
+                <storage index="1" farmId="15"/>
+            </digestateSilo>
+            <slot index="1">
+                <fillType fillType="GRASS_WINDROW" fillLevel="0.000000"/>
+                <fillType fillType="DRYGRASS_WINDROW" fillLevel="0.000000"/>
+                <fillType fillType="BEETPULP" fillLevel="0.000000"/>
+                <fillType fillType="SILAGE" fillLevel="0.000000"/>
+            </slot>
+            <slot index="2">
+                <fillType fillType="LIQUIDMANURE" fillLevel="0.000000"/>
+                <fillType fillType="MANURE" fillLevel="0.000000"/>
+            </slot>
+        </bga>
+    </item>
+    <item className="SellingStationPlaceable" id="29" modName="FS19_NF_Marsch_4fach" filename="$moddir$FS19_NF_Marsch_4fach/maps/sellingStation/sellingStationLidl.xml" position="-251.0000 99.5500 -658.0000" rotation="0.0000 0.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="sellingStationLidl">
+        <sellingStation>
+            <stats fillType="EGG" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="33389818.000000">
+                <curveBaseCurve nominalAmplitude="0.230000" nominalAmplitudeVariation="0.172500" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.192542" period="53785864.000000" time="40339400.000000"/>
+                <curve1 nominalAmplitude="0.115000" nominalAmplitudeVariation="0.023000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.093811" period="516372992.000000" time="333608832.000000"/>
+            </stats>
+            <stats fillType="BIERKASTEN" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="14789252.000000">
+                <curveBaseCurve nominalAmplitude="0.220000" nominalAmplitudeVariation="0.165000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.104402" period="74415128.000000" time="55811344.000000"/>
+                <curve1 nominalAmplitude="0.110000" nominalAmplitudeVariation="0.022000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.103665" period="498700000.000000" time="171917888.000000"/>
+            </stats>
+            <stats fillType="APFEL" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="423161.593750">
+                <curveBaseCurve nominalAmplitude="0.096000" nominalAmplitudeVariation="0.072000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.104357" period="44684340.000000" time="11171085.000000"/>
+                <curve1 nominalAmplitude="0.048000" nominalAmplitudeVariation="0.009600" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.056332" period="435579680.000000" time="374868320.000000"/>
+            </stats>
+            <stats fillType="SCHWEINEFLEISCH" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.253000" nominalAmplitudeVariation="0.189750" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.174800" period="51009876.000000" time="47697760.000000"/>
+                <curve1 nominalAmplitude="0.126500" nominalAmplitudeVariation="0.025300" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.108008" period="472915552.000000" time="302900352.000000"/>
+            </stats>
+            <stats fillType="WURST" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="46723140.000000">
+                <curveBaseCurve nominalAmplitude="0.330000" nominalAmplitudeVariation="0.247500" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.396218" period="93905920.000000" time="70429440.000000"/>
+                <curve1 nominalAmplitude="0.165000" nominalAmplitudeVariation="0.033000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.180142" period="586542848.000000" time="169136640.000000"/>
+            </stats>
+            <stats fillType="BIERFASS" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.220000" nominalAmplitudeVariation="0.165000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.142907" period="69894960.000000" time="39127732.000000"/>
+                <curve1 nominalAmplitude="0.110000" nominalAmplitudeVariation="0.022000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.096220" period="539343680.000000" time="488079808.000000"/>
+            </stats>
+            <stats fillType="BIRNE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="19334656.000000">
+                <curveBaseCurve nominalAmplitude="0.096000" nominalAmplitudeVariation="0.072000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.120739" period="92524768.000000" time="69393576.000000"/>
+                <curve1 nominalAmplitude="0.048000" nominalAmplitudeVariation="0.009600" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.052135" period="507053120.000000" time="472520480.000000"/>
+            </stats>
+            <stats fillType="KAESE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="19354152.000000">
+                <curveBaseCurve nominalAmplitude="0.198000" nominalAmplitudeVariation="0.148500" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.088768" period="90297544.000000" time="22574386.000000"/>
+                <curve1 nominalAmplitude="0.099000" nominalAmplitudeVariation="0.019800" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.092473" period="599835584.000000" time="349759456.000000"/>
+            </stats>
+            <stats fillType="ZUCKER" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="42393584.000000">
+                <curveBaseCurve nominalAmplitude="0.120000" nominalAmplitudeVariation="0.090000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.045917" period="83345960.000000" time="20836490.000000"/>
+                <curve1 nominalAmplitude="0.060000" nominalAmplitudeVariation="0.012000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.049598" period="510795936.000000" time="402354368.000000"/>
+            </stats>
+            <stats fillType="HUEHNCHENFLEISCH" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="21323484.000000">
+                <curveBaseCurve nominalAmplitude="0.200000" nominalAmplitudeVariation="0.150000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.094838" period="78782424.000000" time="59086820.000000"/>
+                <curve1 nominalAmplitude="0.100000" nominalAmplitudeVariation="0.020000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.103687" period="569604800.000000" time="15276827.000000"/>
+            </stats>
+            <stats fillType="PFLAUME" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="5894644.000000">
+                <curveBaseCurve nominalAmplitude="0.096000" nominalAmplitudeVariation="0.072000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.029963" period="48108032.000000" time="12027008.000000"/>
+                <curve1 nominalAmplitude="0.048000" nominalAmplitudeVariation="0.009600" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.052612" period="446895296.000000" time="109486952.000000"/>
+            </stats>
+            <stats fillType="FRISCHKAESE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="30937030.000000">
+                <curveBaseCurve nominalAmplitude="0.198000" nominalAmplitudeVariation="0.148500" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.148001" period="86582688.000000" time="64937016.000000"/>
+                <curve1 nominalAmplitude="0.099000" nominalAmplitudeVariation="0.019800" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.095168" period="515384320.000000" time="16197636.000000"/>
+            </stats>
+            <stats fillType="MEHL" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="22809950.000000">
+                <curveBaseCurve nominalAmplitude="0.172000" nominalAmplitudeVariation="0.129000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.152983" period="69773136.000000" time="52329852.000000"/>
+                <curve1 nominalAmplitude="0.086000" nominalAmplitudeVariation="0.017200" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.095687" period="497201760.000000" time="216252576.000000"/>
+            </stats>
+            <stats fillType="LAMMFLEISCH" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="30578484.000000">
+                <curveBaseCurve nominalAmplitude="0.345000" nominalAmplitudeVariation="0.258750" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.318061" period="86407016.000000" time="64805260.000000"/>
+                <curve1 nominalAmplitude="0.172500" nominalAmplitudeVariation="0.034500" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.173654" period="568755968.000000" time="420769536.000000"/>
+            </stats>
+            <stats fillType="KIRSCHE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="35697780.000000">
+                <curveBaseCurve nominalAmplitude="0.096000" nominalAmplitudeVariation="0.072000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.045041" period="91759616.000000" time="22939904.000000"/>
+                <curve1 nominalAmplitude="0.048000" nominalAmplitudeVariation="0.009600" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.046009" period="555812416.000000" time="298153632.000000"/>
+            </stats>
+            <stats fillType="RINDFLEISCH" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.338000" nominalAmplitudeVariation="0.253500" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.220977" period="90450784.000000" time="67523864.000000"/>
+                <curve1 nominalAmplitude="0.169000" nominalAmplitudeVariation="0.033800" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.198673" period="518211968.000000" time="230293536.000000"/>
+            </stats>
+        </sellingStation>
+    </item>
+    <item className="WoodSellStationPlaceable" id="30" modName="FS19_NF_Marsch_4fach" filename="$moddir$FS19_NF_Marsch_4fach/maps/sellingStation/sellingStationWood/sellingStationWood.xml" position="-908.4000 100.0000 769.4400" rotation="-180.0000 0.0000 -180.0000" age="0" price="0.000000" farmId="0" mapBoundId="sellingStationWood"/>
+    <item className="SellingStationPlaceable" id="31" modName="FS19_NF_Marsch_4fach" filename="$moddir$FS19_NF_Marsch_4fach/maps/sellingStation/sellingStationRaffinerie.xml" position="-926.2350 99.5700 527.2260" rotation="0.0000 0.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="sellingStationRaffinerie">
+        <sellingStation>
+            <stats fillType="CANOLA" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="2735208.500000">
+                <curveBaseCurve nominalAmplitude="0.120600" nominalAmplitudeVariation="0.090450" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.061093" period="71724248.000000" time="53793188.000000"/>
+                <curve1 nominalAmplitude="0.060300" nominalAmplitudeVariation="0.012060" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.053853" period="462132960.000000" time="384182048.000000"/>
+            </stats>
+            <stats fillType="SUNFLOWER" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="423161.593750">
+                <curveBaseCurve nominalAmplitude="0.134600" nominalAmplitudeVariation="0.100950" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.054351" period="74066936.000000" time="18516734.000000"/>
+                <curve1 nominalAmplitude="0.067300" nominalAmplitudeVariation="0.013460" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.078464" period="490146720.000000" time="24590804.000000"/>
+            </stats>
+        </sellingStation>
+    </item>
+    <item className="SellingStationPlaceable" id="32" modName="FS19_NF_Marsch_4fach" filename="$moddir$FS19_NF_Marsch_4fach/maps/sellingStation/sellingStationTankstelle.xml" position="806.0000 99.5500 -847.7000" rotation="0.0000 90.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="sellingStationTanke">
+        <sellingStation>
+            <stats fillType="DIESEL" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="6007652.500000">
+                <curveBaseCurve nominalAmplitude="0.117000" nominalAmplitudeVariation="0.087750" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.031708" period="71352712.000000" time="53514536.000000"/>
+                <curve1 nominalAmplitude="0.058500" nominalAmplitudeVariation="0.011700" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.050080" period="589282304.000000" time="173785376.000000"/>
+            </stats>
+        </sellingStation>
+    </item>
+</items>

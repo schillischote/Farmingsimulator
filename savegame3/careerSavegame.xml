@@ -1,0 +1,60 @@
+﻿<careerSavegame revision="2" valid="true">
+    <settings>
+        <savegameName>Mein Spielstand</savegameName>
+        <mapId>MapDE</mapId>
+        <mapTitle>Felsbrunn</mapTitle>
+        <saveDate>19.05.2020</saveDate>
+        <playerModelIndex>1</playerModelIndex>
+        <playerColorIndex>6</playerColorIndex>
+        <playerBodyIndex>1</playerBodyIndex>
+        <playerHatIndex>0</playerHatIndex>
+        <playerAccessoryIndex>1</playerAccessoryIndex>
+        <playerHairIndex>2</playerHairIndex>
+        <playerJacketIndex>0</playerJacketIndex>
+        <playerName>FreundofHouse</playerName>
+        <resetVehicles>false</resetVehicles>
+        <isPlantWitheringEnabled>true</isPlantWitheringEnabled>
+        <trafficEnabled>false</trafficEnabled>
+        <stopAndGoBraking>true</stopAndGoBraking>
+        <automaticMotorStartEnabled>true</automaticMotorStartEnabled>
+        <fruitDestruction>true</fruitDestruction>
+        <plowingRequiredEnabled>true</plowingRequiredEnabled>
+        <weedsEnabled>true</weedsEnabled>
+        <limeRequired>true</limeRequired>
+        <fuelUsageLow>false</fuelUsageLow>
+        <helperBuyFuel>true</helperBuyFuel>
+        <helperBuySeeds>true</helperBuySeeds>
+        <helperBuyFertilizer>true</helperBuyFertilizer>
+        <helperSlurrySource>2</helperSlurrySource>
+        <helperManureSource>2</helperManureSource>
+        <densityMapRevision>3</densityMapRevision>
+        <terrainLodTextureRevision>2</terrainLodTextureRevision>
+        <splitShapesRevision>1</splitShapesRevision>
+        <tipCollisionRevision>1</tipCollisionRevision>
+        <placementCollisionRevision>1</placementCollisionRevision>
+        <mapDensityMapRevision>1</mapDensityMapRevision>
+        <mapTerrainLodTextureRevision>1</mapTerrainLodTextureRevision>
+        <mapSplitShapesRevision>1</mapSplitShapesRevision>
+        <mapTipCollisionRevision>1</mapTipCollisionRevision>
+        <mapPlacementCollisionRevision>1</mapPlacementCollisionRevision>
+        <difficulty>2</difficulty>
+        <economicDifficulty>2</economicDifficulty>
+        <plantGrowthRate>3</plantGrowthRate>
+        <dirtInterval>3</dirtInterval>
+        <timeScale>1.000000</timeScale>
+        <autoSaveInterval>15.000000</autoSaveInterval>
+    </settings>
+    <map>
+        <foundHelpIcons>00000000000000000000</foundHelpIcons>
+    </map>
+    <statistics>
+        <money>17454</money>
+        <playTime>1079.435791</playTime>
+    </statistics>
+    <mapsSplitShapeFileIds count="1">
+        <id id="0"/>
+    </mapsSplitShapeFileIds>
+    <mod modName="FS19_AnimalPenExtension" title="Animal Pen Extension" version="1.1.0.2" required="false" fileHash="edb414ef9564f51ed6a654fab6d3d7d7"/>
+    <mod modName="FS19_guidanceSteering" title="Guidance Steering" version="1.0.0.0" required="false" fileHash="3645a5c70e203ab001c499805eb2c473"/>
+    <mod modName="FS19_UniversalPassenger" title="Universal Passenger" version="1.0.1.0" required="false" fileHash="8ac8aedd6ad8934652ec8e371eb64219"/>
+</careerSavegame>

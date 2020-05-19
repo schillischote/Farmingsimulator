@@ -1,0 +1,3143 @@
+﻿<vehicles>
+    <vehicle id="1" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/vehicles/fuelStorage/fuelStorage.xml" isAbsolute="true" age="13.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-44.2410 66.9710 210.2520" rotation="0.0000 -0.0000 0.0000"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="2" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/vehicles/liquidManureStorage/liquidManureStorage.xml" isAbsolute="true" age="13.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-98.8090 65.0360 121.6693" rotation="-0.0000 90.0000 0.0000"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="3" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/vehicles/hayBarn/hayBarn.xml" isAbsolute="true" age="13.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="167.235367">
+        <component1 position="-96.9360 66.8846 162.4180" rotation="-0.0000 -90.0000 0.0000"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="motor" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <fillUnit>
+            <unit index="1" fillType="STRAW" fillLevel="27003.705078"/>
+        </fillUnit>
+        <drivable cruiseControl="0.000000"/>
+        <attacherJoints comboDirection="-1"/>
+    </vehicle>
+    <vehicle id="4" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/vehicles/storageSilos/universalStorageSilo.xml" isAbsolute="true" age="13.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-82.7920 66.9095 177.0050" rotation="0.0000 -0.0000 0.0000"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="5" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/bigBags/bigBagSeeds.xml" isAbsolute="true" age="13.000000" price="900.000000" farmId="1" propertyState="1" operatingTime="33.169579">
+        <component1 position="-23.1630 70.6729 201.5703" rotation="-179.9935 88.4238 -179.9967"/>
+        <component2 position="-23.1619 70.7729 201.5703" rotation="179.9977 88.4238 179.9977"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="design" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="design" id="1"/>
+        <washable>
+            <dirtNode amount="0.011004"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.001468"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <fillUnit>
+            <unit index="1" fillType="SEEDS" fillLevel="2000.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="6" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/bigBags/bigBagSeeds.xml" isAbsolute="true" age="13.000000" price="900.000000" farmId="1" propertyState="1" operatingTime="22.201948">
+        <component1 position="-23.1902 70.6729 202.7658" rotation="179.9987 89.3729 179.9955"/>
+        <component2 position="-23.1890 70.7729 202.7658" rotation="179.9893 89.3729 179.9893"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="design" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="design" id="1"/>
+        <washable>
+            <dirtNode amount="0.010786"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.001438"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <fillUnit>
+            <unit index="1" fillType="SEEDS" fillLevel="2000.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="7" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/bigBags/bigBagFertilizer.xml" isAbsolute="true" age="13.000000" price="1920.000000" farmId="1" propertyState="1" operatingTime="15.501383">
+        <component1 position="-21.1778 70.6729 201.3906" rotation="-0.0059 88.1072 -0.0112"/>
+        <component2 position="-21.1766 70.7729 201.3907" rotation="-0.0126 88.1072 -0.0131"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="design" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="design" id="1"/>
+        <washable>
+            <dirtNode amount="0.011049"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.001473"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <fillUnit>
+            <unit index="1" fillType="FERTILIZER" fillLevel="2000.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="8" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/bigBags/bigBagLime.xml" isAbsolute="true" age="13.000000" price="450.000000" farmId="1" propertyState="1" operatingTime="52.304653">
+        <component1 position="-21.0628 70.6728 202.8897" rotation="-0.1205 88.5824 -0.1228"/>
+        <component2 position="-21.0616 70.7729 202.8896" rotation="-0.0157 88.5824 -0.0156"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="design" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="design" id="1"/>
+        <washable>
+            <dirtNode amount="0.011355"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.001514"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <fillUnit>
+            <unit index="1" fillType="LIME" fillLevel="2000.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="9" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/bigBags/bigBagChickenFood.xml" isAbsolute="true" age="13.000000" price="1500.000000" farmId="1" propertyState="1" operatingTime="107.509476">
+        <component1 position="-25.8168 66.9009 275.4138" rotation="-179.9992 15.2595 179.9998"/>
+        <component2 position="-25.8165 67.0009 275.4127" rotation="179.9994 15.2595 -180.0000"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="design" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="design" id="1"/>
+        <washable>
+            <dirtNode amount="0.015649"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.002087"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <fillUnit>
+            <unit index="1" fillType="WHEAT" fillLevel="1900.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="10" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/bigBags/bigBagPigFood.xml" isAbsolute="true" age="13.000000" price="1000.000000" farmId="1" propertyState="1" operatingTime="89.474655">
+        <component1 position="-25.3092 70.6729 202.7079" rotation="-179.9882 -88.0473 179.9924"/>
+        <component2 position="-25.3104 70.7729 202.7078" rotation="-179.9949 -88.0472 179.9948"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="design" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="design" id="1"/>
+        <washable>
+            <dirtNode amount="0.014187"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.001892"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <fillUnit>
+            <unit index="1" fillType="PIGFOOD" fillLevel="2000.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="11" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/bigBags/bigBagHorseFood.xml" isAbsolute="true" age="13.000000" price="1400.000000" farmId="1" propertyState="1" operatingTime="38.570099">
+        <component1 position="-13.8232 66.9107 205.0527" rotation="-179.9920 -86.3610 179.9956"/>
+        <component2 position="-13.8244 67.0107 205.0526" rotation="179.9979 -86.3609 -179.9981"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="design" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="design" id="1"/>
+        <washable>
+            <dirtNode amount="0.011095"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.001480"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <fillUnit>
+            <unit index="1" fillType="OAT" fillLevel="2000.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="12" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/vehicles/vertiMixer/vertiMixTMR.xml" isAbsolute="true" age="13.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="2930.203125">
+        <component1 position="-16.3620 70.5429 91.0818" rotation="0.0000 -0.0000 0.0000"/>
+        <configuration name="fillVolume" id="1"/>
+        <configuration name="motor" id="1"/>
+        <configuration name="trailer" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="design" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="trailer" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="design" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <drivable cruiseControl="0.000000"/>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <FS19_HofBergmann>
+            <mixerWagonImproved currentMixingTime="120000">
+                <fillType fillLevel="9142.857422"/>
+                <fillType fillLevel="4571.428711"/>
+                <fillType fillLevel="2285.714355"/>
+            </mixerWagonImproved>
+        </FS19_HofBergmann>
+    </vehicle>
+    <vehicle id="13" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/vehicles/vertiMixer/vertiMixPigFood.xml" isAbsolute="true" age="13.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-77.0970 67.0896 257.8387" rotation="-180.0000 -0.0000 -180.0000"/>
+        <configuration name="fillVolume" id="1"/>
+        <configuration name="motor" id="1"/>
+        <configuration name="trailer" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="design" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="trailer" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="design" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <cylindered>
+            <movingTool rotation="-1.221730"/>
+        </cylindered>
+        <drivable cruiseControl="0.000000"/>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <trailer tipSideIndex="1"/>
+        <FS19_HofBergmann>
+            <mixerWagonImproved currentMixingTime="0">
+                <fillType fillLevel="0.000000"/>
+                <fillType fillLevel="0.000000"/>
+            </mixerWagonImproved>
+        </FS19_HofBergmann>
+    </vehicle>
+    <vehicle id="14" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/vehicles/companyPropertyVehicles/mc18.xml" isAbsolute="true" age="13.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="866.898010">
+        <component1 position="679.7527 67.3507 -101.4291" rotation="174.4516 -76.7090 -176.1561"/>
+        <component2 position="680.7910 67.7720 -101.1777" rotation="174.3520 -76.7066 -176.0548"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="motor" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <washable>
+            <dirtNode amount="0.043113"/>
+            <dirtNode amount="0.043113"/>
+            <dirtNode amount="0.043113"/>
+            <dirtNode amount="0.043113"/>
+            <dirtNode amount="0.043113"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.008714"/>
+        </wearable>
+        <cylindered>
+            <movingTool animationTime="0.371362"/>
+            <movingTool rotation="-0.030439"/>
+        </cylindered>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="70.549332"/>
+        </fillUnit>
+        <drivable cruiseControl="25.000000"/>
+        <attacherJoints comboDirection="-1"/>
+    </vehicle>
+    <vehicle id="15" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/vehicles/companyPropertyVehicles/mc18.xml" isAbsolute="true" age="13.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="700.193054">
+        <component1 position="-836.5519 57.1869 -2.7951" rotation="178.7099 -2.2523 -179.9442"/>
+        <component2 position="-836.5105 57.6179 -1.7315" rotation="178.7081 -2.2519 -179.9256"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="motor" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <washable>
+            <dirtNode amount="0.035621"/>
+            <dirtNode amount="0.035621"/>
+            <dirtNode amount="0.035621"/>
+            <dirtNode amount="0.035621"/>
+            <dirtNode amount="0.035621"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.012836"/>
+        </wearable>
+        <cylindered>
+            <movingTool animationTime="0.000000"/>
+            <movingTool rotation="0.042351"/>
+        </cylindered>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="70.764786"/>
+        </fillUnit>
+        <drivable cruiseControl="25.000000"/>
+        <attacherJoints comboDirection="-1"/>
+    </vehicle>
+    <vehicle id="16" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/vehicles/seedMaster/seedMaster.xml" isAbsolute="true" age="13.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-13.4210 70.5858 135.8140" rotation="-0.0000 -90.0000 0.0000"/>
+        <configuration name="motor" id="1"/>
+        <configuration name="trailer" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="trailer" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <cylindered>
+            <movingTool rotation="-1.570796"/>
+        </cylindered>
+        <drivable cruiseControl="0.000000"/>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <FS19_HofBergmann>
+            <mixerWagonImproved currentMixingTime="0">
+                <fillType fillLevel="0.000000"/>
+                <fillType fillLevel="0.000000"/>
+            </mixerWagonImproved>
+        </FS19_HofBergmann>
+    </vehicle>
+    <vehicle id="17" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/vehicles/storageSilos/universalStorageSilo.xml" isAbsolute="true" age="13.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-1.4460 64.5033 -392.1192" rotation="0.0000 -0.0000 0.0000"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="18" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/vehicles/storageSilos/universalStorageSilo.xml" isAbsolute="true" age="13.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-68.3600 67.7257 308.9279" rotation="180.0000 27.5978 180.0000"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="19" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/vehicles/fuelStorage/fuelStorage.xml" isAbsolute="true" age="13.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-24.3900 67.6445 315.8668" rotation="180.0000 18.2320 -180.0000"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="20" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/crates/fillableWoodBox.xml" isAbsolute="true" age="13.000000" price="50.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="6.3148 67.5882 257.7680" rotation="-179.9940 -25.1765 180.0000"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.014555"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.002183"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="21" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/crates/fillableWoodBox.xml" isAbsolute="true" age="13.000000" price="50.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="6.3344 67.5882 256.8167" rotation="-179.9940 2.9406 -180.0000"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.014619"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.002193"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="22" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/crates/fillableWoodBox.xml" isAbsolute="true" age="13.000000" price="50.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="6.4053 67.5882 256.2021" rotation="0.0065 -2.4738 -0.0003"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.014758"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.002214"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="23" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/crates/fillableWoodBox.xml" isAbsolute="true" age="13.000000" price="50.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="6.4342 67.5882 255.4731" rotation="-179.9946 3.0112 179.9998"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.014623"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.002193"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="24" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/crates/fillableBoxSmall.xml" isAbsolute="true" age="13.000000" price="70.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-0.5707 66.9961 252.9971" rotation="-179.9984 0.6260 -180.0000"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.014621"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.002193"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="25" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/crates/fillableBoxSmall.xml" isAbsolute="true" age="13.000000" price="70.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-0.5165 66.9987 254.0736" rotation="-179.8008 0.3126 -179.8839"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.015180"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.002277"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="26" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/vehicles/storageSilos/milkStorageTank.xml" isAbsolute="true" age="13.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-146.4100 71.7009 116.5634" rotation="-0.0000 90.0000 0.0000"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="27" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/buckets/fillableBucket.xml" isAbsolute="true" age="13.000000" price="12.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-8.7881 67.1897 262.0724" rotation="128.0270 4.0644 93.3460"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.014580"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.002432"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="28" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/vehicles/hayDryer/hayDryer.xml" isAbsolute="true" age="13.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-14.2300 66.8750 203.1440" rotation="0.0000 -0.0000 0.0000"/>
+        <configuration name="trailer" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="motor" id="1"/>
+        <boughtConfiguration name="trailer" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <cylindered>
+            <movingTool animationTime="0.000000"/>
+        </cylindered>
+        <fillUnit>
+            <unit index="2" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+        <drivable cruiseControl="0.000000"/>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="0.000000"/>
+        <trailer tipSideIndex="1"/>
+        <FS19_HofBergmann>
+            <mixerWagonImproved currentMixingTime="0">
+                <fillType fillLevel="0.000000"/>
+            </mixerWagonImproved>
+        </FS19_HofBergmann>
+    </vehicle>
+    <vehicle id="29" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/vehicles/bigBagFillingStation/bigBagFillingStation.xml" isAbsolute="true" age="13.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-58.1630 67.1285 173.0799" rotation="180.0000 -0.0000 180.0000"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="0.000000"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+        <receivingHopper createBoxes="false"/>
+    </vehicle>
+    <vehicle id="30" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/vehicles/hayDryer/hayDryer_overloadModul.xml" isAbsolute="true" age="13.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-16.4740 68.6911 210.2660" rotation="0.0000 -0.0000 0.0000"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="0.000000"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="31" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/vehicles/milkingParlour/milkingParlour.xml" isAbsolute="true" age="13.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="1.900166">
+        <component1 position="333.8460 58.1490 346.5405" rotation="0.0000 66.1060 0.0000"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="motor" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+        <drivable cruiseControl="0.000000"/>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="0.000000"/>
+    </vehicle>
+    <vehicle id="32" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/vehicles/milkingParlour/milkingParlour_small.xml" isAbsolute="true" age="13.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="125.685188">
+        <component1 position="-63.1680 70.3701 74.4956" rotation="0.0000 88.3550 0.0000"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="motor" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+        <drivable cruiseControl="0.000000"/>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="0.000000"/>
+    </vehicle>
+    <vehicle id="33" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/buckets/fillableBucket.xml" isAbsolute="true" age="13.000000" price="12.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="338.6780 57.7451 343.1429" rotation="-179.7047 -40.4420 -179.7434"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.017840"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.002676"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="34" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/buckets/fillableBucket.xml" isAbsolute="true" age="13.000000" price="12.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-148.2038 71.7487 119.5036" rotation="-179.9966 -41.9510 -179.9999"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.036094"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.005414"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="35" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/milkCan/milkCan_Fillable.xml" isAbsolute="true" age="13.000000" price="80.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="335.2065 57.7471 352.9453" rotation="-0.0083 -82.7481 -0.2162"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.018831"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.002825"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="36" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/milkCan/milkCan_Fillable.xml" isAbsolute="true" age="13.000000" price="80.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-58.8202 70.6114 87.5420" rotation="0.0005 38.3710 0.0015"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.008920"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.001338"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="37" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/vehicles/companyPropertyVehicles/fordTransit.xml" isAbsolute="true" age="13.000000" price="69800.000000" farmId="1" propertyState="1" operatingTime="51.566502">
+        <component1 position="-824.0580 57.3275 47.5544" rotation="-0.0809 -0.2814 -0.0437"/>
+        <configuration name="universalPassenger" id="1"/>
+        <configuration name="designMaterial" id="1"/>
+        <configuration name="design" id="11"/>
+        <configuration name="baseMaterial" id="1"/>
+        <configuration name="motor" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="tensionBelts" id="1"/>
+        <boughtConfiguration name="universalPassenger" id="1"/>
+        <boughtConfiguration name="designMaterial" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="design" id="1"/>
+        <boughtConfiguration name="design" id="11"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="tensionBelts" id="1"/>
+        <washable>
+            <dirtNode amount="0.003618"/>
+            <dirtNode amount="0.003618"/>
+            <dirtNode amount="0.003618"/>
+            <dirtNode amount="0.003618"/>
+            <dirtNode amount="0.003618"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000678"/>
+        </wearable>
+        <cylindered>
+            <movingTool animationTime="0.000000"/>
+            <movingTool animationTime="0.000000"/>
+        </cylindered>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="119.943047"/>
+        </fillUnit>
+        <drivable cruiseControl="123.000000"/>
+        <attacherJoints comboDirection="-1"/>
+        <tensionBelts>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+        </tensionBelts>
+        <foldable foldAnimTime="0.000000"/>
+    </vehicle>
+    <vehicle id="38" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/vehicles/claasDieselAddon/claasFuelBarrelPallet.xml" isAbsolute="true" age="13.000000" price="600.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-42.9801 66.9991 215.7042" rotation="0.0415 -89.5585 -0.0417"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.007264"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.001362"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="400.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="39" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/vehicles/claasDieselAddon/claasFuelBarrel.xml" isAbsolute="true" age="13.000000" price="300.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-33.4507 67.0059 212.9221" rotation="179.9997 56.0249 179.9993"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="design" id="2"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="design" id="1"/>
+        <boughtConfiguration name="design" id="2"/>
+        <washable>
+            <dirtNode amount="0.007557"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.001416"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="200.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="40" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/vehicles/fuelStorage/fuelStorage2.xml" isAbsolute="true" age="13.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="71.1590 68.5359 195.7254" rotation="0.0000 -0.0000 0.0000"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="41" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/vehicles/storageSilos/universalStorageSilo.xml" isAbsolute="true" age="13.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="92.8990 68.4941 225.0754" rotation="-0.0000 -90.0000 0.0000"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="42" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/vehicles/claasDieselAddon/claasFuelBarrel.xml" isAbsolute="true" age="13.000000" price="300.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="69.6222 68.5806 199.8017" rotation="-0.1122 3.9762 0.3027"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="design" id="2"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="design" id="1"/>
+        <boughtConfiguration name="design" id="2"/>
+        <washable>
+            <dirtNode amount="0.008079"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.001515"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="200.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="43" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/vehicles/storageSilos/waterDispenserSilo.xml" isAbsolute="true" age="13.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="3.8110 68.4100 240.4660" rotation="180.0000 -0.0000 180.0000"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <fillUnit>
+            <unit index="1" fillType="WATER" fillLevel="999999296.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="44" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/buckets/fillableBucket.xml" isAbsolute="true" age="13.000000" price="12.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="4.3337 67.1550 240.9472" rotation="0.0335 89.2237 0.0303"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.013225"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.002099"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="WATER" fillLevel="100.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="45" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/buckets/fillableBucket.xml" isAbsolute="true" age="13.000000" price="12.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-34.9540 67.0012 269.9932" rotation="-2.2567 79.9052 -0.8217"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.012027"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.001804"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="46" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/vehicles/companyPropertyVehicles/mc18.xml" isAbsolute="true" age="13.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="47.807766">
+        <component1 position="-740.0494 57.0652 -131.0907" rotation="179.1215 -2.4262 -179.9819"/>
+        <component2 position="-740.0045 57.5038 -130.0304" rotation="179.1160 -2.4266 179.9925"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="motor" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <washable>
+            <dirtNode amount="0.003749"/>
+            <dirtNode amount="0.003749"/>
+            <dirtNode amount="0.003749"/>
+            <dirtNode amount="0.003749"/>
+            <dirtNode amount="0.003749"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000890"/>
+        </wearable>
+        <cylindered>
+            <movingTool animationTime="0.034653"/>
+            <movingTool rotation="-0.174533"/>
+        </cylindered>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="70.960411"/>
+        </fillUnit>
+        <drivable cruiseControl="25.000000"/>
+        <attacherJoints comboDirection="-1"/>
+    </vehicle>
+    <vehicle id="47" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/vehicles/companyPropertyVehicles/mc18.xml" isAbsolute="true" age="13.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="77.934288">
+        <component1 position="-798.6378 57.1667 259.3943" rotation="-11.9042 88.5629 -11.3653"/>
+        <component2 position="-799.6961 57.6115 259.3661" rotation="-12.6541 88.5589 -12.1085"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="motor" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <washable>
+            <dirtNode amount="0.006944"/>
+            <dirtNode amount="0.006944"/>
+            <dirtNode amount="0.006944"/>
+            <dirtNode amount="0.006944"/>
+            <dirtNode amount="0.006944"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.001420"/>
+        </wearable>
+        <cylindered>
+            <movingTool animationTime="0.026119"/>
+            <movingTool rotation="-0.174533"/>
+        </cylindered>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="70.921532"/>
+        </fillUnit>
+        <drivable cruiseControl="25.000000"/>
+        <attacherJoints comboDirection="-1"/>
+    </vehicle>
+    <vehicle id="48" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/bread/breadBox.xml" isAbsolute="true" age="13.000000" price="20.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-2.0189 67.1525 247.6413" rotation="179.9919 88.1675 179.9914"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.009046"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.001357"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="49" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/bread/breadBox.xml" isAbsolute="true" age="13.000000" price="20.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-1.0760 67.1525 246.6500" rotation="-179.9991 33.8877 -179.9998"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.006334"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000987"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="BREAD" fillLevel="261.666656"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="50" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/vehicles/generalHoseSystem/generalHoseSystem.xml" isAbsolute="true" age="13.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-143.5020 72.3440 79.4342" rotation="-0.0000 90.0000 0.0000"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000000"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+    </vehicle>
+    <vehicle id="51" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/vehicles/generalHoseSystem/generalHoseSystem.xml" isAbsolute="true" age="13.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-57.9910 67.3503 230.3531" rotation="-0.0000 90.0000 0.0000"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000000"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+    </vehicle>
+    <vehicle id="52" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/vehicles/generalHoseSystem/generalHoseSystem.xml" isAbsolute="true" age="13.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="27.8290 64.9546 -376.8062" rotation="-0.0000 -90.0000 0.0000"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000000"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+    </vehicle>
+    <vehicle id="53" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/vehicles/compostMaster/compostMaster.xml" isAbsolute="true" age="13.000000" price="18000.000000" farmId="1" propertyState="1" operatingTime="602.096191">
+        <component1 position="548.6594 69.4480 -213.1789" rotation="-0.5185 -63.5767 0.5178"/>
+        <configuration name="motor" id="1"/>
+        <configuration name="trailer" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="trailer" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.058106"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.013619"/>
+        </wearable>
+        <cylindered>
+            <movingTool animationTime="0.000000"/>
+        </cylindered>
+        <drivable cruiseControl="0.000000"/>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <FS19_HofBergmann>
+            <mixerWagonImproved currentMixingTime="92">
+                <fillType fillLevel="1151.851807"/>
+            </mixerWagonImproved>
+        </FS19_HofBergmann>
+    </vehicle>
+    <vehicle id="54" modName="FS19_johnDeereGatorPack" filename="$moddir$FS19_johnDeereGatorPack/XUV865M.xml" isAbsolute="true" age="13.000000" price="25500.000000" farmId="1" propertyState="1" operatingTime="2318.177002">
+        <component1 position="525.0494 69.3252 -188.4235" rotation="-4.1940 2.1518 0.1807"/>
+        <configuration name="universalPassenger" id="1"/>
+        <configuration name="cover" id="1"/>
+        <configuration name="rimColor" id="10"/>
+        <configuration name="motor" id="2"/>
+        <configuration name="tensionBelts" id="1"/>
+        <configuration name="trailer" id="1"/>
+        <configuration name="baseMaterial" id="36"/>
+        <configuration name="wheel" id="2"/>
+        <configuration name="fillVolume" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="designMaterial" id="1"/>
+        <boughtConfiguration name="universalPassenger" id="1"/>
+        <boughtConfiguration name="cover" id="1"/>
+        <boughtConfiguration name="rimColor" id="1"/>
+        <boughtConfiguration name="rimColor" id="10"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="motor" id="2"/>
+        <boughtConfiguration name="tensionBelts" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="wheel" id="2"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="36"/>
+        <boughtConfiguration name="trailer" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="designMaterial" id="1"/>
+        <washable>
+            <dirtNode amount="0.499396"/>
+            <dirtNode amount="0.349696"/>
+            <dirtNode amount="0.349835"/>
+            <dirtNode amount="0.349814"/>
+            <dirtNode amount="0.349722"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.025732"/>
+        </wearable>
+        <cylindered>
+            <movingTool animationTime="0.000000"/>
+        </cylindered>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+            <unit index="2" fillType="DIESEL" fillLevel="39.438244"/>
+        </fillUnit>
+        <drivable cruiseControl="97.000000"/>
+        <attacherJoints comboDirection="-1"/>
+        <tensionBelts>
+            <belt isActive="true"/>
+            <belt isActive="true"/>
+        </tensionBelts>
+        <foldable foldAnimTime="1.000000"/>
+        <cover state="1"/>
+    </vehicle>
+    <vehicle id="55" modName="FS19_trailerDO24" filename="$moddir$FS19_trailerDO24/trailerDO24.xml" isAbsolute="true" age="13.000000" price="4500.000000" farmId="1" propertyState="1" operatingTime="1031.976440">
+        <component1 position="524.9996 69.1412 -194.1923" rotation="2.8979 0.0167 0.3330"/>
+        <component2 position="524.9929 70.0503 -199.0375" rotation="2.9005 0.0169 0.3318"/>
+        <configuration name="baseMaterial" id="1"/>
+        <configuration name="rimColor" id="1"/>
+        <configuration name="inputAttacherJoint" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="tensionBelts" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="rimColor" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="inputAttacherJoint" id="1"/>
+        <boughtConfiguration name="tensionBelts" id="1"/>
+        <washable>
+            <dirtNode amount="0.499256"/>
+            <dirtNode amount="0.349706"/>
+            <dirtNode amount="0.350025"/>
+            <dirtNode amount="0.349846"/>
+            <dirtNode amount="0.398600"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.017186"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="0.000000"/>
+        <tensionBelts>
+            <belt isActive="true"/>
+            <belt isActive="true"/>
+            <belt isActive="true"/>
+            <belt isActive="true"/>
+            <belt isActive="true"/>
+            <belt isActive="true"/>
+            <belt isActive="true"/>
+            <belt isActive="true"/>
+            <belt isActive="true"/>
+            <belt isActive="true"/>
+            <belt isActive="true"/>
+        </tensionBelts>
+    </vehicle>
+    <vehicle id="56" filename="data/vehicles/caseIH/axial9240/axial9240.xml" isAbsolute="true" age="13.000000" price="424000.000000" farmId="1" propertyState="1" operatingTime="6471.768555">
+        <component1 position="-341.3138 79.9625 60.5544" rotation="1.1206 -0.0138 -3.2346"/>
+        <component2 position="-341.2574 80.9533 58.8086" rotation="1.1218 -0.0116 -3.2623"/>
+        <configuration name="universalPassenger" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <configuration name="wheel" id="3"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="motor" id="1"/>
+        <boughtConfiguration name="universalPassenger" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="wheel" id="3"/>
+        <washable>
+            <dirtNode amount="0.499498"/>
+            <dirtNode amount="0.453116"/>
+            <dirtNode amount="0.453116"/>
+            <dirtNode amount="0.453116"/>
+            <dirtNode amount="0.453116"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.158816"/>
+        </wearable>
+        <cylindered>
+            <movingTool rotation="0.000000"/>
+        </cylindered>
+        <fillUnit>
+            <unit index="1" fillType="RYE" fillLevel="14400.000000"/>
+            <unit index="2" fillType="DIESEL" fillLevel="1189.471924"/>
+            <unit index="3" fillType="DEF" fillLevel="166.000000"/>
+        </fillUnit>
+        <drivable cruiseControl="42.000000"/>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="0.000000"/>
+        <combine isSwathActive="true" workedHectars="13.426963"/>
+        <pipe state="2"/>
+    </vehicle>
+    <vehicle id="57" filename="data/vehicles/caseIH/draper3162/draper3162.xml" isAbsolute="true" age="13.000000" price="89000.000000" farmId="1" propertyState="1" operatingTime="6388.950684">
+        <component1 position="-341.2458 81.1956 66.6485" rotation="-6.3795 -0.0135 -3.2342"/>
+        <component2 position="-336.7442 81.6716 65.3811" rotation="90.0103 -38.5283 87.4833"/>
+        <component3 position="-339.7705 81.9690 65.2957" rotation="-128.4112 -0.0094 177.5059"/>
+        <configuration name="wheel" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <washable>
+            <dirtNode amount="0.499092"/>
+            <dirtNode amount="0.499092"/>
+            <dirtNode amount="0.499092"/>
+            <dirtNode amount="0.499092"/>
+            <dirtNode amount="0.499092"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.236992"/>
+        </wearable>
+        <cylindered>
+            <movingTool translation="0.000000"/>
+            <movingTool rotation="0.000000"/>
+        </cylindered>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+    </vehicle>
+    <vehicle id="58" modName="FS19_kramerKL308T" filename="$moddir$FS19_kramerKL308T/t308.xml" isAbsolute="true" age="13.000000" price="60000.000000" farmId="1" propertyState="1" operatingTime="10576.257813">
+        <component1 position="-71.7940 70.5761 81.7782" rotation="-178.2124 -89.0710 178.7816"/>
+        <configuration name="attacherJoint" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="baseMaterial" id="1"/>
+        <configuration name="rimColor" id="1"/>
+        <configuration name="motor" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="designMaterial" id="1"/>
+        <boughtConfiguration name="attacherJoint" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="rimColor" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="designMaterial" id="1"/>
+        <washable>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="0.349747"/>
+            <dirtNode amount="0.350001"/>
+            <dirtNode amount="0.349760"/>
+            <dirtNode amount="0.349773"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.117644"/>
+        </wearable>
+        <cylindered>
+            <movingTool rotation="-0.101742"/>
+            <movingTool translation="0.866000"/>
+            <movingTool rotation="-0.429320"/>
+        </cylindered>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="72.899216"/>
+        </fillUnit>
+        <drivable cruiseControl="43.000000"/>
+        <attacherJoints comboDirection="-1"/>
+    </vehicle>
+    <vehicle id="59" filename="data/vehicles/stoll/stollToolShovel/stollToolShovel.xml" isAbsolute="true" age="13.000000" price="1400.000000" farmId="1" propertyState="1" operatingTime="3123.045410">
+        <component1 position="-75.1136 72.5373 81.7237" rotation="117.7452 -89.0708 178.7819"/>
+        <configuration name="baseMaterial" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.127833"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.033282"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="0.000000"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="60" filename="data/vehicles/stara/estrela32/estrela32.xml" isAbsolute="true" age="13.000000" price="215000.000000" farmId="1" propertyState="1" operatingTime="3324.520508">
+        <component1 position="-405.1755 76.6880 183.4114" rotation="-179.6633 -4.6842 176.0629"/>
+        <component2 position="-406.3901 78.3231 181.3164" rotation="-175.8863 85.3532 -179.8084"/>
+        <component3 position="-404.1064 78.1659 181.1288" rotation="-4.0408 -85.2531 0.1168"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="cover" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="cover" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.499092"/>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="0.387816"/>
+            <dirtNode amount="0.369554"/>
+            <dirtNode amount="0.499111"/>
+            <dirtNode amount="0.499059"/>
+            <dirtNode amount="0.499388"/>
+            <dirtNode amount="0.499227"/>
+            <dirtNode amount="0.499537"/>
+            <dirtNode amount="0.499505"/>
+            <dirtNode amount="0.350336"/>
+            <dirtNode amount="0.350884"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.222100"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <fillUnit>
+            <unit index="1" fillType="SEEDS" fillLevel="3560.625000"/>
+            <unit index="2" fillType="FERTILIZER" fillLevel="3617.251221"/>
+        </fillUnit>
+        <cover state="0"/>
+        <sowingMachine selectedSeedFruitType="RYE"/>
+    </vehicle>
+    <vehicle id="61" filename="data/vehicles/lizard/mks8/mks8.xml" isAbsolute="true" age="12.000000" price="29000.000000" farmId="1" propertyState="1" operatingTime="531.277466">
+        <component1 position="496.6620 69.1354 -272.0670" rotation="179.4640 -76.9739 -179.1378"/>
+        <component2 position="495.1689 70.0219 -272.4215" rotation="175.9526 -88.2890 -175.6137"/>
+        <component3 position="494.0036 69.9929 -272.4563" rotation="-169.0416 -88.2892 -175.6180"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="baseMaterial" id="3"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="3"/>
+        <washable>
+            <dirtNode amount="0.046675"/>
+            <dirtNode amount="0.046675"/>
+            <dirtNode amount="0.046675"/>
+            <dirtNode amount="0.046675"/>
+            <dirtNode amount="0.046675"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.007243"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="0.000000"/>
+        <fillUnit>
+            <unit index="1" fillType="WATER" fillLevel="4000.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="62" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/seedlings/seedlingsPallet_lettuce.xml" isAbsolute="true" age="12.000000" price="200.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="524.5089 70.0547 -193.8518" rotation="129.2190 -86.2408 -128.9401"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.038170"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.005730"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="LETTUCESEEDLINGS" fillLevel="200.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="63" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/seedlings/seedlingsPallet_lettuce.xml" isAbsolute="true" age="12.000000" price="200.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="525.6729 69.9773 -192.2039" rotation="66.8869 86.7808 67.1620"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.042891"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.006440"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="LETTUCESEEDLINGS" fillLevel="200.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="64" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/seedlings/seedlingsPallet_lettuce.xml" isAbsolute="true" age="12.000000" price="200.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="525.5330 70.0587 -193.8134" rotation="52.0589 86.3156 52.3276"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.038067"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.005714"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="LETTUCESEEDLINGS" fillLevel="200.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="65" modName="FS19_johnDeereGatorPack" filename="$moddir$FS19_johnDeereGatorPack/XUV865M.xml" isAbsolute="true" age="13.000000" price="24900.000000" farmId="1" propertyState="1" operatingTime="5260.149902">
+        <component1 position="-48.7365 70.7033 95.5734" rotation="0.5528 -0.4355 0.0027"/>
+        <configuration name="universalPassenger" id="1"/>
+        <configuration name="cover" id="1"/>
+        <configuration name="rimColor" id="2"/>
+        <configuration name="trailer" id="1"/>
+        <configuration name="tensionBelts" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <configuration name="baseMaterial" id="1"/>
+        <configuration name="wheel" id="2"/>
+        <configuration name="motor" id="2"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="designMaterial" id="1"/>
+        <boughtConfiguration name="universalPassenger" id="1"/>
+        <boughtConfiguration name="cover" id="1"/>
+        <boughtConfiguration name="rimColor" id="1"/>
+        <boughtConfiguration name="rimColor" id="2"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="motor" id="2"/>
+        <boughtConfiguration name="tensionBelts" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="wheel" id="2"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="trailer" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="designMaterial" id="1"/>
+        <washable>
+            <dirtNode amount="0.503674"/>
+            <dirtNode amount="0.350030"/>
+            <dirtNode amount="0.350030"/>
+            <dirtNode amount="0.350030"/>
+            <dirtNode amount="0.350030"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.025725"/>
+        </wearable>
+        <cylindered>
+            <movingTool animationTime="0.222670"/>
+        </cylindered>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+            <unit index="2" fillType="DIESEL" fillLevel="39.664757"/>
+        </fillUnit>
+        <drivable cruiseControl="97.000000"/>
+        <attacherJoints comboDirection="-1"/>
+        <tensionBelts>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+        </tensionBelts>
+        <foldable foldAnimTime="0.000000"/>
+        <cover state="0"/>
+    </vehicle>
+    <vehicle id="66" filename="data/vehicles/magsi/telehandlerFork/telehandlerFork.xml" isAbsolute="true" age="11.000000" price="1200.000000" farmId="1" propertyState="1" operatingTime="2034.555664">
+        <component1 position="532.7296 69.2949 -267.7041" rotation="-178.5707 -39.6953 179.2202"/>
+        <washable>
+            <dirtNode amount="0.152069"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.028513"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="0.000000"/>
+    </vehicle>
+    <vehicle id="67" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/seedlings/seedlingsPallet_lettuce.xml" isAbsolute="true" age="11.000000" price="200.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="524.5612 69.9719 -192.2126" rotation="27.5831 -83.5950 -27.1797"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.042706"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.006413"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="LETTUCESEEDLINGS" fillLevel="200.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="68" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/seedlings/seedlingsPallet_lettuce.xml" isAbsolute="true" age="9.000000" price="200.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="524.9489 71.3352 -192.1236" rotation="16.7732 79.7242 16.8096"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.032833"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.004935"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="LETTUCESEEDLINGS" fillLevel="200.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="69" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/seedlings/seedlingsPallet_lettuce.xml" isAbsolute="true" age="9.000000" price="200.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="523.0852 69.7884 -204.0614" rotation="93.2117 24.7435 -179.7547"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.032293"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.004844"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="LETTUCESEEDLINGS" fillLevel="200.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="70" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/seedlings/seedlingsPallet_lettuce.xml" isAbsolute="true" age="9.000000" price="200.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="524.6467 70.7372 -193.8271" rotation="150.2816 -84.1266 -150.0674"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.033130"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.004975"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="LETTUCESEEDLINGS" fillLevel="200.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="71" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/seedlings/seedlingsPallet_lettuce.xml" isAbsolute="true" age="9.000000" price="200.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="525.7602 71.0896 -193.5258" rotation="-78.2465 63.1304 -79.5475"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.031520"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.004734"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="LETTUCESEEDLINGS" fillLevel="200.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="72" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/seedlings/seedlingsPallet_lettuce.xml" isAbsolute="true" age="9.000000" price="200.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="525.6359 70.6591 -192.1874" rotation="102.2895 -86.9798 -101.9985"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.030636"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.004604"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="LETTUCESEEDLINGS" fillLevel="200.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="73" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/seedlings/seedlingsPallet_lettuce.xml" isAbsolute="true" age="9.000000" price="200.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="524.5439 70.6551 -192.2183" rotation="152.9680 -83.4557 -152.8744"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.031827"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.004783"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="LETTUCESEEDLINGS" fillLevel="200.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="74" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/seedlings/seedlingsPallet_lettuce.xml" isAbsolute="true" age="9.000000" price="200.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="524.7490 72.6694 -191.7063" rotation="-122.9545 86.4804 57.3421"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.030783"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.004628"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="LETTUCESEEDLINGS" fillLevel="200.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="75" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/seedlings/seedlingsPallet_lettuce.xml" isAbsolute="true" age="9.000000" price="200.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="523.4225 69.2974 -205.6295" rotation="0.4170 68.1908 0.6103"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.031108"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.004666"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="LETTUCESEEDLINGS" fillLevel="200.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="76" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/vehicles/fordTransit/fordTransit.xml" isAbsolute="true" age="8.000000" price="69000.000000" farmId="1" propertyState="1" operatingTime="1001.455811">
+        <component1 position="-45.0443 70.6358 75.7697" rotation="-179.6898 1.6938 -179.7852"/>
+        <configuration name="universalPassenger" id="1"/>
+        <configuration name="designMaterial" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="baseMaterial" id="22"/>
+        <configuration name="motor" id="1"/>
+        <configuration name="design" id="4"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="tensionBelts" id="1"/>
+        <boughtConfiguration name="universalPassenger" id="1"/>
+        <boughtConfiguration name="designMaterial" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="22"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="design" id="1"/>
+        <boughtConfiguration name="design" id="4"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="tensionBelts" id="1"/>
+        <washable>
+            <dirtNode amount="0.298234"/>
+            <dirtNode amount="0.349824"/>
+            <dirtNode amount="0.349835"/>
+            <dirtNode amount="0.349845"/>
+            <dirtNode amount="0.349816"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.010946"/>
+        </wearable>
+        <cylindered>
+            <movingTool animationTime="0.000000"/>
+            <movingTool animationTime="0.000000"/>
+        </cylindered>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="117.667931"/>
+        </fillUnit>
+        <drivable cruiseControl="123.000000"/>
+        <attacherJoints comboDirection="-1"/>
+        <tensionBelts>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+        </tensionBelts>
+        <foldable foldAnimTime="0.000000"/>
+    </vehicle>
+    <vehicle id="77" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/fruitBox/fruitBox.xml" isAbsolute="true" age="7.000000" price="50.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="4.4829 68.1992 259.0160" rotation="-78.2258 89.8846 -78.3067"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.020709"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.003106"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="78" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/fruitBox/fruitBox.xml" isAbsolute="true" age="7.000000" price="50.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="4.9935 68.2000 259.0015" rotation="8.3444 89.9344 8.3376"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.020657"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.003098"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="79" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/fruitBox/fruitBox.xml" isAbsolute="true" age="7.000000" price="50.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="5.6179 68.1999 258.9919" rotation="-3.0774 -88.5914 3.0355"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.031265"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.004690"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="80" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/fruitBox/fruitBox.xml" isAbsolute="true" age="7.000000" price="50.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-20.9627 66.9866 262.7444" rotation="0.2232 60.0647 0.0809"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.022260"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.003339"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="APPLE" fillLevel="4.487463"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="81" filename="data/vehicles/krone/bigM450/bigM450.xml" isAbsolute="true" age="7.000000" price="380000.000000" farmId="1" propertyState="1" operatingTime="2326.697754">
+        <component1 position="-570.8059 78.8488 -552.0464" rotation="6.3787 36.9097 5.1271"/>
+        <component2 position="-572.6436 80.0970 -554.3314" rotation="6.4330 36.9015 5.2177"/>
+        <component3 position="-568.9111 80.3247 -554.4485" rotation="15.2546 34.5477 20.2656"/>
+        <component4 position="-573.7712 79.8861 -550.7838" rotation="-3.1159 37.2682 -10.5545"/>
+        <component5 position="-568.6591 79.8502 -549.0802" rotation="6.3788 36.9097 5.1271"/>
+        <configuration name="universalPassenger" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="motor" id="1"/>
+        <boughtConfiguration name="universalPassenger" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <washable>
+            <dirtNode amount="0.856789"/>
+            <dirtNode amount="0.349436"/>
+            <dirtNode amount="0.349950"/>
+            <dirtNode amount="0.349680"/>
+            <dirtNode amount="0.349584"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.198923"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="778.417969"/>
+            <unit index="2" fillType="DEF" fillLevel="80.000000"/>
+        </fillUnit>
+        <drivable cruiseControl="43.000000"/>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="0.200000"/>
+        <workMode state="2"/>
+    </vehicle>
+    <vehicle id="82" filename="data/vehicles/ponsse/ponsseScorpion/ponsseScorpion.xml" isAbsolute="true" age="7.000000" price="440000.000000" farmId="1" propertyState="1" operatingTime="940.426086">
+        <component1 position="-442.6818 79.5020 190.3098" rotation="174.3108 -69.8642 175.6073"/>
+        <component2 position="-442.6836 79.5022 190.3151" rotation="175.1820 -69.8936 174.6798"/>
+        <component3 position="-447.0257 81.3634 189.0795" rotation="-170.7724 -74.0730 174.8714"/>
+        <component4 position="-447.0257 81.3634 189.0795" rotation="-173.3658 -74.0731 174.8714"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="motor" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <washable>
+            <dirtNode amount="0.033990"/>
+            <dirtNode amount="0.349672"/>
+            <dirtNode amount="0.349988"/>
+            <dirtNode amount="0.349875"/>
+            <dirtNode amount="0.349802"/>
+            <dirtNode amount="0.349726"/>
+            <dirtNode amount="0.349920"/>
+            <dirtNode amount="0.349919"/>
+            <dirtNode amount="0.349949"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.015985"/>
+        </wearable>
+        <cylindered>
+            <movingTool translation="0.000000"/>
+            <movingTool translation="0.000000"/>
+            <movingTool rotation="0.079192"/>
+            <movingTool rotation="-0.959332"/>
+            <movingTool rotation="2.085668"/>
+            <movingTool translation="0.300000"/>
+            <movingTool rotation="0.000000"/>
+        </cylindered>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="316.002045"/>
+        </fillUnit>
+        <drivable cruiseControl="23.000000"/>
+        <attacherJoints comboDirection="-1"/>
+        <woodHarvester currentCutLength="1.000000"/>
+    </vehicle>
+    <vehicle id="83" filename="data/vehicles/jcb/fastrac8330/fastrac8330.xml" isAbsolute="true" age="7.000000" price="312000.000000" farmId="1" propertyState="1" operatingTime="727.962891">
+        <component1 position="519.3721 69.3373 -270.8539" rotation="179.3710 66.4883 178.6913"/>
+        <component2 position="520.7903 70.1620 -271.4625" rotation="179.4932 66.4888 178.8245"/>
+        <configuration name="universalPassenger" id="1"/>
+        <configuration name="wheel" id="4"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="motor" id="1"/>
+        <boughtConfiguration name="universalPassenger" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="wheel" id="4"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <washable>
+            <dirtNode amount="0.068765"/>
+            <dirtNode amount="0.349778"/>
+            <dirtNode amount="0.348544"/>
+            <dirtNode amount="0.349999"/>
+            <dirtNode amount="0.349821"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.012893"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="592.170776"/>
+            <unit index="2" fillType="DEF" fillLevel="60.000000"/>
+            <unit index="3" fillType="AIR" fillLevel="3088.055176"/>
+        </fillUnit>
+        <drivable cruiseControl="73.000000"/>
+        <attacherJoints comboDirection="-1"/>
+    </vehicle>
+    <vehicle id="84" filename="data/vehicles/jenz/jenzBA725/jenzBA725.xml" isAbsolute="true" age="7.000000" price="64000.000000" farmId="1" propertyState="1" operatingTime="573.262939">
+        <component1 position="-438.7336 79.0017 183.2825" rotation="51.6829 -87.7370 -61.4136"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="motor" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <washable>
+            <dirtNode amount="0.210685"/>
+            <dirtNode amount="0.210685"/>
+            <dirtNode amount="0.210685"/>
+            <dirtNode amount="0.210685"/>
+            <dirtNode amount="0.210685"/>
+            <dirtNode amount="0.210685"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.016036"/>
+        </wearable>
+        <cylindered>
+            <movingTool rotation="0.000000"/>
+        </cylindered>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+        <drivable cruiseControl="5.000000"/>
+        <attacherJoints comboDirection="-1"/>
+        <pipe state="2"/>
+        <foldable foldAnimTime="1.000000"/>
+    </vehicle>
+    <vehicle id="85" filename="data/vehicles/fendt/vario1000/vario1000.xml" isAbsolute="true" age="7.000000" price="378400.000000" farmId="1" propertyState="1" operatingTime="7009.011719">
+        <component1 position="667.1770 67.1547 -73.1436" rotation="1.0416 8.7785 -0.1648"/>
+        <configuration name="universalPassenger" id="1"/>
+        <configuration name="wheel" id="5"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="motor" id="4"/>
+        <boughtConfiguration name="universalPassenger" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="wheel" id="5"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="motor" id="4"/>
+        <washable>
+            <dirtNode amount="0.501195"/>
+            <dirtNode amount="0.350008"/>
+            <dirtNode amount="0.350008"/>
+            <dirtNode amount="0.350008"/>
+            <dirtNode amount="0.350001"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.080764"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="762.666199"/>
+            <unit index="2" fillType="DEF" fillLevel="85.000000"/>
+            <unit index="3" fillType="AIR" fillLevel="2655.957764"/>
+        </fillUnit>
+        <drivable cruiseControl="63.000000"/>
+        <attacherJoints comboDirection="-1"/>
+    </vehicle>
+    <vehicle id="86" filename="data/vehicles/strautmann/aperion3401/aperion3401.xml" isAbsolute="true" age="7.000000" price="65000.000000" farmId="1" propertyState="1" operatingTime="2837.646729">
+        <component1 position="-42.3669 67.0006 246.3098" rotation="-8.8592 -89.3766 8.5982"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="trailer" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="trailer" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.019788"/>
+            <dirtNode amount="0.185631"/>
+            <dirtNode amount="0.185978"/>
+            <dirtNode amount="0.195064"/>
+            <dirtNode amount="0.192900"/>
+            <dirtNode amount="0.195251"/>
+            <dirtNode amount="0.195164"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.005137"/>
+        </wearable>
+        <cylindered>
+            <movingTool rotation="0.000000"/>
+            <movingTool translation="0.000000"/>
+            <movingTool translation="-0.009661"/>
+        </cylindered>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+        <trailer tipSideIndex="2"/>
+    </vehicle>
+    <vehicle id="87" filename="data/vehicles/jcb/fastrac8330/fastrac8330.xml" isAbsolute="true" age="13.000000" price="312000.000000" farmId="1" propertyState="1" operatingTime="7395.640137">
+        <component1 position="-71.1153 67.0224 166.9625" rotation="0.4637 37.9704 0.0649"/>
+        <component2 position="-70.1677 67.8510 168.1778" rotation="0.4850 37.9702 0.0997"/>
+        <configuration name="universalPassenger" id="1"/>
+        <configuration name="wheel" id="4"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="motor" id="1"/>
+        <boughtConfiguration name="universalPassenger" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="wheel" id="4"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <washable>
+            <dirtNode amount="0.599075"/>
+            <dirtNode amount="0.349669"/>
+            <dirtNode amount="0.349976"/>
+            <dirtNode amount="0.349998"/>
+            <dirtNode amount="0.349669"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.093396"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="558.469604"/>
+            <unit index="2" fillType="DEF" fillLevel="60.000000"/>
+            <unit index="3" fillType="AIR" fillLevel="2065.684326"/>
+        </fillUnit>
+        <drivable cruiseControl="73.000000"/>
+        <attacherJoints comboDirection="-1"/>
+    </vehicle>
+    <vehicle id="88" filename="data/vehicles/strautmann/aperion3401/aperion3401.xml" isAbsolute="true" age="13.000000" price="65000.000000" farmId="1" propertyState="1" operatingTime="3488.984863">
+        <component1 position="665.9976 67.2462 -81.0640" rotation="0.3141 8.3222 -0.4353"/>
+        <configuration name="wheel" id="2"/>
+        <configuration name="trailer" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="trailer" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="wheel" id="2"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.375075"/>
+            <dirtNode amount="0.349962"/>
+            <dirtNode amount="0.349458"/>
+            <dirtNode amount="0.349712"/>
+            <dirtNode amount="0.349862"/>
+            <dirtNode amount="0.349711"/>
+            <dirtNode amount="0.349752"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.046045"/>
+        </wearable>
+        <cylindered>
+            <movingTool rotation="0.000000"/>
+            <movingTool translation="0.000000"/>
+            <movingTool translation="0.000000"/>
+        </cylindered>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+        <trailer tipSideIndex="1"/>
+    </vehicle>
+    <vehicle id="89" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/vehicles/fordTransit/fordTransit.xml" isAbsolute="true" age="7.000000" price="69600.000000" farmId="1" propertyState="1" operatingTime="9043.421875">
+        <component1 position="-799.3593 57.2534 -15.6468" rotation="179.5801 59.2737 179.7166"/>
+        <configuration name="universalPassenger" id="1"/>
+        <configuration name="tensionBelts" id="1"/>
+        <configuration name="design" id="1"/>
+        <configuration name="baseMaterial" id="8"/>
+        <configuration name="wheel" id="2"/>
+        <configuration name="motor" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="designMaterial" id="26"/>
+        <boughtConfiguration name="universalPassenger" id="1"/>
+        <boughtConfiguration name="designMaterial" id="1"/>
+        <boughtConfiguration name="designMaterial" id="26"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="wheel" id="2"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="8"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="design" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="tensionBelts" id="1"/>
+        <washable>
+            <dirtNode amount="0.003931"/>
+            <dirtNode amount="0.088802"/>
+            <dirtNode amount="0.090602"/>
+            <dirtNode amount="0.087260"/>
+            <dirtNode amount="0.092382"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.029002"/>
+        </wearable>
+        <cylindered>
+            <movingTool animationTime="0.000000"/>
+            <movingTool animationTime="0.000000"/>
+        </cylindered>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="110.100853"/>
+        </fillUnit>
+        <drivable cruiseControl="123.000000"/>
+        <attacherJoints comboDirection="-1"/>
+        <tensionBelts>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+        </tensionBelts>
+        <foldable foldAnimTime="1.000000"/>
+    </vehicle>
+    <vehicle id="90" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/crates/fillableWoodBox.xml" isAbsolute="true" age="7.000000" price="50.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="2.4148 67.1561 248.6111" rotation="0.0099 87.6489 0.0042"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.015103"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.002266"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="91" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/crates/fillableWoodBox.xml" isAbsolute="true" age="7.000000" price="50.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="1.5860 67.1563 239.2497" rotation="-0.0328 -0.0711 -0.0001"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.011872"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.002079"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="WOODCHIPS" fillLevel="250.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="92" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/crates/fillableWoodBox.xml" isAbsolute="true" age="7.000000" price="50.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="1.2667 67.3593 248.6451" rotation="179.5296 30.0782 -179.9823"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.013027"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.002105"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="WOODCHIPS" fillLevel="98.333336"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="93" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/crates/fillableWoodBox.xml" isAbsolute="true" age="7.000000" price="50.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="1.5863 67.1561 239.8361" rotation="-179.9887 0.0168 179.9993"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.011705"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.001902"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="WOODCHIPS" fillLevel="250.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="94" filename="data/vehicles/stoll/stollToolBaleFork/stollToolBaleFork.xml" isAbsolute="true" age="7.000000" price="800.000000" farmId="1" propertyState="1" operatingTime="6707.638184">
+        <component1 position="-12.9382 66.9696 218.1287" rotation="-178.0433 -4.2605 -179.5085"/>
+        <configuration name="baseMaterial" id="23"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="23"/>
+        <washable>
+            <dirtNode amount="0.184948"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.037044"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+    </vehicle>
+    <vehicle id="95" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/buckets/fillableBucket.xml" isAbsolute="true" age="7.000000" price="12.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="3.3227 67.1550 240.8933" rotation="0.0041 73.5707 0.0000"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.021371"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.003212"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="WATER" fillLevel="100.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="96" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/buckets/fillableBucket.xml" isAbsolute="true" age="7.000000" price="12.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-158.7192 69.9228 234.8710" rotation="175.4569 -50.3891 -175.7136"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.027214"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.004082"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="97" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/bread/breadBox.xml" isAbsolute="true" age="7.000000" price="20.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="5.8313 67.6842 259.0644" rotation="-176.8268 87.4007 -177.1935"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.012527"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.002032"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="BREAD" fillLevel="445.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="98" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/bread/breadBox.xml" isAbsolute="true" age="7.000000" price="20.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="5.3806 67.6856 259.0849" rotation="0.0025 -88.9673 -0.0021"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.012948"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.002077"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="BREAD" fillLevel="480.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="99" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/bread/breadBox.xml" isAbsolute="true" age="7.000000" price="20.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="6.2676 67.1525 246.3693" rotation="179.9995 3.2643 179.9999"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.010862"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.001629"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="100" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/bread/breadBox.xml" isAbsolute="true" age="7.000000" price="20.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-0.2160 67.1525 247.3970" rotation="-180.0000 54.0367 179.9997"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.013992"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.002185"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="BREAD" fillLevel="6.666667"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="101" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/bread/breadBox.xml" isAbsolute="true" age="7.000000" price="20.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="6.4852 67.1525 247.2052" rotation="0.0003 0.7423 0.0000"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.010957"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.001644"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="102" filename="data/vehicles/schuitemaker/rapide580V/rapide580V.xml" isAbsolute="true" age="7.000000" price="100000.000000" farmId="1" propertyState="1" operatingTime="4456.693359">
+        <component1 position="-75.0003 66.7163 161.9332" rotation="-1.5004 37.5070 -0.0008"/>
+        <component2 position="-74.1682 67.8807 163.0173" rotation="48.4991 37.5069 -0.0008"/>
+        <component3 position="-75.9491 67.6496 160.6970" rotation="-0.0734 37.5071 -0.0008"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="trailer" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="trailer" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.181681"/>
+            <dirtNode amount="0.349728"/>
+            <dirtNode amount="0.349983"/>
+            <dirtNode amount="0.349985"/>
+            <dirtNode amount="0.349807"/>
+            <dirtNode amount="0.471553"/>
+            <dirtNode amount="0.448932"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.044539"/>
+        </wearable>
+        <cylindered>
+            <movingTool rotation="0.000000"/>
+            <movingTool rotation="0.116839"/>
+        </cylindered>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="0.000000"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+        <trailer tipSideIndex="1"/>
+    </vehicle>
+    <vehicle id="103" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/crates/fillableWoodBox.xml" isAbsolute="true" age="7.000000" price="50.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="3.5026 67.1561 239.8288" rotation="0.0076 0.0237 -0.0017"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.049646"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.005687"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="WOODCHIPS" fillLevel="250.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="104" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/crates/fillableWoodBox.xml" isAbsolute="true" age="7.000000" price="50.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="2.5453 67.1561 239.8353" rotation="-179.9949 0.0113 -179.9997"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.049577"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.005671"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="WOODCHIPS" fillLevel="250.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="105" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/crates/fillableWoodBox.xml" isAbsolute="true" age="7.000000" price="50.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="6.3803 67.1561 239.8347" rotation="-179.9903 0.0772 179.9985"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.050562"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.005837"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="WOODCHIPS" fillLevel="250.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="106" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/crates/fillableWoodBox.xml" isAbsolute="true" age="7.000000" price="50.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="2.5462 67.1562 239.2467" rotation="-179.9831 0.1142 -179.9858"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.049785"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.005727"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="WOODCHIPS" fillLevel="250.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="107" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/crates/fillableWoodBox.xml" isAbsolute="true" age="7.000000" price="50.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="6.3806 67.1563 239.2479" rotation="179.9999 0.0923 -179.9878"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.049265"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.005707"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="WOODCHIPS" fillLevel="250.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="108" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/crates/fillableWoodBox.xml" isAbsolute="true" age="7.000000" price="50.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="5.4221 67.1563 239.2330" rotation="-179.9892 0.0839 -179.9713"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.054209"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.006376"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="WOODCHIPS" fillLevel="250.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="109" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/crates/fillableWoodBox.xml" isAbsolute="true" age="7.000000" price="50.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="5.4214 67.1561 239.8360" rotation="-179.9940 0.0289 179.9988"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.047992"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.005541"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="WOODCHIPS" fillLevel="250.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="110" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/crates/fillableWoodBox.xml" isAbsolute="true" age="7.000000" price="50.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="6.3776 67.1561 238.6605" rotation="0.0062 -0.1921 -0.0002"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.050231"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.005851"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="WOODCHIPS" fillLevel="250.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="111" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/crates/fillableWoodBox.xml" isAbsolute="true" age="7.000000" price="50.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="3.5049 67.1562 239.2312" rotation="179.9989 0.1118 -179.9808"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.050422"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.005783"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="WOODCHIPS" fillLevel="250.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="112" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/crates/fillableWoodBox.xml" isAbsolute="true" age="7.000000" price="50.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="4.4613 67.1561 239.8366" rotation="0.0039 0.0067 -0.0047"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.049867"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.005764"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="WOODCHIPS" fillLevel="250.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="113" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/crates/fillableWoodBox.xml" isAbsolute="true" age="7.000000" price="50.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="4.4623 67.1569 239.2421" rotation="-0.0017 -0.1065 0.1061"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.049654"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.005792"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="WOODCHIPS" fillLevel="250.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="114" modName="FS19_johnDeereGatorPack" filename="$moddir$FS19_johnDeereGatorPack/JDT1000.xml" isAbsolute="true" age="13.000000" price="5400.000000" farmId="1" propertyState="1" operatingTime="3771.544434">
+        <component1 position="-67.3115 70.7229 81.8492" rotation="-175.1068 -89.1738 167.9743"/>
+        <configuration name="cover" id="1"/>
+        <configuration name="rimColor" id="10"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="tensionBelts" id="1"/>
+        <configuration name="fillVolume" id="3"/>
+        <configuration name="baseMaterial" id="9"/>
+        <configuration name="trailer" id="3"/>
+        <configuration name="fillUnit" id="3"/>
+        <configuration name="designMaterial" id="36"/>
+        <boughtConfiguration name="cover" id="1"/>
+        <boughtConfiguration name="rimColor" id="1"/>
+        <boughtConfiguration name="rimColor" id="10"/>
+        <boughtConfiguration name="trailer" id="1"/>
+        <boughtConfiguration name="trailer" id="2"/>
+        <boughtConfiguration name="trailer" id="3"/>
+        <boughtConfiguration name="tensionBelts" id="1"/>
+        <boughtConfiguration name="tensionBelts" id="2"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <boughtConfiguration name="fillVolume" id="2"/>
+        <boughtConfiguration name="fillVolume" id="3"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="9"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="2"/>
+        <boughtConfiguration name="fillUnit" id="3"/>
+        <boughtConfiguration name="designMaterial" id="1"/>
+        <boughtConfiguration name="designMaterial" id="36"/>
+        <washable>
+            <dirtNode amount="0.861018"/>
+            <dirtNode amount="0.349787"/>
+            <dirtNode amount="0.349761"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.042749"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+        <trailer tipSideIndex="1"/>
+    </vehicle>
+    <vehicle id="115" filename="data/vehicles/manitou/MLT737/MLT737.xml" isAbsolute="true" age="11.000000" price="98000.000000" farmId="1" propertyState="1" operatingTime="4455.374023">
+        <component1 position="-17.9182 66.8510 241.4901" rotation="-179.7304 13.4500 -179.9956"/>
+        <component2 position="-18.1825 67.6314 242.5947" rotation="-179.6477 13.4499 -179.9980"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="motor" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <washable>
+            <dirtNode amount="0.287851"/>
+            <dirtNode amount="0.349981"/>
+            <dirtNode amount="0.349974"/>
+            <dirtNode amount="0.349968"/>
+            <dirtNode amount="0.349974"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.076922"/>
+        </wearable>
+        <cylindered>
+            <movingTool rotation="-0.412550"/>
+            <movingTool translation="0.632119"/>
+            <movingTool rotation="0.222162"/>
+        </cylindered>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="113.100914"/>
+            <unit index="2" fillType="DEF" fillLevel="9.971524"/>
+        </fillUnit>
+        <drivable cruiseControl="43.000000"/>
+        <attacherJoints comboDirection="-1"/>
+    </vehicle>
+    <vehicle id="116" filename="data/vehicles/magsi/telehandlerShovel/telehandlerShovel.xml" isAbsolute="true" age="11.000000" price="2800.000000" farmId="1" propertyState="1" operatingTime="2199.759033">
+        <component1 position="-16.9171 69.5831 237.3144" rotation="150.4227 13.4500 -179.9956"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.049578"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.012085"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="0.000000"/>
+        <fillUnit>
+            <unit index="1" fillType="WOODCHIPS" fillLevel="2027.777832"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="117" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/flourBag/flourBag.xml" isAbsolute="true" age="3.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="686.3057 67.2746 -101.1374" rotation="-3.5109 10.3544 2.8053"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000733"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000110"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="FLOUR" fillLevel="250.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="118" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/flourBag/flourBag.xml" isAbsolute="true" age="3.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="688.0258 67.3139 -101.9150" rotation="169.4513 -32.9391 -179.1925"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.001057"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000159"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="FLOUR" fillLevel="250.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="119" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/flourBag/flourBag.xml" isAbsolute="true" age="3.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="686.8307 67.1873 -99.4271" rotation="157.5864 -83.5583 -164.8702"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000662"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000099"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="FLOUR" fillLevel="250.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="120" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/flourBag/flourBag.xml" isAbsolute="true" age="3.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="686.2960 67.1498 -98.3947" rotation="-1.8454 68.9071 5.7151"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000958"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000144"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="FLOUR" fillLevel="250.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="121" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/flourBag/flourBag.xml" isAbsolute="true" age="3.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="687.0336 67.3271 -102.2296" rotation="-3.7971 -48.0288 -1.9975"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000663"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000099"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="FLOUR" fillLevel="250.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="122" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/flourBag/flourBag.xml" isAbsolute="true" age="3.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="686.1294 67.3233 -102.1496" rotation="120.3230 -85.9329 -129.7363"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000783"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000117"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="FLOUR" fillLevel="250.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="123" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/flourBag/flourBag.xml" isAbsolute="true" age="3.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="686.8679 67.2961 -101.5790" rotation="-6.1361 -22.5290 -1.8794"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000736"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000110"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="FLOUR" fillLevel="250.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="124" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/flourBag/flourBag.xml" isAbsolute="true" age="3.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="686.3464 67.2249 -100.2743" rotation="6.5678 -77.9029 -13.3381"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000637"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000096"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="FLOUR" fillLevel="250.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="125" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/flourBag/flourBag.xml" isAbsolute="true" age="3.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="686.5852 67.6314 -102.0808" rotation="167.9237 -43.4174 -169.9228"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000688"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000103"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="FLOUR" fillLevel="250.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="126" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/flourBag/flourBag.xml" isAbsolute="true" age="3.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="687.8079 67.2409 -100.6072" rotation="-3.8069 -13.5813 -0.4651"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000665"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000100"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="FLOUR" fillLevel="250.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="127" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/flourBag/flourBag.xml" isAbsolute="true" age="3.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="687.4585 67.3451 -102.6331" rotation="169.0800 44.8963 177.0911"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000920"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000138"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="FLOUR" fillLevel="250.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="128" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/flourBag/flourBag.xml" isAbsolute="true" age="3.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="686.9811 67.3473 -100.9144" rotation="70.4857 -68.1765 -82.4627"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000579"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000087"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="FLOUR" fillLevel="250.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="129" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/flourBag/flourBag.xml" isAbsolute="true" age="2.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="685.6561 67.4932 -101.9235" rotation="-141.2534 41.9899 -136.1358"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000890"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000133"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="FLOUR" fillLevel="250.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="130" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/flourBag/flourBag.xml" isAbsolute="true" age="2.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="687.8026 67.2872 -101.1930" rotation="174.4448 12.8114 176.1374"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000909"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000136"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="FLOUR" fillLevel="250.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="131" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/flourBag/flourBag.xml" isAbsolute="true" age="2.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="685.6384 67.3901 -101.4565" rotation="-28.7004 -2.4439 7.6551"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000765"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000115"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="FLOUR" fillLevel="250.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="132" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/bread/breadDoughling.xml" isAbsolute="true" age="2.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="4.4362 67.9903 249.0323" rotation="16.2810 -81.5612 -16.5984"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000429"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000064"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="DOUGHLING" fillLevel="7.500000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="133" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/bread/breadDoughling.xml" isAbsolute="true" age="2.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="4.1103 67.9903 248.9885" rotation="-1.9109 36.5945 -2.9351"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000594"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000089"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="DOUGHLING" fillLevel="2.500000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="134" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/cheese/cheese.xml" isAbsolute="true" age="1.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-149.8371 72.5911 121.8617" rotation="0.0110 -0.0015 0.2957"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000004"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000001"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="CHEESE" fillLevel="91.586678"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="135" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/yeast/yeast.xml" isAbsolute="true" age="1.000000" price="10.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-0.6019 67.0941 244.7512" rotation="-89.1504 16.6681 175.8585"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.012972"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.002756"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="YEAST" fillLevel="100.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="136" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/bread/breadDoughling.xml" isAbsolute="true" age="1.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="3.7789 68.6621 249.0005" rotation="2.1053 -42.9944 -3.3076"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000148"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000044"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="DOUGHLING" fillLevel="30.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="137" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/milkCan/milkCan.xml" isAbsolute="true" age="1.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-65.7058 71.3363 81.4113" rotation="-0.0883 37.0192 -7.1861"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.004208"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.001262"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="MILK" fillLevel="120.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="138" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/milkCan/milkCan.xml" isAbsolute="true" age="1.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-66.2760 71.4096 82.2249" rotation="-0.1829 17.5044 -6.8686"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.004342"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.001303"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="MILK" fillLevel="120.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="139" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/milkCan/milkCan.xml" isAbsolute="true" age="1.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-65.8736 71.3581 81.9619" rotation="-0.0774 73.4491 -7.2102"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.004100"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.001230"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="MILK" fillLevel="120.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="140" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/milkCan/milkCan.xml" isAbsolute="true" age="1.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-66.5632 71.4435 81.3842" rotation="-179.8961 -50.6777 172.7865"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.004524"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.001357"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="MILK" fillLevel="120.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="141" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/milkCan/milkCan.xml" isAbsolute="true" age="0.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-66.1103 71.3873 81.3924" rotation="0.0492 -39.9811 -7.0485"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.004367"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.001310"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="MILK" fillLevel="120.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="142" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/milkCan/milkCan.xml" isAbsolute="true" age="0.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-65.8786 71.3591 82.3721" rotation="-0.1132 49.5606 -7.2368"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.004108"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.001232"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="MILK" fillLevel="120.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="143" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/milkCan/milkCan.xml" isAbsolute="true" age="0.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-65.4434 71.3041 81.8744" rotation="-0.1092 -11.7320 -7.0807"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.004769"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.001431"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="MILK" fillLevel="120.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="144" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/eggBox/eggBox.xml" isAbsolute="true" age="0.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="6.1701 67.0376 282.9265" rotation="0.2272 -0.6066 0.0990"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000023"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000007"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="EGG" fillLevel="55.495323"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="145" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/flourBag/flourBag.xml" isAbsolute="true" age="0.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="2.0091 67.1469 242.0889" rotation="173.0369 14.7897 179.4074"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000564"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000169"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="FLOUR" fillLevel="97.500000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="146" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/bread/bread.xml" isAbsolute="true" age="0.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="4.8957 67.9903 248.4434" rotation="-0.2974 3.6774 -2.3983"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000111"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000033"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="BREAD" fillLevel="16.666666"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="147" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/bread/bread.xml" isAbsolute="true" age="0.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="4.6513 68.1407 248.4548" rotation="-0.1536 0.0191 -2.4269"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000000"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="BREAD" fillLevel="60.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="148" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/bread/breadDoughling.xml" isAbsolute="true" age="0.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="6.6690 68.0010 243.6622" rotation="-127.8621 87.0043 -127.6804"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000399"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000120"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="DOUGHLING" fillLevel="30.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="149" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/milkCan/milkCan.xml" isAbsolute="true" age="0.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-65.4488 71.3054 82.2984" rotation="179.9903 12.7447 172.8965"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.004841"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.001452"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="MILK" fillLevel="120.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="150" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/yeast/yeast.xml" isAbsolute="true" age="0.000000" price="10.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="2.1351 68.0636 241.0089" rotation="26.4209 5.0415 -87.7271"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000298"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000089"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="YEAST" fillLevel="15.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="151" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/milkCan/milkCan.xml" isAbsolute="true" age="0.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-67.0089 71.4993 81.4111" rotation="-0.5920 83.0886 -7.7213"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.004218"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.001265"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="MILK" fillLevel="120.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="152" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/bread/breadDoughling.xml" isAbsolute="true" age="0.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="6.4534 68.0010 243.3717" rotation="-87.9355 87.6211 -87.7941"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000000"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="DOUGHLING" fillLevel="30.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="153" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/bread/breadDoughling.xml" isAbsolute="true" age="0.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="6.4534 68.0010 242.7321" rotation="-84.0969 87.6606 -83.9501"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000000"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="DOUGHLING" fillLevel="30.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="154" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/milkCan/milkCan.xml" isAbsolute="true" age="0.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-152.4543 70.8421 246.8918" rotation="-0.0663 35.7574 -0.0884"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000000"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="MILK" fillLevel="120.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="155" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/bread/breadDoughling.xml" isAbsolute="true" age="0.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="6.4541 68.0010 243.0553" rotation="-90.0139 87.6329 -89.8720"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000000"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="DOUGHLING" fillLevel="30.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="156" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/bread/bread.xml" isAbsolute="true" age="0.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="4.4061 68.1407 248.4542" rotation="-0.1509 0.0034 -2.4341"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000000"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="BREAD" fillLevel="60.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="157" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/bread/breadDoughling.xml" isAbsolute="true" age="0.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="6.4534 68.0010 244.0330" rotation="-85.9605 87.5795 -85.8084"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000000"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="DOUGHLING" fillLevel="30.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="158" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/bread/breadDoughling.xml" isAbsolute="true" age="0.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="6.4537 68.0010 244.5758" rotation="-86.9847 87.6220 -86.8445"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000000"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="DOUGHLING" fillLevel="30.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="159" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/milkCan/milkCan.xml" isAbsolute="true" age="0.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-152.1931 70.8421 246.5253" rotation="-0.1246 35.6808 0.0604"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000000"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="MILK" fillLevel="120.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="160" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/bread/breadDoughling.xml" isAbsolute="true" age="0.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="6.4541 68.0010 244.9164" rotation="-91.2017 87.5946 -91.0487"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000000"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="DOUGHLING" fillLevel="30.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="161" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/bread/bread.xml" isAbsolute="true" age="0.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="4.1644 68.1407 248.4541" rotation="-0.1431 -0.0322 -2.3836"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000000"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="BREAD" fillLevel="60.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="162" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/bread/breadDoughling.xml" isAbsolute="true" age="0.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="6.4535 68.0010 245.2663" rotation="-86.6894 87.6198 -86.5477"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000000"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="DOUGHLING" fillLevel="30.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="163" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/milkCan/milkCan.xml" isAbsolute="true" age="0.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-151.9316 70.8421 246.1595" rotation="-0.0199 35.4757 -0.0822"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000000"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="MILK" fillLevel="120.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="164" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/bread/breadDoughling.xml" isAbsolute="true" age="0.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="6.4534 68.0010 245.5934" rotation="-87.3110 87.6216 -87.1703"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000000"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="DOUGHLING" fillLevel="30.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="165" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/vegetableBoxes/vegetablesCardBoard.xml" isAbsolute="true" age="0.000000" price="10.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-805.4323 57.1894 -14.8033" rotation="114.1661 89.7545 114.2769"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000018"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000005"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="166" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/vegetableBoxes/vegetablesCardBoard.xml" isAbsolute="true" age="0.000000" price="10.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-805.4462 57.1837 -12.8107" rotation="177.3333 88.3237 177.4546"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000026"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000008"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="167" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/bread/breadDoughling.xml" isAbsolute="true" age="0.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="6.4535 68.0010 245.9288" rotation="-89.0459 87.5848 -88.8972"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000000"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="DOUGHLING" fillLevel="30.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="168" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/bread/bread.xml" isAbsolute="true" age="0.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="3.9284 68.1407 248.4541" rotation="-0.1397 -0.1728 -2.3929"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000004"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000001"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="BREAD" fillLevel="60.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="169" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/milkCan/milkCan.xml" isAbsolute="true" age="0.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-151.6706 70.8422 245.7927" rotation="0.0010 35.4957 0.0009"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000000"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="MILK" fillLevel="120.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="170" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/vegetableBoxes/vegetablesBigBox.xml" isAbsolute="true" age="0.000000" price="70.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-800.6322 57.7259 -14.8442" rotation="179.6087 56.8936 179.7487"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <washable>
+            <dirtNode amount="0.000244"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000073"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="171" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/vegetableBoxes/vegetablesBigBox.xml" isAbsolute="true" age="0.000000" price="70.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-802.1148 58.1079 -13.8786" rotation="144.2538 49.3994 -179.7924"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <washable>
+            <dirtNode amount="0.000115"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000034"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="172" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/bread/bread.xml" isAbsolute="true" age="0.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="3.6922 68.1407 248.4548" rotation="-0.1503 -0.0401 -2.4224"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000000"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="BREAD" fillLevel="6.666667"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="173" modName="FS19_HofBergmann" filename="$moddir$FS19_HofBergmann/objects/pallets/milkCan/milkCan.xml" isAbsolute="true" age="0.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-151.4098 70.8420 245.4266" rotation="0.0835 35.4778 0.1066"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000000"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="MILK" fillLevel="60.003269"/>
+        </fillUnit>
+    </vehicle>
+    <attachments rootVehicleId="54">
+        <attachment attachmentId="55" inputJointDescIndex="1" jointIndex="2" moveDown="false"/>
+    </attachments>
+    <attachments rootVehicleId="56">
+        <attachment attachmentId="57" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
+    </attachments>
+    <attachments rootVehicleId="58">
+        <attachment attachmentId="59" inputJointDescIndex="1" jointIndex="2" moveDown="false"/>
+        <attachment attachmentId="114" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
+    </attachments>
+    <attachments rootVehicleId="85">
+        <attachment attachmentId="88" inputJointDescIndex="1" jointIndex="4" moveDown="false"/>
+    </attachments>
+    <attachments rootVehicleId="87">
+        <attachment attachmentId="102" inputJointDescIndex="1" jointIndex="4" moveDown="false"/>
+    </attachments>
+    <attachments rootVehicleId="115">
+        <attachment attachmentId="116" inputJointDescIndex="1" jointIndex="2" moveDown="false"/>
+    </attachments>
+</vehicles>

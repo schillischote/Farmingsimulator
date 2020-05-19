@@ -1,0 +1,50 @@
+﻿<missions>
+    <mission type="mow_bale" reward="5225" status="0" success="false">
+        <field id="30" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="2" vehicleUseCost="411.683990" spawnedVehicles="false" growthState="4" limeFactor="0.000000" weedFactor="1.000000" fruitTypeName="GRASS"/>
+        <bale sellPoint="53" fillTypeName="DRYGRASS_WINDROW" depositedLiters="0.000000"/>
+    </mission>
+    <mission type="mow_bale" reward="5798" status="0" success="false">
+        <field id="3" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="1" vehicleUseCost="415.350006" spawnedVehicles="false" growthState="4" limeFactor="1.000000" weedFactor="1.000000" fruitTypeName="GRASS"/>
+        <bale sellPoint="53" fillTypeName="SILAGE" depositedLiters="0.000000"/>
+    </mission>
+    <mission type="transport" reward="2489" status="0" success="false" timeLeft="22778826" config="LUGGAGE HOTEL" pickupTrigger="TRANSPORT01" dropoffTrigger="TRANSPORT05" objectFilename="data/objects/pallets/missions/transportPalletSuitcases.i3d" numObjects="6"/>
+    <mission type="harvest" reward="6195" status="0" success="false">
+        <field id="7" sprayFactor="0.000000" spraySet="false" plowFactor="0.000000" state="2" vehicleGroup="11" vehicleUseCost="976.228516" growthState="5" limeFactor="0.000000" weedFactor="1.000000" fruitTypeName="COTTON"/>
+        <harvest sellPoint="47" expectedLiters="22393.179688" depositedLiters="0.000000"/>
+    </mission>
+    <mission type="harvest" reward="3591" status="0" success="false">
+        <field id="2" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="3" vehicleUseCost="565.870483" growthState="5" limeFactor="1.000000" weedFactor="1.000000" fruitTypeName="OAT"/>
+        <harvest sellPoint="54" expectedLiters="18608.433594" depositedLiters="0.000000"/>
+    </mission>
+    <mission type="transport" reward="1663" status="0" success="false" timeLeft="139609331" config="WATER" pickupTrigger="TRANSPORT02" dropoffTrigger="TRANSPORT08" objectFilename="data/objects/pallets/missions/transportPalletBottles.i3d" numObjects="2"/>
+    <mission type="harvest" reward="8620" status="0" success="false">
+        <field id="6" sprayFactor="0.000000" spraySet="false" plowFactor="0.000000" state="2" vehicleGroup="1" vehicleUseCost="1358.428467" growthState="5" limeFactor="1.000000" weedFactor="1.000000" fruitTypeName="OAT"/>
+        <harvest sellPoint="54" expectedLiters="40204.257813" depositedLiters="0.000000"/>
+    </mission>
+    <mission type="harvest" reward="1229" status="0" success="false">
+        <field id="25" sprayFactor="0.000000" spraySet="false" plowFactor="0.000000" state="2" vehicleGroup="1" vehicleUseCost="193.758499" growthState="5" limeFactor="1.000000" weedFactor="1.000000" fruitTypeName="SOYBEAN"/>
+        <harvest sellPoint="33" expectedLiters="4527.241699" depositedLiters="0.000000"/>
+    </mission>
+    <mission type="harvest" reward="1575" status="0" success="false">
+        <field id="5" sprayFactor="0.000000" spraySet="false" plowFactor="0.000000" state="2" vehicleGroup="2" vehicleUseCost="248.300003" growthState="5" limeFactor="1.000000" weedFactor="1.000000" fruitTypeName="CANOLA"/>
+        <harvest sellPoint="32" expectedLiters="7477.649902" depositedLiters="0.000000"/>
+    </mission>
+    <mission type="weed" reward="1932" status="0" success="false">
+        <field id="14" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="2" vehicleUseCost="1015.013977" growthState="2" limeFactor="1.000000" weedFactor="0.500000" weedState="2" fruitTypeName="SUNFLOWER"/>
+    </mission>
+    <mission type="cultivate" reward="1144" status="0" success="false">
+        <field id="27" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="3" vehicleGroup="2" vehicleUseCost="451.054504" limeFactor="1.000000" weedFactor="1.000000" fruitTypeName="SUNFLOWER"/>
+    </mission>
+    <mission type="cultivate" reward="1975" status="0" success="false">
+        <field id="17" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="3" vehicleGroup="1" vehicleUseCost="778.414001" limeFactor="1.000000" weedFactor="1.000000" fruitTypeName="COTTON"/>
+    </mission>
+    <mission type="plow" reward="2438" status="0" success="false">
+        <field id="31" sprayFactor="0.000000" spraySet="false" plowFactor="0.000000" state="3" vehicleGroup="2" vehicleUseCost="411.683990" limeFactor="1.000000" weedFactor="1.000000" fruitTypeName="SUGARBEET"/>
+    </mission>
+    <mission type="weed" reward="2781" status="0" success="false">
+        <field id="12" sprayFactor="0.000000" spraySet="false" plowFactor="0.000000" state="2" vehicleGroup="2" vehicleUseCost="1461.173950" growthState="2" limeFactor="1.000000" weedFactor="0.500000" weedState="2" fruitTypeName="SUNFLOWER"/>
+    </mission>
+    <mission type="weed" reward="660" status="0" success="false">
+        <field id="24" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="1" vehicleUseCost="346.839996" growthState="2" limeFactor="0.000000" weedFactor="0.500000" weedState="2" fruitTypeName="POTATO"/>
+    </mission>
+</missions>

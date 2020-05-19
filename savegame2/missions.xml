@@ -1,0 +1,9 @@
+﻿<missions>
+    <mission type="fertilize" reward="15423" status="0" success="false">
+        <field id="18" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="2" vehicleUseCost="2203.395996" growthState="1" limeFactor="1.000000" weedFactor="1.000000" fruitTypeName="MAIZE"/>
+    </mission>
+    <mission type="fertilize" reward="31964" status="0" success="false">
+        <field id="64" sprayFactor="0.500000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="3" vehicleUseCost="4566.379883" growthState="2" limeFactor="0.000000" weedFactor="1.000000" fruitTypeName="OAT"/>
+    </mission>
+    <mission type="transport" reward="1032" status="0" success="false" timeLeft="170907405" config="Lieferung" pickupTrigger="TRANSPORT10" dropoffTrigger="TRANSPORT05" objectFilename="data/objects/pallets/missions/transportPalletCrates.i3d" numObjects="1"/>
+</missions>

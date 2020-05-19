@@ -1,0 +1,26 @@
+﻿<guidanceSteering version="1">
+    <settings>
+        <showGuidanceLines>true</showGuidanceLines>
+        <guidanceTerrainAngleIsActive>true</guidanceTerrainAngleIsActive>
+    </settings>
+    <tracks>
+        <track id="1" name="Feld 18" strategy="1" method="2">
+            <guidanceData width="6.042000" offsetWidth="0.000000" snapDirection="0 1 -180.4251 156.535" driveTarget="-180.4251 69.9699 156.5507 -0.0092999999999392 0.99990000000003"/>
+        </track>
+        <track id="2" name="Feld 19" strategy="1" method="2">
+            <guidanceData width="6.042000" offsetWidth="0.000000" snapDirection="0 1 -76.0351 36.2349" driveTarget="-76.0351 68.635 36.2008 -0.032500000000027 -0.9994999999999"/>
+        </track>
+        <track id="3" name="Feld 20" strategy="1" method="2">
+            <guidanceData width="0.000000" offsetWidth="0.000000" snapDirection="0 1 5.4949000000001 138.61" driveTarget="5.4950000000001 66.0299 138.6091 0.017299999999977 -0.99990000000003"/>
+        </track>
+        <track id="4" name="Feld 21" strategy="1" method="2">
+            <guidanceData width="7.431000" offsetWidth="1.617000" snapDirection="0 1 166.352 270.23" driveTarget="5.4950000000001 66.0299 138.6091 0.017299999999977 -0.99990000000003"/>
+        </track>
+        <track id="5" name="Feld 21.2" strategy="1" method="2">
+            <guidanceData width="27.000000" offsetWidth="0.000000" snapDirection="0 1 154.2599 274.4949" driveTarget="154.2599 65.0498 274.4958 -0.013899999999921 0.99990000000003"/>
+        </track>
+        <track id="6" name="Feld 28" strategy="1" method="2">
+            <guidanceData width="9.144000" offsetWidth="0.000000" snapDirection="-1 0 -35.1801 329.6149" driveTarget="0 0 0 0 0"/>
+        </track>
+    </tracks>
+</guidanceSteering>

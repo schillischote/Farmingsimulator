@@ -1,0 +1,9 @@
+﻿<onCreateLoadedObjects>
+    <onCreateLoadedObject saveId="globalCompany_Brueckenbau">
+        <productionFactory farmId="15" indexName="Brueckenbau">
+            <productLines>
+                <productLine lineId="1" state="false" userStopped="false"/>
+            </productLines>
+        </productionFactory>
+    </onCreateLoadedObject>
+</onCreateLoadedObjects>
