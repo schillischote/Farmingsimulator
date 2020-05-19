@@ -1,7 +1,0 @@
-﻿<economy>
-    <greatDemands>
-        <greatDemand itemId="13" fillTypeName="POTATO" demandMultiplier="1.200000" demandStartDay="3" demandStartHour="7" demandDuration="12" isRunning="false" isValid="true"/>
-        <greatDemand itemId="15" fillTypeName="EGG" demandMultiplier="1.400000" demandStartDay="3" demandStartHour="7" demandDuration="18" isRunning="false" isValid="true"/>
-        <greatDemand itemId="9" fillTypeName="WOOL" demandMultiplier="1.400000" demandStartDay="5" demandStartHour="14" demandDuration="12" isRunning="false" isValid="true"/>
-    </greatDemands>
-</economy>
