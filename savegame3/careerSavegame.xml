@@ -3,7 +3,7 @@
         <savegameName>Mein Spielstand</savegameName>
         <mapId>MapDE</mapId>
         <mapTitle>Felsbrunn</mapTitle>
-        <saveDate>19.05.2020</saveDate>
+        <saveDate>22.05.2020</saveDate>
         <playerModelIndex>1</playerModelIndex>
         <playerColorIndex>6</playerColorIndex>
         <playerBodyIndex>1</playerBodyIndex>
@@ -18,13 +18,13 @@
         <stopAndGoBraking>true</stopAndGoBraking>
         <automaticMotorStartEnabled>true</automaticMotorStartEnabled>
         <fruitDestruction>true</fruitDestruction>
-        <plowingRequiredEnabled>true</plowingRequiredEnabled>
+        <plowingRequiredEnabled>false</plowingRequiredEnabled>
         <weedsEnabled>true</weedsEnabled>
         <limeRequired>true</limeRequired>
         <fuelUsageLow>false</fuelUsageLow>
         <helperBuyFuel>true</helperBuyFuel>
         <helperBuySeeds>true</helperBuySeeds>
-        <helperBuyFertilizer>true</helperBuyFertilizer>
+        <helperBuyFertilizer>false</helperBuyFertilizer>
         <helperSlurrySource>2</helperSlurrySource>
         <helperManureSource>2</helperManureSource>
         <densityMapRevision>3</densityMapRevision>
@@ -48,13 +48,15 @@
         <foundHelpIcons>00000000000000000000</foundHelpIcons>
     </map>
     <statistics>
-        <money>17454</money>
-        <playTime>1079.435791</playTime>
+        <money>26824</money>
+        <playTime>1438.088013</playTime>
     </statistics>
     <mapsSplitShapeFileIds count="1">
         <id id="0"/>
     </mapsSplitShapeFileIds>
     <mod modName="FS19_AnimalPenExtension" title="Animal Pen Extension" version="1.1.0.2" required="false" fileHash="edb414ef9564f51ed6a654fab6d3d7d7"/>
     <mod modName="FS19_guidanceSteering" title="Guidance Steering" version="1.0.0.0" required="false" fileHash="3645a5c70e203ab001c499805eb2c473"/>
+    <mod modName="FS19_FI_FeedMixers" title="Tierfuttermischer" version="1.1.0.0" required="false" fileHash="f262f786a70d4df1461f98ed5d59b354"/>
+    <mod modName="FS19_compositeHallPack" title="Leimbinder Maschinenhallen" version="1.0.0.0" required="false" fileHash="70120c88a22af7fb9cbddb5e09f7d2e2"/>
     <mod modName="FS19_UniversalPassenger" title="Universal Passenger" version="1.0.1.0" required="false" fileHash="8ac8aedd6ad8934652ec8e371eb64219"/>
 </careerSavegame>

@@ -16,11 +16,8 @@
         <track id="4" name="Feld 21" strategy="1" method="2">
             <guidanceData width="7.431000" offsetWidth="1.617000" snapDirection="0 1 166.352 270.23" driveTarget="5.4950000000001 66.0299 138.6091 0.017299999999977 -0.99990000000003"/>
         </track>
-        <track id="5" name="Feld 21.2" strategy="1" method="2">
-            <guidanceData width="27.000000" offsetWidth="0.000000" snapDirection="0 1 154.2599 274.4949" driveTarget="154.2599 65.0498 274.4958 -0.013899999999921 0.99990000000003"/>
-        </track>
-        <track id="6" name="Feld 28" strategy="1" method="2">
-            <guidanceData width="9.144000" offsetWidth="0.000000" snapDirection="-1 0 -35.1801 329.6149" driveTarget="0 0 0 0 0"/>
+        <track id="5" name="Feld 28" strategy="1" method="2">
+            <guidanceData width="5.944000" offsetWidth="-0.002000" snapDirection="0 1 26.75 317.3099" driveTarget="-9.01 70.7651 319.1358 0.06269999999995 0.99800000000005"/>
         </track>
     </tracks>
 </guidanceSteering>
