@@ -1,10 +1,10 @@
 ﻿<vehicles>
-    <vehicle id="1" filename="data/vehicles/train/locomotive01/locomotive01.xml" isAbsolute="true" age="19.000000" price="164000.000000" farmId="0" propertyState="0" operatingTime="90792.187500">
-        <component1 position="-440.8940 126.8264 -950.8431" rotation="-171.7090 -86.4946 -180.0000"/>
+    <vehicle id="1" filename="data/vehicles/train/locomotive01/locomotive01.xml" isAbsolute="true" age="20.000000" price="164000.000000" farmId="0" propertyState="0" operatingTime="96825.726563">
+        <component1 position="-739.4368 69.9098 -407.4186" rotation="4.1372 -18.9667 -0.0000"/>
         <configuration name="buyableGPS" id="1"/>
         <configuration name="wheel" id="1"/>
-        <configuration name="motor" id="1"/>
         <configuration name="universalPassenger" id="1"/>
+        <configuration name="motor" id="1"/>
         <boughtConfiguration name="buyableGPS" id="1"/>
         <boughtConfiguration name="wheel" id="1"/>
         <boughtConfiguration name="motor" id="1"/>
@@ -12,8 +12,8 @@
         <drivable cruiseControl="80.000000"/>
         <attacherJoints comboDirection="-1"/>
     </vehicle>
-    <vehicle id="2" filename="data/vehicles/train/wagonGrain/wagonGrain.xml" isAbsolute="true" age="19.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="90793.359375">
-        <component1 position="-423.2267 129.4309 -949.8750" rotation="-171.4362 -87.8212 -180.0000"/>
+    <vehicle id="2" filename="data/vehicles/train/wagonGrain/wagonGrain.xml" isAbsolute="true" age="20.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="96826.976563">
+        <component1 position="-733.0388 71.2491 -424.0737" rotation="4.7868 -28.0806 -0.0000"/>
         <configuration name="cover" id="1"/>
         <configuration name="fillVolume" id="1"/>
         <configuration name="wheel" id="1"/>
@@ -30,8 +30,8 @@
         </fillUnit>
         <cover state="0"/>
     </vehicle>
-    <vehicle id="3" filename="data/vehicles/train/wagonWoodChips/wagonWoodChips.xml" isAbsolute="true" age="19.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="90793.359375">
-        <component1 position="-406.1735 132.0049 -949.2632" rotation="-171.3449 -88.7304 -180.0000"/>
+    <vehicle id="3" filename="data/vehicles/train/wagonWoodChips/wagonWoodChips.xml" isAbsolute="true" age="20.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="96826.976563">
+        <component1 position="-724.6984 72.7071 -439.1126" rotation="5.1272 -33.7455 -0.0000"/>
         <configuration name="trailer" id="1"/>
         <configuration name="wheel" id="1"/>
         <configuration name="fillUnit" id="1"/>
@@ -45,10 +45,10 @@
             <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
         </fillUnit>
     </vehicle>
-    <vehicle id="4" filename="data/vehicles/train/wagonTimber/wagonTimber.xml" isAbsolute="true" age="19.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="90793.359375">
-        <component1 position="-388.6225 134.6805 -948.9147" rotation="-171.2847 -89.4132 -180.0000"/>
-        <configuration name="wheel" id="1"/>
+    <vehicle id="4" filename="data/vehicles/train/wagonTimber/wagonTimber.xml" isAbsolute="true" age="20.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="96826.976563">
+        <component1 position="-714.7450 74.3020 -453.7261" rotation="5.3136 -38.2945 0.0000"/>
         <configuration name="tensionBelts" id="1"/>
+        <configuration name="wheel" id="1"/>
         <boughtConfiguration name="tensionBelts" id="1"/>
         <boughtConfiguration name="wheel" id="1"/>
         <attacherJoints comboDirection="-1"/>
@@ -66,8 +66,8 @@
             <belt isActive="false"/>
         </tensionBelts>
     </vehicle>
-    <vehicle id="5" filename="data/vehicles/train/wagonSugarbeets/wagonSugarbeets.xml" isAbsolute="true" age="19.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="90793.359375">
-        <component1 position="-362.3226 138.7128 -948.6418" rotation="-171.2876 -89.1824 180.0000"/>
+    <vehicle id="5" filename="data/vehicles/train/wagonSugarbeets/wagonSugarbeets.xml" isAbsolute="true" age="20.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="96826.976563">
+        <component1 position="-698.0956 76.7741 -474.3351" rotation="5.1983 -43.8084 -0.0000"/>
         <configuration name="cover" id="1"/>
         <configuration name="fillVolume" id="1"/>
         <configuration name="wheel" id="1"/>
@@ -84,10 +84,10 @@
         </fillUnit>
         <cover state="0"/>
     </vehicle>
-    <vehicle id="6" filename="data/vehicles/train/wagonVehicles/wagonVehicles.xml" isAbsolute="true" age="19.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="90793.359375">
-        <component1 position="-340.8138 142.0087 -948.3340" rotation="-171.2918 -89.6118 179.9999"/>
-        <configuration name="wheel" id="1"/>
+    <vehicle id="6" filename="data/vehicles/train/wagonVehicles/wagonVehicles.xml" isAbsolute="true" age="20.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="96826.976563">
+        <component1 position="-683.0565 78.6487 -489.9482" rotation="3.9105 -44.2906 -0.0000"/>
         <configuration name="tensionBelts" id="1"/>
+        <configuration name="wheel" id="1"/>
         <boughtConfiguration name="tensionBelts" id="1"/>
         <boughtConfiguration name="wheel" id="1"/>
         <attacherJoints comboDirection="-1"/>
@@ -107,9 +107,9 @@
             <belt isActive="false"/>
         </tensionBelts>
     </vehicle>
-    <vehicle id="7" filename="data/vehicles/krone/zx560GD/zx560GD.xml" isAbsolute="true" age="19.000000" price="166000.000000" farmId="2" propertyState="1" operatingTime="23322.539063">
-        <component1 position="-58.0519 67.3790 209.5363" rotation="179.2816 80.8686 177.8237"/>
-        <component2 position="-54.0468 67.8743 208.8960" rotation="159.7283 80.8685 177.8254"/>
+    <vehicle id="7" filename="data/vehicles/krone/zx560GD/zx560GD.xml" isAbsolute="true" age="20.000000" price="166000.000000" farmId="2" propertyState="1" operatingTime="24228.359375">
+        <component1 position="-4.6608 67.2813 106.2528" rotation="3.2224 -10.8391 -2.5493"/>
+        <component2 position="-5.4094 67.6848 110.2526" rotation="-16.5709 -10.8390 -2.5494"/>
         <configuration name="cover" id="1"/>
         <configuration name="fillVolume" id="1"/>
         <configuration name="wheel" id="4"/>
@@ -122,32 +122,32 @@
         <boughtConfiguration name="fillUnit" id="1"/>
         <boughtConfiguration name="trailer" id="1"/>
         <washable>
-            <dirtNode amount="0.002776"/>
-            <dirtNode amount="0.002776"/>
-            <dirtNode amount="0.002776"/>
-            <dirtNode amount="0.002776"/>
-            <dirtNode amount="0.002776"/>
-            <dirtNode amount="0.002776"/>
-            <dirtNode amount="0.002776"/>
-            <dirtNode amount="0.002776"/>
-            <dirtNode amount="0.002776"/>
+            <dirtNode amount="0.118250"/>
+            <dirtNode amount="0.349243"/>
+            <dirtNode amount="0.349277"/>
+            <dirtNode amount="0.349823"/>
+            <dirtNode amount="0.348824"/>
+            <dirtNode amount="0.349408"/>
+            <dirtNode amount="0.349199"/>
+            <dirtNode amount="0.118250"/>
+            <dirtNode amount="0.118250"/>
         </washable>
         <wearable>
-            <wearNode amount="0.096633"/>
+            <wearNode amount="0.126961"/>
         </wearable>
         <cylindered>
             <movingTool rotation="0.052360"/>
         </cylindered>
         <attacherJoints comboDirection="-1"/>
-        <foldable foldAnimTime="1.000000"/>
+        <foldable foldAnimTime="0.000000"/>
         <fillUnit>
             <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
         </fillUnit>
     </vehicle>
-    <vehicle id="8" filename="data/vehicles/poettinger/poettingerNovaCatX8/poettingerNovaCatX8.xml" isAbsolute="true" age="19.000000" price="42000.000000" farmId="2" propertyState="1" operatingTime="18961.861328">
-        <component1 position="-60.2391 67.2645 202.8609" rotation="-0.0129 -87.5220 0.0071"/>
-        <component2 position="-60.1991 70.0635 203.9152" rotation="-87.5196 0.0017 89.9898"/>
-        <component3 position="-60.2906 70.0634 201.8070" rotation="87.5232 -0.0007 -90.0064"/>
+    <vehicle id="8" filename="data/vehicles/poettinger/poettingerNovaCatX8/poettingerNovaCatX8.xml" isAbsolute="true" age="20.000000" price="42000.000000" farmId="2" propertyState="1" operatingTime="18961.861328">
+        <component1 position="-60.2390 67.2646 202.8609" rotation="0.0577 -87.5245 -0.0613"/>
+        <component2 position="-60.1993 70.0640 203.9143" rotation="-87.5245 0.0230 89.9950"/>
+        <component3 position="-60.2906 70.0635 201.8063" rotation="87.5160 -0.0004 -90.0045"/>
         <washable>
             <dirtNode amount="0.539360"/>
         </washable>
@@ -157,9 +157,9 @@
         <attacherJoints comboDirection="-1"/>
         <foldable foldAnimTime="1.000000"/>
     </vehicle>
-    <vehicle id="9" filename="data/vehicles/poettinger/poettingerNovaCat301/poettingerNovaCat301.xml" isAbsolute="true" age="19.000000" price="19000.000000" farmId="2" propertyState="1" operatingTime="18914.724609">
-        <component1 position="-63.3126 66.9145 203.1880" rotation="0.0236 -87.4460 -0.0207"/>
-        <component2 position="-63.5705 67.7035 203.1995" rotation="0.0240 -87.4461 -0.0212"/>
+    <vehicle id="9" filename="data/vehicles/poettinger/poettingerNovaCat301/poettingerNovaCat301.xml" isAbsolute="true" age="20.000000" price="19000.000000" farmId="2" propertyState="1" operatingTime="18914.724609">
+        <component1 position="-63.3129 66.9131 203.1884" rotation="-1.5635 -87.4455 1.5140"/>
+        <component2 position="-63.5700 67.7023 203.1989" rotation="-1.5522 -87.4454 1.5056"/>
         <washable>
             <dirtNode amount="0.648066"/>
         </washable>
@@ -170,8 +170,8 @@
         <attacherJoints comboDirection="-1"/>
         <foldable foldAnimTime="1.000000"/>
     </vehicle>
-    <vehicle id="10" filename="data/vehicles/strautmann/aperion3401/aperion3401.xml" isAbsolute="true" age="19.000000" price="65000.000000" farmId="2" propertyState="1" operatingTime="4449.812988">
-        <component1 position="-58.1810 67.2672 217.4020" rotation="176.9102 87.6216 177.1922"/>
+    <vehicle id="10" filename="data/vehicles/strautmann/aperion3401/aperion3401.xml" isAbsolute="true" age="20.000000" price="65000.000000" farmId="2" propertyState="1" operatingTime="6452.488770">
+        <component1 position="-261.6261 68.5581 -445.7615" rotation="1.6050 16.8684 2.8727"/>
         <configuration name="wheel" id="1"/>
         <configuration name="trailer" id="1"/>
         <configuration name="fillUnit" id="1"/>
@@ -181,31 +181,31 @@
         <boughtConfiguration name="fillUnit" id="1"/>
         <boughtConfiguration name="fillVolume" id="1"/>
         <washable>
-            <dirtNode amount="0.344963"/>
-            <dirtNode amount="0.349937"/>
-            <dirtNode amount="0.349961"/>
-            <dirtNode amount="0.349848"/>
-            <dirtNode amount="0.349986"/>
-            <dirtNode amount="0.349396"/>
-            <dirtNode amount="0.349998"/>
+            <dirtNode amount="0.579859"/>
+            <dirtNode amount="0.893001"/>
+            <dirtNode amount="0.885595"/>
+            <dirtNode amount="0.890187"/>
+            <dirtNode amount="0.889021"/>
+            <dirtNode amount="0.878843"/>
+            <dirtNode amount="0.876175"/>
         </washable>
         <wearable>
-            <wearNode amount="0.078037"/>
+            <wearNode amount="0.125900"/>
         </wearable>
         <cylindered>
-            <movingTool rotation="0.000000"/>
+            <movingTool rotation="0.000005"/>
             <movingTool translation="0.000000"/>
             <movingTool translation="0.000000"/>
         </cylindered>
         <attacherJoints comboDirection="-1"/>
-        <foldable foldAnimTime="1.000000"/>
+        <foldable foldAnimTime="0.000000"/>
         <fillUnit>
-            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+            <unit index="1" fillType="WHEAT" fillLevel="17200.000000"/>
         </fillUnit>
         <trailer tipSideIndex="1"/>
     </vehicle>
-    <vehicle id="11" filename="data/vehicles/strautmann/aperion3401/aperion3401.xml" isAbsolute="true" age="19.000000" price="65000.000000" farmId="2" propertyState="1" operatingTime="11070.314453">
-        <component1 position="5.7427 67.0195 265.5442" rotation="-177.5245 -9.7513 173.0614"/>
+    <vehicle id="11" filename="data/vehicles/strautmann/aperion3401/aperion3401.xml" isAbsolute="true" age="20.000000" price="65000.000000" farmId="2" propertyState="1" operatingTime="12962.617188">
+        <component1 position="-285.1039 79.8037 64.9875" rotation="-179.3161 13.4902 178.7948"/>
         <configuration name="wheel" id="1"/>
         <configuration name="trailer" id="1"/>
         <configuration name="fillUnit" id="1"/>
@@ -215,16 +215,16 @@
         <boughtConfiguration name="fillUnit" id="1"/>
         <boughtConfiguration name="fillVolume" id="1"/>
         <washable>
-            <dirtNode amount="0.624261"/>
-            <dirtNode amount="0.349960"/>
-            <dirtNode amount="0.349994"/>
-            <dirtNode amount="0.349806"/>
-            <dirtNode amount="0.349948"/>
-            <dirtNode amount="0.349946"/>
-            <dirtNode amount="0.349957"/>
+            <dirtNode amount="0.770929"/>
+            <dirtNode amount="0.789303"/>
+            <dirtNode amount="0.566914"/>
+            <dirtNode amount="0.740504"/>
+            <dirtNode amount="0.525793"/>
+            <dirtNode amount="0.522941"/>
+            <dirtNode amount="0.737172"/>
         </washable>
         <wearable>
-            <wearNode amount="0.139864"/>
+            <wearNode amount="0.170395"/>
         </wearable>
         <cylindered>
             <movingTool rotation="1.270845"/>
@@ -232,14 +232,14 @@
             <movingTool translation="-0.560000"/>
         </cylindered>
         <attacherJoints comboDirection="-1"/>
-        <foldable foldAnimTime="1.000000"/>
+        <foldable foldAnimTime="0.000000"/>
         <fillUnit>
-            <unit index="1" fillType="SILAGE" fillLevel="47546.824219"/>
+            <unit index="1" fillType="CHAFF" fillLevel="36331.628906"/>
         </fillUnit>
         <trailer tipSideIndex="1"/>
     </vehicle>
-    <vehicle id="12" filename="data/vehicles/holaras/stego485/stego485.xml" isAbsolute="true" age="15.000000" price="7500.000000" farmId="2" propertyState="1" operatingTime="3731.605469">
-        <component1 position="-30.0555 67.0358 253.1740" rotation="-2.3829 -1.7944 0.0495"/>
+    <vehicle id="12" filename="data/vehicles/holaras/stego485/stego485.xml" isAbsolute="true" age="16.000000" price="7500.000000" farmId="2" propertyState="1" operatingTime="3731.605469">
+        <component1 position="-30.0558 67.0368 253.1746" rotation="-2.4914 -1.7404 0.0482"/>
         <configuration name="wheel" id="1"/>
         <boughtConfiguration name="wheel" id="1"/>
         <washable>
@@ -251,8 +251,8 @@
         <attacherJoints comboDirection="-1"/>
         <foldable foldAnimTime="0.000000"/>
     </vehicle>
-    <vehicle id="13" filename="data/vehicles/lizard/beltSystem/beltSystem.xml" isAbsolute="true" age="14.000000" price="5100.000000" farmId="2" propertyState="1" operatingTime="8256.691406">
-        <component1 position="-13.0077 67.3924 269.2502" rotation="176.2819 -81.1370 177.9731"/>
+    <vehicle id="13" filename="data/vehicles/lizard/beltSystem/beltSystem.xml" isAbsolute="true" age="15.000000" price="5100.000000" farmId="2" propertyState="1" operatingTime="8288.974609">
+        <component1 position="-13.6221 67.1405 277.3554" rotation="-174.5777 86.0950 -177.1004"/>
         <configuration name="motor" id="1"/>
         <configuration name="wheel" id="1"/>
         <configuration name="fillUnit" id="1"/>
@@ -263,13 +263,13 @@
         <boughtConfiguration name="baseMaterial" id="14"/>
         <boughtConfiguration name="baseMaterial" id="22"/>
         <washable>
-            <dirtNode amount="0.048217"/>
-            <dirtNode amount="0.048217"/>
-            <dirtNode amount="0.048217"/>
-            <dirtNode amount="0.048217"/>
+            <dirtNode amount="0.050631"/>
+            <dirtNode amount="0.050631"/>
+            <dirtNode amount="0.050631"/>
+            <dirtNode amount="0.050631"/>
         </washable>
         <wearable>
-            <wearNode amount="0.201579"/>
+            <wearNode amount="0.202032"/>
         </wearable>
         <cylindered>
             <movingTool rotation="0.349066"/>
@@ -283,8 +283,8 @@
         <drivable cruiseControl="5.000000"/>
         <aiConveyorBelt currentAngle="45.000000"/>
     </vehicle>
-    <vehicle id="14" filename="data/vehicles/grimme/grimmeSL8022/grimmeSL8022.xml" isAbsolute="true" age="14.000000" price="38000.000000" farmId="2" propertyState="1" operatingTime="1612.460693">
-        <component1 position="-26.9667 67.0207 267.3420" rotation="1.5216 -89.1111 -0.9999"/>
+    <vehicle id="14" filename="data/vehicles/grimme/grimmeSL8022/grimmeSL8022.xml" isAbsolute="true" age="15.000000" price="38000.000000" farmId="2" propertyState="1" operatingTime="1947.044800">
+        <component1 position="-68.1232 67.1813 265.8417" rotation="-171.6547 -39.8785 173.3219"/>
         <configuration name="wheel" id="1"/>
         <configuration name="fillUnit" id="1"/>
         <configuration name="motor" id="1"/>
@@ -292,33 +292,33 @@
         <boughtConfiguration name="fillUnit" id="1"/>
         <boughtConfiguration name="motor" id="1"/>
         <washable>
-            <dirtNode amount="0.072530"/>
-            <dirtNode amount="0.072530"/>
-            <dirtNode amount="0.072530"/>
-            <dirtNode amount="0.072530"/>
+            <dirtNode amount="0.079856"/>
+            <dirtNode amount="0.079856"/>
+            <dirtNode amount="0.079856"/>
+            <dirtNode amount="0.079856"/>
         </washable>
         <wearable>
-            <wearNode amount="0.024780"/>
+            <wearNode amount="0.027490"/>
         </wearable>
         <cylindered>
-            <movingTool rotation="0.349066"/>
-            <movingTool translation="-8.937708"/>
+            <movingTool rotation="0.222453"/>
+            <movingTool translation="-5.935223"/>
         </cylindered>
         <attacherJoints comboDirection="-1"/>
         <foldable foldAnimTime="0.000000"/>
         <fillUnit>
-            <unit index="1" fillType="SILAGE" fillLevel="573.496033"/>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
         </fillUnit>
         <drivable cruiseControl="5.000000"/>
         <aiConveyorBelt currentAngle="50.000000"/>
     </vehicle>
-    <vehicle id="15" filename="data/vehicles/johnDeere/series6R/series6R.xml" isAbsolute="true" age="14.000000" price="256000.000000" farmId="2" propertyState="1" operatingTime="37627.636719">
-        <component1 position="-22.9069 66.9850 250.5649" rotation="-0.1122 -7.2170 0.0440"/>
-        <component2 position="-23.0861 67.8312 251.9749" rotation="-0.1084 -7.2169 0.0610"/>
+    <vehicle id="15" filename="data/vehicles/johnDeere/series6R/series6R.xml" isAbsolute="true" age="15.000000" price="256000.000000" farmId="2" propertyState="1" operatingTime="39625.617188">
+        <component1 position="-281.7391 79.6160 58.2887" rotation="-175.6825 61.7275 -176.5927"/>
+        <component2 position="-280.4796 80.4263 57.5867" rotation="-175.6126 61.7263 -176.5271"/>
         <configuration name="buyableGPS" id="2"/>
-        <configuration name="motor" id="2"/>
-        <configuration name="universalPassenger" id="1"/>
         <configuration name="wheel" id="6"/>
+        <configuration name="universalPassenger" id="1"/>
+        <configuration name="motor" id="2"/>
         <configuration name="fillUnit" id="1"/>
         <configuration name="frontloader" id="2"/>
         <boughtConfiguration name="buyableGPS" id="1"/>
@@ -332,51 +332,51 @@
         <boughtConfiguration name="frontloader" id="1"/>
         <boughtConfiguration name="frontloader" id="2"/>
         <washable>
-            <dirtNode amount="0.003671"/>
-            <dirtNode amount="0.003671"/>
-            <dirtNode amount="0.003671"/>
-            <dirtNode amount="0.003671"/>
-            <dirtNode amount="0.003671"/>
+            <dirtNode amount="0.183312"/>
+            <dirtNode amount="0.692949"/>
+            <dirtNode amount="0.645306"/>
+            <dirtNode amount="0.722248"/>
+            <dirtNode amount="0.639090"/>
         </washable>
         <wearable>
-            <wearNode amount="0.161526"/>
+            <wearNode amount="0.195209"/>
         </wearable>
         <fillUnit>
-            <unit index="1" fillType="DIESEL" fillLevel="403.434998"/>
-            <unit index="2" fillType="AIR" fillLevel="2933.323730"/>
+            <unit index="1" fillType="DIESEL" fillLevel="389.001221"/>
+            <unit index="2" fillType="AIR" fillLevel="3023.171387"/>
         </fillUnit>
-        <drivable cruiseControl="9.000000"/>
+        <drivable cruiseControl="10.000000"/>
         <attacherJoints comboDirection="-1"/>
         <FS19_guidanceSteering>
-            <globalPositioningSystem guidanceIsActive="false" autoInvertOffset="false" lineDistance="19.000000"/>
+            <globalPositioningSystem guidanceIsActive="false" autoInvertOffset="false" lineDistance="17.000000"/>
         </FS19_guidanceSteering>
     </vehicle>
-    <vehicle id="16" filename="data/vehicles/johnDeere/643R/643R.xml" isAbsolute="true" age="14.000000" price="5400.000000" farmId="2" propertyState="1" operatingTime="4321.352539">
-        <component1 position="-18.3717 67.3223 251.6292" rotation="-2.5077 -2.1681 0.0722"/>
+    <vehicle id="16" filename="data/vehicles/johnDeere/643R/643R.xml" isAbsolute="true" age="15.000000" price="5400.000000" farmId="2" propertyState="1" operatingTime="6333.736328">
+        <component1 position="-19.9672 67.0989 251.0519" rotation="6.9389 1.4425 -0.0169"/>
         <washable>
-            <dirtNode amount="0.320211"/>
+            <dirtNode amount="0.422230"/>
         </washable>
         <wearable>
-            <wearNode amount="0.111239"/>
+            <wearNode amount="0.157848"/>
         </wearable>
         <cylindered>
-            <movingTool rotation="0.261799"/>
-            <movingTool rotation="-0.800638"/>
+            <movingTool rotation="0.047087"/>
+            <movingTool rotation="-0.392290"/>
         </cylindered>
         <attacherJoints comboDirection="-1"/>
-        <foldable foldAnimTime="1.000000"/>
+        <foldable foldAnimTime="0.000000"/>
     </vehicle>
-    <vehicle id="17" filename="data/vehicles/holaras/MES500/MES500.xml" isAbsolute="true" age="19.000000" price="7500.000000" farmId="2" propertyState="1" operatingTime="2106.265137">
-        <component1 position="-34.5225 67.0342 253.4057" rotation="-1.6050 0.7998 -0.0218"/>
+    <vehicle id="17" filename="data/vehicles/holaras/MES500/MES500.xml" isAbsolute="true" age="20.000000" price="7500.000000" farmId="2" propertyState="1" operatingTime="2270.363770">
+        <component1 position="-63.4335 67.2644 218.8429" rotation="-0.0486 -85.8969 0.0040"/>
         <configuration name="fillUnit" id="1"/>
         <configuration name="inputAttacherJoint" id="1"/>
         <boughtConfiguration name="fillUnit" id="1"/>
         <boughtConfiguration name="inputAttacherJoint" id="1"/>
         <washable>
-            <dirtNode amount="0.146324"/>
+            <dirtNode amount="0.151940"/>
         </washable>
         <wearable>
-            <wearNode amount="0.030834"/>
+            <wearNode amount="0.032412"/>
         </wearable>
         <attacherJoints comboDirection="-1"/>
         <foldable foldAnimTime="1.000000"/>
@@ -384,12 +384,12 @@
             <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
         </fillUnit>
     </vehicle>
-    <vehicle id="18" filename="data/vehicles/vaderstad/rapid600S/rapid600s.xml" isAbsolute="true" age="12.000000" price="76000.000000" farmId="2" propertyState="1" operatingTime="9161.615234">
-        <component1 position="-59.1655 67.4799 177.3065" rotation="0.1033 87.1682 0.0139"/>
-        <component2 position="-54.5336 67.9041 177.4882" rotation="0.5759 69.1032 -1.6627"/>
-        <configuration name="fillUnit" id="1"/>
-        <configuration name="wheel" id="1"/>
+    <vehicle id="18" filename="data/vehicles/vaderstad/rapid600S/rapid600s.xml" isAbsolute="true" age="13.000000" price="76000.000000" farmId="2" propertyState="1" operatingTime="9161.615234">
+        <component1 position="-59.1429 67.4797 177.3130" rotation="0.0930 86.9254 -0.0019"/>
+        <component2 position="-54.5096 67.9043 177.5063" rotation="2.5959 66.9059 0.2371"/>
         <configuration name="cover" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="fillUnit" id="1"/>
         <configuration name="fillVolume" id="1"/>
         <boughtConfiguration name="cover" id="1"/>
         <boughtConfiguration name="wheel" id="1"/>
@@ -419,8 +419,8 @@
         <ridgeMarker state="0"/>
         <sowingMachine selectedSeedFruitType="WHEAT"/>
     </vehicle>
-    <vehicle id="19" filename="data/vehicles/grimme/grimmeSL8022/grimmeSL8022.xml" isAbsolute="true" age="14.000000" price="38000.000000" farmId="2" propertyState="1" operatingTime="939.672241">
-        <component1 position="-9.3818 67.1491 266.6301" rotation="-150.7115 -67.6709 151.1820"/>
+    <vehicle id="19" filename="data/vehicles/grimme/grimmeSL8022/grimmeSL8022.xml" isAbsolute="true" age="15.000000" price="38000.000000" farmId="2" propertyState="1" operatingTime="1417.856812">
+        <component1 position="-78.8360 66.9764 256.4828" rotation="-178.9370 3.6767 179.0198"/>
         <configuration name="wheel" id="1"/>
         <configuration name="fillUnit" id="1"/>
         <configuration name="motor" id="1"/>
@@ -428,28 +428,28 @@
         <boughtConfiguration name="fillUnit" id="1"/>
         <boughtConfiguration name="motor" id="1"/>
         <washable>
-            <dirtNode amount="0.042809"/>
-            <dirtNode amount="0.042809"/>
-            <dirtNode amount="0.042809"/>
-            <dirtNode amount="0.042809"/>
+            <dirtNode amount="0.054017"/>
+            <dirtNode amount="0.054017"/>
+            <dirtNode amount="0.054017"/>
+            <dirtNode amount="0.054017"/>
         </washable>
         <wearable>
-            <wearNode amount="0.018500"/>
+            <wearNode amount="0.022997"/>
         </wearable>
         <cylindered>
-            <movingTool rotation="0.349066"/>
-            <movingTool translation="-10.843578"/>
+            <movingTool rotation="0.077255"/>
+            <movingTool translation="-5.934000"/>
         </cylindered>
         <attacherJoints comboDirection="-1"/>
         <foldable foldAnimTime="0.000000"/>
         <fillUnit>
-            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+            <unit index="1" fillType="CHAFF" fillLevel="47.619049"/>
         </fillUnit>
         <drivable cruiseControl="5.000000"/>
         <aiConveyorBelt currentAngle="50.000000"/>
     </vehicle>
-    <vehicle id="20" filename="data/vehicles/lizard/beltSystem/beltSystem.xml" isAbsolute="true" age="14.000000" price="5100.000000" farmId="2" propertyState="1" operatingTime="6460.124512">
-        <component1 position="-31.6296 67.4647 267.3329" rotation="-123.7187 -85.0794 119.0461"/>
+    <vehicle id="20" filename="data/vehicles/lizard/beltSystem/beltSystem.xml" isAbsolute="true" age="15.000000" price="5100.000000" farmId="2" propertyState="1" operatingTime="7332.757324">
+        <component1 position="-71.4514 67.4990 266.9966" rotation="-10.5797 -37.0566 6.6273"/>
         <configuration name="motor" id="1"/>
         <configuration name="wheel" id="1"/>
         <configuration name="fillUnit" id="1"/>
@@ -460,13 +460,13 @@
         <boughtConfiguration name="baseMaterial" id="14"/>
         <boughtConfiguration name="baseMaterial" id="22"/>
         <washable>
-            <dirtNode amount="0.049989"/>
-            <dirtNode amount="0.049989"/>
-            <dirtNode amount="0.049989"/>
-            <dirtNode amount="0.049989"/>
+            <dirtNode amount="0.061642"/>
+            <dirtNode amount="0.061642"/>
+            <dirtNode amount="0.061642"/>
+            <dirtNode amount="0.061642"/>
         </washable>
         <wearable>
-            <wearNode amount="0.231790"/>
+            <wearNode amount="0.242534"/>
         </wearable>
         <cylindered>
             <movingTool rotation="0.000000"/>
@@ -475,20 +475,20 @@
         <attacherJoints comboDirection="-1"/>
         <foldable foldAnimTime="1.000000"/>
         <fillUnit>
-            <unit index="1" fillType="CHAFF" fillLevel="492.063507"/>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
         </fillUnit>
         <drivable cruiseControl="5.000000"/>
         <aiConveyorBelt currentAngle="45.000000"/>
     </vehicle>
-    <vehicle id="21" filename="data/vehicles/masseyFerguson/activa7347/activa7347.xml" isAbsolute="true" age="8.000000" price="217000.000000" farmId="2" propertyState="2" operatingTime="8875.772461">
-        <component1 position="-4.1859 67.0366 124.0132" rotation="-0.6574 -88.6537 -0.0628"/>
-        <component2 position="-3.0388 67.8715 123.9864" rotation="12.9843 -88.6549 0.1528"/>
+    <vehicle id="21" filename="data/vehicles/masseyFerguson/activa7347/activa7347.xml" isAbsolute="true" age="9.000000" price="217000.000000" farmId="2" propertyState="2" operatingTime="12782.887695">
+        <component1 position="-269.8499 68.3396 -447.0561" rotation="3.0969 19.7017 2.6118"/>
+        <component2 position="-270.2581 69.2314 -448.0818" rotation="16.9521 19.7032 2.6067"/>
         <configuration name="universalPassenger" id="1"/>
         <configuration name="fillVolume" id="1"/>
-        <configuration name="wheel" id="1"/>
-        <configuration name="motor" id="1"/>
-        <configuration name="fillUnit" id="1"/>
         <configuration name="buyableGPS" id="2"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="motor" id="1"/>
         <boughtConfiguration name="buyableGPS" id="1"/>
         <boughtConfiguration name="buyableGPS" id="2"/>
         <boughtConfiguration name="fillVolume" id="1"/>
@@ -497,53 +497,53 @@
         <boughtConfiguration name="fillUnit" id="1"/>
         <boughtConfiguration name="universalPassenger" id="1"/>
         <washable>
-            <dirtNode amount="0.533932"/>
-            <dirtNode amount="0.349786"/>
-            <dirtNode amount="0.349811"/>
-            <dirtNode amount="0.350004"/>
-            <dirtNode amount="0.349836"/>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
         </washable>
         <wearable>
-            <wearNode amount="0.244700"/>
+            <wearNode amount="0.355056"/>
         </wearable>
         <fillUnit>
             <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
-            <unit index="2" fillType="DIESEL" fillLevel="488.427429"/>
-            <unit index="3" fillType="DEF" fillLevel="78.623650"/>
+            <unit index="2" fillType="DIESEL" fillLevel="419.479584"/>
+            <unit index="3" fillType="DEF" fillLevel="78.304558"/>
         </fillUnit>
         <drivable cruiseControl="32.000000"/>
         <attacherJoints comboDirection="-1"/>
         <foldable foldAnimTime="0.000000"/>
-        <combine isSwathActive="false" workedHectars="15.154401"/>
-        <pipe state="1"/>
+        <combine isSwathActive="false" workedHectars="22.270823"/>
+        <pipe state="2"/>
         <FS19_guidanceSteering>
-            <globalPositioningSystem guidanceIsActive="false" autoInvertOffset="true" lineDistance="13.000000"/>
+            <globalPositioningSystem guidanceIsActive="true" autoInvertOffset="true" lineDistance="13.000000"/>
         </FS19_guidanceSteering>
     </vehicle>
-    <vehicle id="22" filename="data/vehicles/masseyFerguson/freeflow/freeflow.xml" isAbsolute="true" age="8.000000" price="49500.000000" farmId="2" propertyState="2" operatingTime="8752.427734">
-        <component1 position="-4.2708 67.0215 119.3435" rotation="-0.4851 -2.3884 -0.1714"/>
+    <vehicle id="22" filename="data/vehicles/masseyFerguson/freeflow/freeflow.xml" isAbsolute="true" age="9.000000" price="49500.000000" farmId="2" propertyState="2" operatingTime="12627.321289">
+        <component1 position="-268.0026 69.6166 -441.7716" rotation="-26.6690 19.7017 2.6117"/>
         <washable>
-            <dirtNode amount="0.944028"/>
+            <dirtNode amount="1.000000"/>
         </washable>
         <wearable>
-            <wearNode amount="0.378758"/>
+            <wearNode amount="0.543509"/>
         </wearable>
         <cylindered>
-            <movingTool translation="1.266093"/>
-            <movingTool rotation="0.118682"/>
+            <movingTool translation="1.029000"/>
+            <movingTool rotation="0.115532"/>
         </cylindered>
         <attacherJoints comboDirection="-1"/>
-        <foldable foldAnimTime="1.000000"/>
+        <foldable foldAnimTime="0.000000"/>
     </vehicle>
-    <vehicle id="23" filename="data/vehicles/stara/imperador3/imperador3.xml" isAbsolute="true" age="8.000000" price="210000.000000" farmId="2" propertyState="2" operatingTime="12836.961914">
-        <component1 position="-3.4777 67.0504 130.6699" rotation="-0.0034 -87.6156 0.0025"/>
+    <vehicle id="23" filename="data/vehicles/stara/imperador3/imperador3.xml" isAbsolute="true" age="9.000000" price="210000.000000" farmId="2" propertyState="2" operatingTime="13826.902344">
+        <component1 position="-3.3566 67.0509 123.9555" rotation="-179.9996 -83.6475 179.9987"/>
         <configuration name="universalPassenger" id="1"/>
         <configuration name="cover" id="1"/>
         <configuration name="fillVolume" id="1"/>
-        <configuration name="wheel" id="1"/>
-        <configuration name="motor" id="1"/>
-        <configuration name="fillUnit" id="1"/>
         <configuration name="buyableGPS" id="2"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="motor" id="1"/>
         <boughtConfiguration name="buyableGPS" id="1"/>
         <boughtConfiguration name="buyableGPS" id="2"/>
         <boughtConfiguration name="cover" id="1"/>
@@ -553,14 +553,14 @@
         <boughtConfiguration name="fillUnit" id="1"/>
         <boughtConfiguration name="universalPassenger" id="1"/>
         <washable>
-            <dirtNode amount="0.121556"/>
-            <dirtNode amount="0.531326"/>
-            <dirtNode amount="0.530759"/>
-            <dirtNode amount="0.543773"/>
-            <dirtNode amount="0.544239"/>
+            <dirtNode amount="0.165809"/>
+            <dirtNode amount="0.576745"/>
+            <dirtNode amount="0.542859"/>
+            <dirtNode amount="0.551988"/>
+            <dirtNode amount="0.586894"/>
         </washable>
         <wearable>
-            <wearNode amount="0.182323"/>
+            <wearNode amount="0.228183"/>
         </wearable>
         <cylindered>
             <movingTool animationTime="0.000000"/>
@@ -568,10 +568,10 @@
             <movingTool rotation="1.134464"/>
         </cylindered>
         <fillUnit>
-            <unit index="1" fillType="FERTILIZER" fillLevel="2700.000000"/>
+            <unit index="1" fillType="FERTILIZER" fillLevel="2439.377197"/>
             <unit index="2" fillType="HERBICIDE" fillLevel="722.326599"/>
-            <unit index="3" fillType="DIESEL" fillLevel="279.677887"/>
-            <unit index="4" fillType="DEF" fillLevel="66.598267"/>
+            <unit index="3" fillType="DIESEL" fillLevel="275.690002"/>
+            <unit index="4" fillType="DEF" fillLevel="67.818733"/>
         </fillUnit>
         <drivable cruiseControl="40.000000"/>
         <attacherJoints comboDirection="-1"/>
@@ -581,38 +581,38 @@
             <globalPositioningSystem guidanceIsActive="false" autoInvertOffset="false" lineDistance="0.000000"/>
         </FS19_guidanceSteering>
     </vehicle>
-    <vehicle id="24" filename="data/objects/pallets/liquidTank/herbicideTank.xml" isAbsolute="true" age="8.000000" price="2400.000000" farmId="2" propertyState="1" operatingTime="0.000000">
-        <component1 position="295.1737 58.4358 443.0599" rotation="-0.0002 -71.5375 0.0002"/>
+    <vehicle id="24" filename="data/objects/pallets/liquidTank/herbicideTank.xml" isAbsolute="true" age="9.000000" price="2400.000000" farmId="2" propertyState="1" operatingTime="0.000000">
+        <component1 position="304.6798 58.4033 422.9200" rotation="-179.7614 -20.3687 -179.1917"/>
         <configuration name="fillUnit" id="1"/>
         <configuration name="design" id="1"/>
         <boughtConfiguration name="fillUnit" id="1"/>
         <boughtConfiguration name="design" id="1"/>
         <washable>
-            <dirtNode amount="0.000177"/>
+            <dirtNode amount="0.002429"/>
         </washable>
         <wearable>
-            <wearNode amount="0.000027"/>
+            <wearNode amount="0.000365"/>
         </wearable>
         <fillUnit>
             <unit index="1" fillType="HERBICIDE" fillLevel="2000.000000"/>
         </fillUnit>
     </vehicle>
-    <vehicle id="25" filename="data/objects/pallets/liquidTank/fertilizerTank.xml" isAbsolute="true" age="8.000000" price="3200.000000" farmId="2" propertyState="1" operatingTime="0.000000">
-        <component1 position="296.3829 58.4358 441.5948" rotation="0.0232 89.7309 0.0231"/>
+    <vehicle id="25" filename="data/objects/pallets/liquidTank/fertilizerTank.xml" isAbsolute="true" age="9.000000" price="3200.000000" farmId="2" propertyState="1" operatingTime="0.000000">
+        <component1 position="296.6422 58.4333 439.2703" rotation="-0.0004 17.3698 -0.2230"/>
         <configuration name="fillUnit" id="1"/>
         <boughtConfiguration name="fillUnit" id="1"/>
         <washable>
-            <dirtNode amount="0.000570"/>
+            <dirtNode amount="0.000737"/>
         </washable>
         <wearable>
-            <wearNode amount="0.000086"/>
+            <wearNode amount="0.000111"/>
         </wearable>
         <fillUnit>
             <unit index="1" fillType="LIQUIDFERTILIZER" fillLevel="1600.000000"/>
         </fillUnit>
     </vehicle>
-    <vehicle id="26" filename="data/vehicles/vaderstad/tempoVTPV8/tempoVTPV8.xml" isAbsolute="true" age="8.000000" price="30000.000000" farmId="2" propertyState="1" operatingTime="5197.657715">
-        <component1 position="-62.8766 67.2754 225.7046" rotation="-179.9997 89.0292 -179.9657"/>
+    <vehicle id="26" filename="data/vehicles/vaderstad/tempoVTPV8/tempoVTPV8.xml" isAbsolute="true" age="9.000000" price="30000.000000" farmId="2" propertyState="1" operatingTime="5197.657715">
+        <component1 position="-62.8759 67.2752 225.7053" rotation="-179.9934 89.0641 -179.9513"/>
         <configuration name="fillUnit" id="1"/>
         <configuration name="wheel" id="1"/>
         <boughtConfiguration name="fillUnit" id="1"/>
@@ -636,10 +636,10 @@
         <ridgeMarker state="0"/>
         <sowingMachine selectedSeedFruitType="MAIZE"/>
     </vehicle>
-    <vehicle id="27" filename="data/vehicles/vaderstad/fh2200/fh2200.xml" isAbsolute="true" age="8.000000" price="8000.000000" farmId="2" propertyState="1" operatingTime="5243.775391">
-        <component1 position="-61.1935 67.4045 225.4676" rotation="-14.3842 -89.0284 0.0100"/>
-        <configuration name="fillUnit" id="1"/>
+    <vehicle id="27" filename="data/vehicles/vaderstad/fh2200/fh2200.xml" isAbsolute="true" age="9.000000" price="8000.000000" farmId="2" propertyState="1" operatingTime="5243.775391">
+        <component1 position="-61.1919 67.4037 225.4674" rotation="-14.2743 -89.0572 -0.0173"/>
         <configuration name="cover" id="1"/>
+        <configuration name="fillUnit" id="1"/>
         <configuration name="fillVolume" id="1"/>
         <boughtConfiguration name="cover" id="1"/>
         <boughtConfiguration name="fillUnit" id="1"/>
@@ -651,15 +651,15 @@
             <wearNode amount="0.151055"/>
         </wearable>
         <attacherJoints comboDirection="-1"/>
-        <foldable foldAnimTime="0.000000"/>
+        <foldable foldAnimTime="1.000000"/>
         <fillUnit>
             <unit index="1" fillType="SEEDS" fillLevel="1731.167114"/>
         </fillUnit>
         <cover state="0"/>
     </vehicle>
-    <vehicle id="28" filename="data/vehicles/horsch/tiger6DT/tiger6DT.xml" isAbsolute="true" age="8.000000" price="39000.000000" farmId="2" propertyState="1" operatingTime="6741.017090">
-        <component1 position="-60.0260 67.5792 193.0074" rotation="-0.2416 87.9186 0.2124"/>
-        <component2 position="-57.3139 68.3042 193.1060" rotation="15.4152 87.9108 0.8946"/>
+    <vehicle id="28" filename="data/vehicles/horsch/tiger6DT/tiger6DT.xml" isAbsolute="true" age="9.000000" price="39000.000000" farmId="2" propertyState="1" operatingTime="6741.017090">
+        <component1 position="-60.0257 67.5808 193.0066" rotation="-0.0357 87.9485 0.3371"/>
+        <component2 position="-57.3125 68.3019 193.1040" rotation="14.2532 87.9545 -0.3493"/>
         <configuration name="folding" id="1"/>
         <configuration name="wheel" id="1"/>
         <boughtConfiguration name="folding" id="1"/>
@@ -679,14 +679,14 @@
         <attacherJoints comboDirection="-1"/>
         <foldable foldAnimTime="1.000000"/>
     </vehicle>
-    <vehicle id="29" filename="data/vehicles/rostselmash/F2650/F2650.xml" isAbsolute="true" age="5.000000" price="320000.000000" farmId="2" propertyState="2" operatingTime="3067.628662">
-        <component1 position="-2.6028 66.9539 139.1086" rotation="-177.8482 -85.1358 -179.9935"/>
-        <component2 position="-1.2624 67.8320 139.2226" rotation="-177.7614 -85.1355 179.9213"/>
+    <vehicle id="29" filename="data/vehicles/rostselmash/F2650/F2650.xml" isAbsolute="true" age="6.000000" price="320000.000000" farmId="2" propertyState="2" operatingTime="5406.548340">
+        <component1 position="-4.4943 68.6107 138.4382" rotation="79.8784 -0.7305 -91.3667"/>
+        <component2 position="-2.9934 68.5850 139.0101" rotation="79.8728 0.2998 -91.5526"/>
         <configuration name="universalPassenger" id="1"/>
-        <configuration name="buyableGPS" id="2"/>
+        <configuration name="motor" id="1"/>
         <configuration name="wheel" id="1"/>
         <configuration name="fillUnit" id="1"/>
-        <configuration name="motor" id="1"/>
+        <configuration name="buyableGPS" id="2"/>
         <boughtConfiguration name="buyableGPS" id="1"/>
         <boughtConfiguration name="buyableGPS" id="2"/>
         <boughtConfiguration name="motor" id="1"/>
@@ -694,48 +694,48 @@
         <boughtConfiguration name="fillUnit" id="1"/>
         <boughtConfiguration name="universalPassenger" id="1"/>
         <washable>
-            <dirtNode amount="0.001995"/>
-            <dirtNode amount="0.001995"/>
-            <dirtNode amount="0.001995"/>
-            <dirtNode amount="0.001995"/>
-            <dirtNode amount="0.001995"/>
+            <dirtNode amount="0.250098"/>
+            <dirtNode amount="0.349928"/>
+            <dirtNode amount="0.349928"/>
+            <dirtNode amount="0.349928"/>
+            <dirtNode amount="0.349928"/>
         </washable>
         <wearable>
-            <wearNode amount="0.064627"/>
+            <wearNode amount="0.111320"/>
         </wearable>
         <fillUnit>
-            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
-            <unit index="2" fillType="DIESEL" fillLevel="1432.010620"/>
-            <unit index="3" fillType="DEF" fillLevel="199.999557"/>
+            <unit index="1" fillType="CHAFF" fillLevel="26.910002"/>
+            <unit index="2" fillType="DIESEL" fillLevel="1373.871094"/>
+            <unit index="3" fillType="DEF" fillLevel="199.329163"/>
         </fillUnit>
-        <drivable cruiseControl="39.000000"/>
+        <drivable cruiseControl="35.000000"/>
         <attacherJoints comboDirection="-1"/>
         <foldable foldAnimTime="0.000000"/>
         <pipe state="1"/>
         <FS19_guidanceSteering>
-            <globalPositioningSystem guidanceIsActive="false" autoInvertOffset="false" lineDistance="11.200000"/>
+            <globalPositioningSystem guidanceIsActive="true" autoInvertOffset="false" lineDistance="11.200000"/>
         </FS19_guidanceSteering>
     </vehicle>
-    <vehicle id="30" filename="data/vehicles/kemper/plus390/plus390.xml" isAbsolute="true" age="5.000000" price="120000.000000" farmId="2" propertyState="2" operatingTime="2890.881104">
-        <component1 position="-6.4617 67.3857 138.7802" rotation="-173.6859 -85.1358 -179.9937"/>
+    <vehicle id="30" filename="data/vehicles/kemper/plus390/plus390.xml" isAbsolute="true" age="6.000000" price="120000.000000" farmId="2" propertyState="2" operatingTime="5229.800781">
+        <component1 position="-8.1854 68.7146 139.6842" rotation="84.0264 -0.7301 -91.3655"/>
         <configuration name="wheel" id="1"/>
         <boughtConfiguration name="wheel" id="1"/>
         <washable>
-            <dirtNode amount="0.001995"/>
+            <dirtNode amount="0.354148"/>
         </washable>
         <wearable>
-            <wearNode amount="0.098611"/>
+            <wearNode amount="0.172476"/>
         </wearable>
         <attacherJoints comboDirection="-1"/>
         <foldable foldAnimTime="1.000000"/>
     </vehicle>
-    <vehicle id="31" filename="data/vehicles/poettinger/poettingerHit1214T/poettingerHit1214T.xml" isAbsolute="true" age="3.000000" price="27000.000000" farmId="2" propertyState="1" operatingTime="1208.823608">
-        <component1 position="-60.7839 67.2840 184.4969" rotation="7.7346 89.5450 6.9500"/>
-        <component2 position="-63.0068 69.0835 184.4810" rotation="98.9393 89.5541 7.1454"/>
-        <component3 position="-61.1057 69.0247 183.6862" rotation="90.1743 -3.3927 -1.8198"/>
-        <component4 position="-60.8874 69.0152 184.0909" rotation="-90.6091 -2.4273 178.2150"/>
-        <component5 position="-61.1046 69.0216 185.3052" rotation="-89.9500 -2.4807 178.1646"/>
-        <component6 position="-61.1066 69.0183 184.9025" rotation="89.4913 -3.3504 -1.7490"/>
+    <vehicle id="31" filename="data/vehicles/poettinger/poettingerHit1214T/poettingerHit1214T.xml" isAbsolute="true" age="4.000000" price="27000.000000" farmId="2" propertyState="1" operatingTime="1208.823608">
+        <component1 position="-60.7838 67.2841 184.4969" rotation="8.1453 89.5441 7.3606"/>
+        <component2 position="-63.0066 69.0835 184.4811" rotation="99.2675 89.5506 7.4746"/>
+        <component3 position="-61.1052 69.0247 183.6882" rotation="90.1515 -3.3929 -1.8133"/>
+        <component4 position="-60.8866 69.0151 184.0946" rotation="-90.4335 -2.4989 178.2485"/>
+        <component5 position="-61.1052 69.0209 185.3041" rotation="-89.9887 -2.5097 178.1590"/>
+        <component6 position="-61.1074 69.0193 184.9001" rotation="89.6808 -3.3690 -1.8037"/>
         <configuration name="wheel" id="1"/>
         <boughtConfiguration name="wheel" id="1"/>
         <washable>
@@ -749,13 +749,13 @@
         <attacherJoints comboDirection="-1"/>
         <foldable foldAnimTime="1.000000"/>
     </vehicle>
-    <vehicle id="32" filename="data/vehicles/lely/hibiscus1515CdProf/hibiscus1515CdProf.xml" isAbsolute="true" age="3.000000" price="62000.000000" farmId="2" propertyState="2" operatingTime="3181.519531">
-        <component1 position="-5.6940 67.0490 144.4023" rotation="-179.9459 -83.3205 179.9893"/>
-        <component2 position="-9.5992 67.4221 143.9445" rotation="-179.5336 -83.3153 179.5759"/>
-        <component3 position="-7.2363 69.2981 145.2079" rotation="-97.2399 3.0127 89.6612"/>
-        <component4 position="-7.0081 69.2969 143.2598" rotation="96.1414 2.9459 -89.6416"/>
-        <component5 position="-2.8626 69.2936 145.2153" rotation="97.2268 0.0016 -89.9572"/>
-        <component6 position="-2.7514 69.2932 144.2652" rotation="-96.1276 0.0089 90.0409"/>
+    <vehicle id="32" filename="data/vehicles/lely/hibiscus1515CdProf/hibiscus1515CdProf.xml" isAbsolute="true" age="4.000000" price="62000.000000" farmId="2" propertyState="2" operatingTime="3181.519531">
+        <component1 position="-5.6988 67.0461 144.4723" rotation="179.4823 -87.1398 -179.4825"/>
+        <component2 position="-9.6255 67.4221 144.2760" rotation="-179.7403 -87.1400 179.7339"/>
+        <component3 position="-7.1824 69.2963 145.3802" rotation="-93.4174 3.0197 89.8193"/>
+        <component4 position="-7.0843 69.2954 143.4190" rotation="92.3128 2.9772 -89.8816"/>
+        <component5 position="-2.8179 69.2887 145.0952" rotation="93.4106 -0.0136 -90.0012"/>
+        <component6 position="-2.7701 69.2881 144.1391" rotation="-92.3094 -0.0127 89.9996"/>
         <configuration name="wheel" id="1"/>
         <boughtConfiguration name="wheel" id="1"/>
         <washable>
@@ -770,38 +770,38 @@
         <foldable foldAnimTime="1.000000"/>
         <workMode state="1"/>
     </vehicle>
-    <vehicle id="33" filename="data/vehicles/stoll/stollToolManureGrabFork/stollToolManureGrabFork.xml" isAbsolute="true" age="2.000000" price="2300.000000" farmId="2" propertyState="1" operatingTime="1720.083008">
-        <component1 position="-18.4379 67.2906 253.3717" rotation="-35.4620 -2.1632 0.0683"/>
-        <component2 position="-18.4167 67.7587 252.7970" rotation="-35.3321 -2.1587 0.0712"/>
-        <configuration name="baseMaterial" id="23"/>
-        <configuration name="fillUnit" id="1"/>
+    <vehicle id="33" filename="data/vehicles/stoll/stollToolManureGrabFork/stollToolManureGrabFork.xml" isAbsolute="true" age="3.000000" price="2300.000000" farmId="2" propertyState="1" operatingTime="2127.975586">
+        <component1 position="-22.9662 67.0310 253.4357" rotation="-0.3369 1.5723 -0.0451"/>
+        <component2 position="-22.9711 67.7447 253.2349" rotation="-0.1962 1.5727 -0.0463"/>
         <configuration name="fillVolume" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="baseMaterial" id="23"/>
         <boughtConfiguration name="baseMaterial" id="1"/>
         <boughtConfiguration name="baseMaterial" id="23"/>
         <boughtConfiguration name="fillUnit" id="1"/>
         <boughtConfiguration name="fillVolume" id="1"/>
         <washable>
-            <dirtNode amount="0.122575"/>
+            <dirtNode amount="0.135830"/>
         </washable>
         <wearable>
-            <wearNode amount="0.031393"/>
+            <wearNode amount="0.034625"/>
         </wearable>
         <cylindered>
             <movingTool rotation="0.000000"/>
         </cylindered>
         <attacherJoints comboDirection="-1"/>
-        <foldable foldAnimTime="1.000000"/>
+        <foldable foldAnimTime="0.000000"/>
         <fillUnit>
             <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
         </fillUnit>
     </vehicle>
-    <vehicle id="34" filename="data/vehicles/johnDeere/series6R/series6R.xml" isAbsolute="true" age="19.000000" price="240000.000000" farmId="2" propertyState="1" operatingTime="39826.878906">
-        <component1 position="5.1707 66.9006 257.5451" rotation="178.6364 9.1023 179.9503"/>
-        <component2 position="5.3934 67.7775 256.1602" rotation="178.6286 9.1025 179.9620"/>
+    <vehicle id="34" filename="data/vehicles/johnDeere/series6R/series6R.xml" isAbsolute="true" age="20.000000" price="240000.000000" farmId="2" propertyState="1" operatingTime="43339.648438">
+        <component1 position="-19.9724 66.9841 249.0625" rotation="-0.0857 -2.0595 0.0004"/>
+        <component2 position="-20.0235 67.8297 250.4832" rotation="-0.0804 -2.0595 0.0031"/>
         <configuration name="buyableGPS" id="2"/>
-        <configuration name="motor" id="2"/>
-        <configuration name="universalPassenger" id="1"/>
         <configuration name="wheel" id="6"/>
+        <configuration name="universalPassenger" id="1"/>
+        <configuration name="motor" id="2"/>
         <configuration name="fillUnit" id="1"/>
         <configuration name="frontloader" id="2"/>
         <boughtConfiguration name="buyableGPS" id="1"/>
@@ -816,27 +816,27 @@
         <boughtConfiguration name="frontloader" id="1"/>
         <boughtConfiguration name="frontloader" id="2"/>
         <washable>
-            <dirtNode amount="0.201863"/>
-            <dirtNode amount="0.268324"/>
-            <dirtNode amount="0.218537"/>
-            <dirtNode amount="0.287283"/>
-            <dirtNode amount="0.258508"/>
+            <dirtNode amount="0.411545"/>
+            <dirtNode amount="0.349741"/>
+            <dirtNode amount="0.349898"/>
+            <dirtNode amount="0.349923"/>
+            <dirtNode amount="0.349879"/>
         </washable>
         <wearable>
-            <wearNode amount="0.146685"/>
+            <wearNode amount="0.186000"/>
         </wearable>
         <fillUnit>
-            <unit index="1" fillType="DIESEL" fillLevel="100.842979"/>
-            <unit index="2" fillType="AIR" fillLevel="2900.456055"/>
+            <unit index="1" fillType="DIESEL" fillLevel="459.173492"/>
+            <unit index="2" fillType="AIR" fillLevel="3048.113281"/>
         </fillUnit>
-        <drivable cruiseControl="10.000000"/>
+        <drivable cruiseControl="13.000000"/>
         <attacherJoints comboDirection="-1"/>
         <FS19_guidanceSteering>
-            <globalPositioningSystem guidanceIsActive="false" autoInvertOffset="false" lineDistance="17.000000"/>
+            <globalPositioningSystem guidanceIsActive="false" autoInvertOffset="false" lineDistance="18.000000"/>
         </FS19_guidanceSteering>
     </vehicle>
-    <vehicle id="35" filename="data/vehicles/bredal/K165/K165.xml" isAbsolute="true" age="0.000000" price="75000.000000" farmId="2" propertyState="2" operatingTime="661.973938">
-        <component1 position="-60.2313 67.3106 169.9917" rotation="-1.4703 86.4492 -1.2077"/>
+    <vehicle id="35" filename="data/vehicles/bredal/K165/K165.xml" isAbsolute="true" age="1.000000" price="75000.000000" farmId="2" propertyState="2" operatingTime="788.856201">
+        <component1 position="-57.2118 67.3106 171.8717" rotation="-0.8874 83.8897 -0.6280"/>
         <configuration name="cover" id="1"/>
         <configuration name="fillVolume" id="1"/>
         <configuration name="wheel" id="1"/>
@@ -849,14 +849,14 @@
         <boughtConfiguration name="folding" id="1"/>
         <boughtConfiguration name="folding" id="2"/>
         <washable>
-            <dirtNode amount="0.002825"/>
-            <dirtNode amount="0.002825"/>
-            <dirtNode amount="0.002825"/>
-            <dirtNode amount="0.002825"/>
-            <dirtNode amount="0.002825"/>
+            <dirtNode amount="0.012124"/>
+            <dirtNode amount="0.012124"/>
+            <dirtNode amount="0.012124"/>
+            <dirtNode amount="0.012124"/>
+            <dirtNode amount="0.012124"/>
         </washable>
         <wearable>
-            <wearNode amount="0.034109"/>
+            <wearNode amount="0.035853"/>
         </wearable>
         <attacherJoints comboDirection="-1"/>
         <foldable foldAnimTime="1.000000"/>
@@ -864,13 +864,13 @@
             <unit index="1" fillType="LIME" fillLevel="633.365295"/>
         </fillUnit>
     </vehicle>
-    <vehicle id="36" filename="data/vehicles/johnDeere/series6R/series6R.xml" isAbsolute="true" age="14.000000" price="255000.000000" farmId="2" propertyState="1" operatingTime="30350.128906">
-        <component1 position="-7.6947 67.0318 150.5942" rotation="179.9199 89.2569 179.9893"/>
-        <component2 position="-6.2728 67.8770 150.5758" rotation="179.7688 89.2569 179.8434"/>
+    <vehicle id="36" filename="data/vehicles/johnDeere/series6R/series6R.xml" isAbsolute="true" age="15.000000" price="255000.000000" farmId="2" propertyState="1" operatingTime="33438.304688">
+        <component1 position="-260.0866 68.4174 -437.9305" rotation="0.4388 -3.9524 2.6976"/>
+        <component2 position="-260.2244 69.2444 -436.5046" rotation="0.4313 -3.9522 2.6603"/>
         <configuration name="buyableGPS" id="2"/>
-        <configuration name="wheel" id="2"/>
-        <configuration name="universalPassenger" id="1"/>
         <configuration name="motor" id="2"/>
+        <configuration name="universalPassenger" id="1"/>
+        <configuration name="wheel" id="2"/>
         <configuration name="fillUnit" id="1"/>
         <configuration name="frontloader" id="2"/>
         <boughtConfiguration name="buyableGPS" id="1"/>
@@ -884,27 +884,27 @@
         <boughtConfiguration name="frontloader" id="1"/>
         <boughtConfiguration name="frontloader" id="2"/>
         <washable>
-            <dirtNode amount="0.046286"/>
-            <dirtNode amount="0.349622"/>
-            <dirtNode amount="0.349848"/>
-            <dirtNode amount="0.349870"/>
-            <dirtNode amount="0.349920"/>
+            <dirtNode amount="0.222535"/>
+            <dirtNode amount="0.895964"/>
+            <dirtNode amount="0.894021"/>
+            <dirtNode amount="0.902710"/>
+            <dirtNode amount="0.898012"/>
         </washable>
         <wearable>
-            <wearNode amount="0.090752"/>
+            <wearNode amount="0.150756"/>
         </wearable>
         <fillUnit>
-            <unit index="1" fillType="DIESEL" fillLevel="180.215790"/>
-            <unit index="2" fillType="AIR" fillLevel="3660.961426"/>
+            <unit index="1" fillType="DIESEL" fillLevel="455.613739"/>
+            <unit index="2" fillType="AIR" fillLevel="2318.900635"/>
         </fillUnit>
-        <drivable cruiseControl="20.000000"/>
+        <drivable cruiseControl="10.000000"/>
         <attacherJoints comboDirection="-1"/>
         <FS19_guidanceSteering>
             <globalPositioningSystem guidanceIsActive="false" autoInvertOffset="false" lineDistance="17.000000"/>
         </FS19_guidanceSteering>
     </vehicle>
-    <vehicle id="37" filename="data/objects/bigBagContainer/bigBagContainerSeeds.xml" isAbsolute="true" age="0.000000" price="900.000000" farmId="2" propertyState="1" operatingTime="0.000000">
-        <component1 position="295.0003 58.4280 460.9998" rotation="86.9278 -89.7428 -86.7389"/>
+    <vehicle id="37" filename="data/objects/bigBagContainer/bigBagContainerSeeds.xml" isAbsolute="true" age="1.000000" price="900.000000" farmId="2" propertyState="1" operatingTime="0.000000">
+        <component1 position="295.0004 58.4280 460.9996" rotation="88.4678 -89.1082 -88.9138"/>
         <configuration name="fillUnit" id="1"/>
         <configuration name="design" id="1"/>
         <boughtConfiguration name="fillUnit" id="1"/>
@@ -919,24 +919,24 @@
             <unit index="1" fillType="SEEDS" fillLevel="1000.000000"/>
         </fillUnit>
     </vehicle>
-    <vehicle id="38" filename="data/objects/bigBagContainer/bigBagContainerSeeds.xml" isAbsolute="true" age="0.000000" price="900.000000" farmId="2" propertyState="1" operatingTime="0.000000">
-        <component1 position="295.0001 58.4319 459.0000" rotation="0.2290 -90.0000 0.0000"/>
+    <vehicle id="38" filename="data/objects/bigBagContainer/bigBagContainerSeeds.xml" isAbsolute="true" age="1.000000" price="900.000000" farmId="2" propertyState="1" operatingTime="0.000000">
+        <component1 position="295.4702 58.4338 459.0849" rotation="-0.0054 -86.6799 0.2205"/>
         <configuration name="fillUnit" id="1"/>
         <configuration name="design" id="1"/>
         <boughtConfiguration name="fillUnit" id="1"/>
         <boughtConfiguration name="design" id="1"/>
         <washable>
-            <dirtNode amount="0.000034"/>
+            <dirtNode amount="0.000079"/>
         </washable>
         <wearable>
-            <wearNode amount="0.000005"/>
+            <wearNode amount="0.000012"/>
         </wearable>
         <fillUnit>
             <unit index="1" fillType="SEEDS" fillLevel="460.835052"/>
         </fillUnit>
     </vehicle>
-    <vehicle id="39" filename="data/objects/bigBagContainer/bigBagContainerFertilizer.xml" isAbsolute="true" age="0.000000" price="1920.000000" farmId="2" propertyState="1" operatingTime="0.000000">
-        <component1 position="-15.3411 67.0380 279.7491" rotation="-32.1856 88.5408 -31.8702"/>
+    <vehicle id="39" filename="data/objects/bigBagContainer/bigBagContainerFertilizer.xml" isAbsolute="true" age="1.000000" price="1920.000000" farmId="2" propertyState="1" operatingTime="0.000000">
+        <component1 position="-15.3412 67.0380 279.7492" rotation="-31.4677 88.5532 -31.1257"/>
         <configuration name="fillUnit" id="1"/>
         <boughtConfiguration name="fillUnit" id="1"/>
         <washable>
@@ -949,32 +949,71 @@
             <unit index="1" fillType="FERTILIZER" fillLevel="208.603302"/>
         </fillUnit>
     </vehicle>
-    <vehicle id="40" filename="data/objects/pallets/liquidTank/fertilizerTank.xml" isAbsolute="true" age="0.000000" price="3200.000000" farmId="2" propertyState="1" operatingTime="0.000000">
-        <component1 position="-15.9574 67.0506 269.9070" rotation="-0.0518 89.6019 -0.0519"/>
+    <vehicle id="40" filename="data/objects/pallets/liquidTank/fertilizerTank.xml" isAbsolute="true" age="1.000000" price="3200.000000" farmId="2" propertyState="1" operatingTime="0.000000">
+        <component1 position="-53.2650 67.1516 140.0515" rotation="-179.9931 2.9546 -179.9947"/>
         <configuration name="fillUnit" id="1"/>
         <boughtConfiguration name="fillUnit" id="1"/>
         <washable>
-            <dirtNode amount="0.000153"/>
+            <dirtNode amount="0.007833"/>
         </washable>
         <wearable>
-            <wearNode amount="0.000023"/>
+            <wearNode amount="0.001175"/>
         </wearable>
         <fillUnit>
             <unit index="1" fillType="LIQUIDFERTILIZER" fillLevel="2000.000000"/>
         </fillUnit>
     </vehicle>
-    <vehicle id="41" filename="data/objects/pallets/liquidTank/fertilizerTank.xml" isAbsolute="true" age="0.000000" price="3200.000000" farmId="2" propertyState="1" operatingTime="0.000000">
-        <component1 position="-16.1905 67.0506 268.3852" rotation="179.9998 0.9754 -179.9998"/>
+    <vehicle id="41" filename="data/objects/pallets/liquidTank/fertilizerTank.xml" isAbsolute="true" age="1.000000" price="3200.000000" farmId="2" propertyState="1" operatingTime="0.000000">
+        <component1 position="-54.7768 67.1517 139.9853" rotation="0.0004 88.6620 0.0004"/>
         <configuration name="fillUnit" id="1"/>
         <boughtConfiguration name="fillUnit" id="1"/>
         <washable>
-            <dirtNode amount="0.000201"/>
+            <dirtNode amount="0.007382"/>
         </washable>
         <wearable>
-            <wearNode amount="0.000030"/>
+            <wearNode amount="0.001107"/>
         </wearable>
         <fillUnit>
             <unit index="1" fillType="LIQUIDFERTILIZER" fillLevel="398.755798"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle id="42" filename="data/vehicles/stoll/stollToolBaleFork/stollToolBaleFork.xml" isAbsolute="true" age="0.000000" price="600.000000" farmId="2" propertyState="1" operatingTime="1221.275146">
+        <component1 position="-19.9068 67.2128 253.4533" rotation="-17.5641 1.4495 -0.0345"/>
+        <configuration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <washable>
+            <dirtNode amount="0.082916"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.015547"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+    </vehicle>
+    <vehicle id="43" filename="data/vehicles/lizard/mks8/mks8.xml" isAbsolute="true" age="0.000000" price="25000.000000" farmId="2" propertyState="1" operatingTime="282.398102">
+        <component1 position="-67.8186 70.5738 17.7217" rotation="-179.9388 -20.8180 179.9161"/>
+        <component2 position="-68.4012 71.4676 16.2928" rotation="-179.9389 18.1602 179.9569"/>
+        <component3 position="-68.0379 71.4439 15.1849" rotation="-164.9319 18.1598 179.9577"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <washable>
+            <dirtNode amount="0.022523"/>
+            <dirtNode amount="0.022523"/>
+            <dirtNode amount="0.022523"/>
+            <dirtNode amount="0.022523"/>
+            <dirtNode amount="0.022523"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.004223"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
         </fillUnit>
     </vehicle>
     <attachments rootVehicleId="1">
@@ -992,16 +1031,19 @@
     <attachments rootVehicleId="5">
         <attachment attachmentId="6" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
     </attachments>
-    <attachments rootVehicleId="14">
-        <attachment attachmentId="20" inputJointDescIndex="2" jointIndex="1" moveDown="false"/>
+    <attachments rootVehicleId="15">
+        <attachment attachmentId="11" inputJointDescIndex="1" jointIndex="4" moveDown="false"/>
     </attachments>
     <attachments rootVehicleId="16">
-        <attachment attachmentId="33" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
+        <attachment attachmentId="42" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
+    </attachments>
+    <attachments rootVehicleId="21">
+        <attachment attachmentId="22" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
     </attachments>
     <attachments rootVehicleId="29">
         <attachment attachmentId="30" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
     </attachments>
-    <attachments rootVehicleId="34">
-        <attachment attachmentId="11" inputJointDescIndex="1" jointIndex="4" moveDown="false"/>
+    <attachments rootVehicleId="36">
+        <attachment attachmentId="10" inputJointDescIndex="1" jointIndex="4" moveDown="false"/>
     </attachments>
 </vehicles>
